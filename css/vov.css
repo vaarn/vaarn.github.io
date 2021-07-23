@@ -1,0 +1,11 @@
+@font-face { font-family: 'GrossNet'; src:url('../fonts/GrossNet.ttf.woff') format('woff'), url('../fonts/GrossNet.ttf.svg#GrossNet') format('svg'), url('../fonts/GrossNet.ttf.eot'), url('../fonts/GrossNet.ttf.eot?#iefix') format('embedded-opentype'); font-weight: normal; font-style: normal; }
+
+.app-name-link { font-family: 'GrossNet'; font-size: 26px;}
+
+h1 { font-family: "Anonymous Pro"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+h2 { font-family: "Anonymous Pro"; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20.4px; }
+h3 { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+p { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+li { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+blockquote { font-family: "Anonymous Pro"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+pre { font-family: "Anonymous Pro"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
