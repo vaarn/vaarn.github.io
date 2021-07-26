@@ -2,10 +2,16 @@
 
 .app-name-link { font-family: 'GrossNet'; font-size: 26px;}
 
-h1 { font-family: "Anonymous Pro"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
-h2 { font-family: "Anonymous Pro"; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20.4px; }
-h3 { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
-p { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
-li { font-family: "Anonymous Pro"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
-blockquote { font-family: "Anonymous Pro"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
-pre { font-family: "Anonymous Pro"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+body { font-family: "Anonymous Pro"; font-style: normal; font-variant: normal; }
+
+blockquote { font-size: 21px; font-weight: 400; line-height: 30px; }
+h1 { font-size: 24px;font-weight: 700; line-height: 26.4px; }
+h2 { font-size: 20px;font-weight: 700; line-height: 20.4px; }
+h3 { font-size: 14px;font-weight: 700; line-height: 15.4px; }
+li { font-size: 14px; font-weight: 400; line-height: 20px; }
+p { font-size: 14px; font-weight: 400; line-height: 20px; }
+pre { font-size: 13px; font-weight: 400; line-height: 18.5714px; }
+
+table { display: table; width: 100%; margin-bottom: 2rem}
+th { text-transform: uppercase; }
+td, th { padding: 0.25rem; text-align: left; border: 1px solid #999 }
