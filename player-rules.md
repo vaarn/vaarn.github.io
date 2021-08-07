@@ -1,20 +1,20 @@
 # What is Vaarn?
 
-Vaarn is a science-fantasy RPG setting. It draws inspiration from books like Dune, Hyperion, The Book of the New Sun, and the graphic novels of Moebius. If you haven’t read those that’s totally fine, it will make my theft seem original.
+Vaarn is a science-fantasy RPG setting. It draws inspiration from novels like Dune, Hyperion, The Book of the New Sun, and the graphic novels of Moebius. If you haven’t read those that’s totally fine, it will make my theft seem original.
 
-Basically the sun is going out, it’s the end of history, and you are combing through the wreckage of the unimaginable eras of the future. Everything that could possibly happen has already happened and faded to dust. I see Vaarn as an ‘anti-canon’ setting where nobody can agree on the world’s history and ultimately it probably doesn't matter. However, there are a few facts about Vaarn that are known for sure:
+Basically the sun is going out, it’s the end of history, and your characters are combing through the wreckage of the unimaginable eras of the future. Everything that could possibly happen has already happened and faded to dust. Vaarn is an anti-canon setting, where nobody can agree on the world’s history and ultimately it doesn't matter. However, there are some facts about Vaarn that are known for sure:
 
 1. Vaarn is a sky-blue desert littered with the ruins of the far future.  
-2. Vaarn is inhabited by humans, mutants, robots, talking animals, and fungus-men.  
-3. The sun is a dying red giant. It won’t go out in a human lifetime, but AIs have reason to be concerned.  
+2. Vaarn is inhabited mainly by true-kin (humans), cacogen (mutants), synths (robots), newbeasts (sapient animals), and mycromorphs (fungus-men).  
+3. The sun is a dying red giant. It won’t go out in a human lifetime, but synths have reason to be concerned.  
 4. Vaarn is both archaic and futuristic. Think sword fights inside the wrecked husks of ancient spaceships.  
-5. There’s a place to the south called the New Empire. Hegemony. It’s Theoretically like the Roman Hegemony rules Vaarn, but they have little presence besides a few fortified border towns.  
-6. Nanomachines are inside everything and it’s normal to see wild animals with cameras growing out of their flesh.  
-7. Nobody can agree on the chronology, but there was a Great Collapse, which destroyed most of human civilisation.  
-8. Before the Collapse came the Autarchy, a planet-wide dictatorship enacted by a lineage of genetically modified God-kings.  
-9. Before the reign of the Autarchs, the Urth was ruled by AIs called the Titans. Something happened to them and they were overthrown, but the details are lost to history.  
+5. There’s a place to the south called the New Hegemony. It’s like the Roman Empire. Theoretically the Hegemony rules Vaarn, but they have little presence besides a few fortified border towns.  
+6. Nanomachines are inside everything, and it’s normal to see wild animals with cameras growing out of their flesh or humans with parasitic cyborg limbs.  
+7. There was a Great Collapse, which destroyed most of human civilisation.  
+8. Before the Collapse, humanity was ruled by the Autarchy, a planet-wide dictatorship enacted by a lineage of genetically modified God-kings.  
+9. Before the reign of the Autarchs, the Urth was ruled by AIs called the Titans. They were overthrown, but the details of that conflict are lost to history.  
 
-Beyond that, everything is vague. Maybe the Autarchs ruled alongside the Titans? Who knows? Nobody you meet can tell you for certain...
+Finally and most importantly, Vaarn is never the same twice. The fall of the dice determines how your own version of the setting develops. Readers are encouraged to build on this material and make Vaarn their own.
 
 # Creating Characters
 1. Player Characters (__PCs__) have six abilities: Strength, Dexterity, Constitution, Intellect, Psyche, and Ego. Each ability has two related values: a __defence__ and a __bonus__. When creating a PC, roll 3d6 for each of their abilities, in order. The lowest of the three dice on each roll is the ability's bonus. Add 10 to find its defence. After you've finished rolling, you may swap the scores of two abilities.  Example: You roll a 2, 2, and 6 for Strength. The lowest die is a 2, so your PC's Strength has a bonus of +2 and a defence of 12. Repeat this process for the rest of the abilities.
@@ -478,6 +478,138 @@ In Vaarn many things have intertwined, and much that was once the province of ma
 __TWICE BORN__ - You are formed from fungus and the corpse of a human. You may make INT saves to recall information that your original body knew. This might include information that has otherwise been lost during the Great Collapse.  
 
 __DETRITIVOR__ - You can consume organic matter in any state of decay and gain nourishment from it. You heal double HP from Short Rests if the meal you eat is rotting.
+
+## Faa Nomad
+_Believed by some to be the children of Vaa, the Blue Goddess of Empty Spaces. The Faa are known throughout Vaarn for their resourcefullness, their ability to survive without drinking water, and the blue colour of their skin, which can vary from deep indigo to blaring cyan._
+
+_The Faa usually travel in family groups or larger clans, but others are solitary, seeking danger or enlightenment in the furthest corners of the desert._
+
+<table>
+<thead><tr><th>d20</th><th>Your Blue</th><th>Face</th><th>Body</th><th>Hair</th><th>Name</th><th>Demeanour</th><th>Why did you leave your clan?</th><th>quirk</th></tr><thead>
+<tr><td>1</td><td>Azure</td><td>Lively</td><td>Tall</td><td>None</td><td>Kotesh</td><td>Abrasive</td><td rowspan="2">Psychedelic Vision</td><td>Parasitic Twin In Chest</td></tr>
+<tr><td>2</td><td>Cerulean</td><td>Cruel</td><td>Short</td><td>Cropped</td><td>Lakshi</td><td>Arrogant</td><td>Gambling Obsessive</td></tr>
+<tr><td>3</td><td>Navy</td><td>Wrinkled</td><td>Frail</td><td>Spiky</td><td>Atric</td><td>Assertive</td><td rowspan="2">Stolen by Slavers as a Child</td><td>Insomniac</td></tr>
+<tr><td>4</td><td>Cobalt</td><td>Ritual Scars</td><td>Muscular</td><td>Coarse</td><td>Caroum</td><td>Charismatic</td><td>Wooden Teeth</td></tr>
+<tr><td>5</td><td>Indigo</td><td>Battle Scars</td><td>Fat</td><td>Thick</td><td>Yanne</td><td>Daring</td><td rowspan="2">Rite of Passage;<br />Must Return with Wisdom</td><td>Devoutly Religious</td></tr>
+<tr><td>6</td><td>Sapphire</td><td>Frowning</td><td>Thin</td><td>Balding</td><td>Uvi</td><td>Decadent</td><td>Ritual Scarring</td></tr>
+<tr><td>7</td><td>Teal</td><td>Tattooed</td><td>Skeletal</td><td>Silky</td><td>Pidash</td><td>Eloquent</td><td rowspan="2">Unhappy Love Affair</td><td>Heavily Tattooed</td></tr>
+<tr><td>8</td><td>Ultramarine</td><td>Wide</td><td>Hunched</td><td>Topknot</td><td>Ravat</td><td>Extravagant</td><td>Unlucky In Love</td></tr>
+<tr><td>9</td><td>Turquoise</td><td>Narrow</td><td>Lopsided</td><td>Nearly Black</td><td>Ayuki</td><td>Hedonistic</td><td rowspan="2">Conflict With Leaders</td><td>Awful Cook</td></tr>
+<tr><td>10</td><td>Cyan</td><td>Sharp</td><td>Lithe</td><td>Stark White</td><td>Kuraso</td><td>Impulsive</td><td>One Eye</td></tr>
+<tr><td>11</td><td>Bruise</td><td>Hungry</td><td>Gnarled</td><td>Cloud-like</td><td>Esuk</td><td>Irritable</td><td rowspan="2">Believed Cursed;<br />Ostracised</td><td>Glass Teeth</td></tr>
+<tr><td>12</td><td>Petrol</td><td>Haunted</td><td>Squat</td><td>Tonsured</td><td>Zenji</td><td>Melancholy</td><td>Heavy Drinker</td></tr>
+<tr><td>13</td><td>Midnight</td><td>Jolly</td><td>Bloated</td><td>Fading to Purple</td><td>Calban</td><td>Paranoid</td><td rowspan="2">Lost Them In Sandstorm</td><td>Infamous Seducer</td></tr>
+<tr><td>14</td><td>Cornflower</td><td>Round</td><td>Gangly</td><td>Heavily Oiled</td><td>Paquiel</td><td>Quiet</td><td>Scorpion Expert</td></tr>
+<tr><td>15</td><td>Lapis Lazuli</td><td>Mournful</td><td>Towering</td><td>Wispy</td><td>Serrat</td><td>Religious</td><td rowspan="2">Estranged From Family</td><td>Third Eye (Tattoo)</td></tr>
+<tr><td>16</td><td>Periwinkle</td><td>Child-like</td><td>Child-like</td><td>Burnt</td><td>Emila</td><td>Romantic</td><td>Third Eye (Real)</td></tr>
+<tr><td>17</td><td>Electric</td><td>Peaceful</td><td>Gigantic</td><td>Braided</td><td>Dolf</td><td>Scholarly</td><td rowspan="2">Seeking Vengeance</td><td>Cybernetic Limb</td></tr>
+<tr><td>18</td><td>Aquamarine</td><td>Sleepy</td><td>Wiry</td><td>Greasy</td><td>Ceilo</td><td>Stern</td><td>Plagued by Nightmares</td></tr>
+<tr><td>19</td><td>Royal</td><td>Branded</td><td>Stout</td><td>Matted</td><td>Immacula</td><td>Vain</td><td rowspan="2">Shamed Clan;<br />Must Make Amends</td><td>Lovely Singing Voice</td></tr>
+<tr><td>20</td><td>Glaucous</td><td>Pox-marked</td><td>Injured</td><td>Outrageous</td><td>Yudhi</td><td>Volatile</td><td>Notorious Amongst Faa</td></tr>
+</table>
+
+### Special Rules
+__Desert Metabolism__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
+__Worm Wise__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
+
+## Cacklemaw Exile
+_The Cacklemaw are known throughout Vaarn as the most irritating, destructive, argumentative, vicious, foul-smelling, and fundamentally nasty creatures that walk the surface of the Urth._  
+
+_Try to imagine, then, how badly behaved a Cacklemaw must be before the other Cacklemaw decide they no longer wish to associate with her._  
+
+<table>
+<thead><tr><th>d20</th><th>Pelt</th><th>Teeth</th><th>Laugh</th><th>Attire</th><th>Name</th><th>Demeanour</th><th>Why Were You Exiled?</th><th>What Makes You Laugh The Most?</th><tr></thead>
+<tr><td>1</td><td>Dark and Coarse</td><td>Yellow Daggers</td><td>Raucous</td><td>Human-Leather Jacket</td><td>Bawlbray</td><td>Cringing</td><td rowspan="2">Born a Runt</td><td>Blood</td></tr>
+<tr><td>2</td><td>Pale and Downy</td><td>Little Brown Nubs</td><td>Whispery</td><td>Translucent Plastic</td><td>Bunny</td><td>Jittery</td><td>Guts</td></tr>
+<tr><td>3</td><td>Riven with Scars</td><td>White and Gleaming</td><td>Machine-gun Barks</td><td>Greasy Rags</td><td>Darling</td><td>Sly</td><td rowspan="2">Showed Mercy</td><td>Pain</td></tr>
+<tr><td>4</td><td>Greasy Spikes</td><td>Mostly Rotted Out</td><td>Rusty Hinge</td><td>Mock Wedding Clothes</td><td>Domino</td><td>Resentful</td><td>Beheadings</td></tr>
+<tr><td>5</td><td>Brindled</td><td>One Gold Tooth</td><td>Whooping</td><td>Gaudy Shawl</td><td>Fang</td><td>Judgemental</td><td rowspan="2">Laugh Too Annoying</td><td>Hangings</td></tr>
+<tr><td>6</td><td>Mostly Burnt Off</td><td>Hooked and Grimy</td><td>Coughing</td><td>Mock Religious Attire</td><td>Gidge</td><td>Pious</td><td>Drownings</td></tr>
+<tr><td>7</td><td>Long and Silky</td><td>Chrome Implants</td><td>Hissing Snicker</td><td>Unsettling Mask</td><td>Grot</td><td>Greedy</td><td rowspan="2">Cowardice</td><td>Begging</td></tr>
+<tr><td>8</td><td>Short and Scratchy</td><td>Needle Thin</td><td>Breathless</td><td>Harlequin's Motley</td><td>Jigsore</td><td>Belligerent</td><td>Pleading</td></tr>
+<tr><td>9</td><td>Purest White</td><td>Triple Row, Like a Shark</td><td>Booming</td><td>Bloodstained Bandages</td><td>Katanary</td><td>Sinister</td><td rowspan="2">Asked Questions</td><td>Weeping</td></tr>
+<tr><td>10</td><td>Mottled Brown</td><td>Diamond Hard Gnashers</td><td>Hoarse and Strangled</td><td>Sun-faded Scraps</td><td>Longsnout</td><td>Repellent</td><td>Arson</td></tr>
+<tr><td>11</td><td>Regal Silver</td><td>Blunt and Black</td><td>Maddening Gasps</td><td>Plastic Bags</td><td>Nadir</td><td>Jovial</td><td rowspan="2">Insubordination</td><td>Larceny</td></tr>
+<tr><td>12</td><td>Concrete Grey</td><td>Just One Left</td><td>Wet Chuckles</td><td>Iridescent Chains</td><td>Natcher</td><td>Bold</td><td>Vandalism</td></tr>
+<tr><td>13</td><td>Curly and Rancid</td><td>Crooked Orange Spikes</td><td>Turns into Hiccups</td><td>Purple Silks</td><td>Palecrow</td><td>Grouchy</td><td rowspan="2">Fought Alongside Humans</td><td>Screams</td></tr>
+<tr><td>14</td><td>Dyed Blood Red</td><td>Engraved with Pictures</td><td>Starts Quiet and Rises</td><td>Mock Hegemony Uniform</td><td>Pinkeye</td><td>Treacherous</td><td>Gunfights</td></tr>
+<tr><td>15</td><td>Shaved into Stripes</td><td>Full of Holes</td><td>Joyless Giggling</td><td>A Rival's Skin</td><td>Sabbat</td><td>Childish</td><td rowspan="2">Desecrated Ritual Puppet</td><td>Speeding</td></tr>
+<tr><td>16</td><td>Midnight Black</td><td>Huge, Tusk-like</td><td>Pained</td><td>Spiked Shoulder-pads</td><td>Snoutrout</td><td>Extravagant</td><td>Explosions</td></tr>
+<tr><td>17</td><td>Muddy Brown</td><td>Giant Underbite</td><td>Cold and Malevolent</td><td>Soiled Hazmat Gear</td><td>Sweetmeat</td><td>Volatile</td><td rowspan="2">Shared Clan Secret</td><td>Throttling</td></tr>
+<tr><td>18</td><td>Crawling with Parasites</td><td>Rediculous Overbite</td><td>Childish and Cruel</td><td>Peacock-Feather Cape</td><td>Vileglory</td><td>Gullible</td><td>Biting People</td></tr>
+<tr><td>19</td><td>Thundercloud Blue</td><td>Canted and Greying</td><td>Could Wake the Dead</td><td>Lizard-Skin Suit</td><td>Wetshriek</td><td>Fickle</td><td rowspan="2">Rediculous Petty Reason</td><td>Chemical Warfare</td></tr>
+<tr><td>20</td><td>Tigerish Stripes</td><td>Weirdly Human</td><td>Soundless but Horrid</td><td>Nothing but Knives</td><td>Zef</td><td>Calculating</td><td>Puns</td></tr>
+</table>
+
+### Special Rules
+__No Quarter__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
+__Biter__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
+
+## Lithling
+_Strange beings even by the standards of Vaarn, the Lithling are a slow, solemn species with a silicon-based biology that surely originates in a solar system far away from Urth. They are solitary by nature, concerned mainly with the opinions of other Lithling and the esoteric academic studies they devote their long lives to._  
+
+_Adult lithling cannot repair their bodies when they have been injured, and so, although immortal by human standards, the creatures must treat every wound suffered with utmost severity._  
+
+<table>
+<thead><tr><th>d20</th><th>Size</th><th>Body</th><th>Head Carving</th><th>Hue</th><th>Name</th><th>Manner</th><th>Field of Study</th><th>Quirk</th><tr></thead>
+<tr><td>1</td><td rowspan="5">Child-like</td><td>Dainty</td><td>Sphere</td><td>Rose</td><td>Aikin</td><td>Logical</td><td>Shellfish</td><td>Engraved with Poem</td></tr>
+<tr><td>2</td><td>Tiny</td><td>Owl</td><td>Onyx</td><td>Antimony</td><td>Obsessive</td><td>Ants</td><td>Engraved with Curse</td></tr>
+<tr><td>3</td><td>Boxy</td><td>Serpent</td><td>Azure</td><td>Bentor</td><td>Naive</td><td>Spirals</td><td>Engraved with Map</td></tr>
+<tr><td>4</td><td>Voluptuous</td><td>Oxen</td><td>Silver</td><td>Brokenhill</td><td>Abrasive</td><td>Cacti</td><td>Engraved with Equation</td></tr>
+<tr><td>5</td><td>Squat</td><td>Horse</td><td>Indigo</td><td>Cabalzar</td><td>Forgetful</td><td>Birdsong</td><td>Plants Grow From Head</td></tr>
+<tr><td>6</td><td rowspan="5">Small</td><td>Lithe</td><td>Warrior</td><td>Gold</td><td>Cairngorm</td><td>Aloof</td><td>Lizard Eggs</td><td>Deep Crack in Face</td></tr>
+<tr><td>7</td><td>Angular</td><td>Maiden</td><td>Violet</td><td>Chalcedony</td><td>Mellow</td><td>Fingernails</td><td>Covered in Moss</td></tr>
+<tr><td>8</td><td>Craggy</td><td>Locust</td><td>Ruby</td><td>Diaspor</td><td>Sentimental</td><td>Shoes</td><td>Covered in Dead Vines</td></tr>
+<tr><td>9</td><td>Elegant</td><td>Jackal</td><td>Orange</td><td>Ephesi</td><td>Amoral</td><td>Wasps</td><td>Hollow Chest</td></tr>
+<tr><td>10</td><td>Bulbous</td><td>Moon</td><td>Topaz</td><td>Heliotrope</td><td>Impulsive</td><td>Land Snails</td><td>Hollow Head</td></tr>
+<tr><td>11</td><td rowspan="4">Moderate</td><td>Sharp</td><td>Sun</td><td>Jade</td><td>Idrial</td><td>Negative</td><td>Tarantulas</td><td>Eyes Glow in Dark</td></tr>
+<tr><td>12</td><td>Rotund</td><td>Pyramid</td><td>Brass</td><td>Indium</td><td>Rigid</td><td>Jackals</td><td>Hand Missing</td></tr>
+<tr><td>13</td><td>Weathered</td><td>Cat</td><td>Copper</td><td>Jaros</td><td>Patient</td><td>Pottery</td><td>Face Eroded Away</td></tr>
+<tr><td>14</td><td>Monumental</td><td>Trout</td><td>Rust</td><td>Khatyr</td><td>Decisive</td><td>Dance</td><td>Leaking Dust</td></tr>
+<tr><td>15</td><td rowspan="3">Large</td><td>Derelict</td><td>Scholar</td><td>Moss</td><td>Meerschaum</td><td>Gracious</td><td>Lunar Cycles</td><td>You Are Translucent</td></tr>
+<tr><td>16</td><td>Blocky</td><td>Fool</td><td>Ochre</td><td>Okenit</td><td>Assertive</td><td>The Sun</td><td>Chest Filled With Fluid</td></tr>
+<tr><td>17</td><td>Flaking</td><td>Crone</td><td>Steel</td><td>Qusong</td><td>Unhurried</td><td>Tides</td><td>Holes Blasted in Flesh</td></tr>
+<tr><td>18</td><td rowspan="3">Imposing</td><td>Smooth</td><td>Mantis</td><td>Sand</td><td>Schori</td><td>Vengeful</td><td>Wind</td><td>Second Face on Torso</td></tr>
+<tr><td>19</td><td>Pitted</td><td>Ape</td><td>Citrine</td><td>Ulrich</td><td>Graceless</td><td>Rain</td><td>Mirrored Flesh</td></tr>
+<tr><td>20</td><td>Fragmented</td><td>Goat</td><td>Emerald</td><td>Ziest</td><td>Stern</td><td>Silence</td><td>Face Rotates</td></tr>
+</table>
+
+### Special Rules
+__Crystalline Flesh__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
+__Inevitable__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
+
+## Planeyfolk
+_The Study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The Slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
+
+_Planeyfolk are the descendants of such unfortunates, a race fathered by men who slipped through the cracks of Euclidean space into something new and strange. Some have normal proportions, and can be mistaken for a true person when viewed head-on. Others are possessed of more exotic geometry, their forms warped by impossible vanishing points and blasphemous angles._
+
+<table>
+<thead><tr><th>d20</th><th>Body</th><th>Head</th><th>Hair</th><th>Attire</th><th>Name</th><th>Demeanour</th><th>Your Strange Geometry</th><th>How You Became Flat</th><tr></thead>
+<tr><td>1</td><td>Fractured</td><td>Impressionistic</td><td>Flickering</td><td>Dark</td><td>Clotho</td><td>Anxious</td><td>Cast Two Shadows</td><td rowspan="5">Parents were Planeyfolk</td></tr>
+<tr><td>2</td><td>Cloven</td><td>Broken</td><td>Insubstantial</td><td>Unruly</td><td>Atropos</td><td>Arrogant</td><td>Never Cast Shadows</td></tr>
+<tr><td>3</td><td>Flimsy</td><td>Lantern-like</td><td>Curved</td><td>Scholarly</td><td>Osteria</td><td>Assertive</td><td>Move Like Stop-Motion Animation</td></tr>
+<tr><td>4</td><td><Willowy/td><td>Crescent Moon</td><td>Voluminous</td><td>Masked</td><td>Vanise</td><td>Charismatic</td><td>Your Face Appears Concave</td></tr>
+<tr><td>5</td><td>Curved</td><td>Full Moon</td><td>Opalescent</td><td>Wild</td><td>Whervil</td><td>Conceited</td><td>Your Face Appears Convex</td></tr>
+<tr><td>6</td><td>Elongated</td><td>Luminous</td><td>Shaven</td><td>Polychromic</td><td>Laomer</td><td>Decadent</td><td>You Always Appear in Profile</td><td rowspan="2">Exposed to hypergeometry in utero</td></tr>
+<tr><td>7</td><td>Staccato</td><td>Angular</td><td>Iridescent</td><td>Fractal</td><td>Foxglory</td><td>Eloquent</td><td>You Always Face Away From Observers</td></tr>
+<tr><td>8</td><td>Blurred</td><td>Fractal</td><td>Lurid</td><td>Glitching</td><td>Thelik</td><td>Extravagant</td><td>One Limb is Enormously Long</td><td rowspan="2">Cursed by Quantum Daemon</td></tr>
+<tr><td>9</td><td>Ghostlike</td><td>Hollow</td><td>Fractal</td><td>Gauzy</td><td>Umbrie</td><td>Hedonistic</td><td>Viewed From Behind You Have No Skin</td></tr>
+<tr><td>10</td><td>Draping</td><td>Shimmering</td><td>Polygonal</td><td>Fragmented</td><td>Salter</td><td>Impulsive</td><td>Interiors Are Visible, But Cannot be Touched</td><td rowspan="2">Malfunctioning longjaunt portal</td></tr>
+<tr><td>11</td><td>Compressed</td><td>Lurid</td><td>Shard-like</td><td>Mosaic-like</td><td>Atlassia</td><td>Irritable</td><td>Hands Fractal; Tiny Hands on Ends of Fingers</td></tr>
+<tr><td>12</td><td>Cubic</td><td>Lustrous</td><td>Triangular</td><td>Boxy</td><td>Eukelaris</td><td>Meticulous</td><td>You Bleed Gory Cubes</td><td rowspan="2">Accidentally ate hypergeometric food</td></tr>
+<tr><td>13</td><td>Smeared</td><td>Rhomboid</td><td>Splintering</td><td>Flamboyant</td><td>Galas</td><td>Persistent</td><td>Your Body is Clearly Hollow</td></tr>
+<tr><td>14</td><td>Sharp</td><td>Figment</td><td>Dark</td><td>Dour</td><td>Tarvi</td><td>Quiet</td><td>Eyes Are Holes of Infinite Depth</td><td rowspan="2">Planeyperson inducted you into their dimension</td></tr>
+<tr><td>15</td><td>Angular</td><td>Wide</td><td>Imposing</td><td>Striped</td><td>Untermance</td><td>Religious</td><td>Voice Sounds As If You Are Far Away</td></tr>
+<tr><td>16</td><td>Prismatic</td><td>Elongated</td><td>Pale</td><td>Spotted</td><td>Rassias</td><td>Pugnacious</td><td>You Have No Back, Just Two Identical Fronts</td><td rowspan="2">Meditated before a 4D tesseract</td></tr>
+<tr><td>17</td><td>Hollow</td><td>Helix</td><td>Cubic</td><td>Glass-like</td><td>Menomeo</td><td>Scholarly</td><td>Head Looks Ten Times Larger Than Body</td></tr>
+<tr><td>18</td><td>Delicate</td><td>Triangular</td><td>Polychromic</td><td>Concealing</td><td>Ithari</td><td>Stern</td><td>Never Seem To Touch Anything</td><td rowspan="3">You were a hypergeometrician, there was an accident</td></tr>
+<tr><td>19</td><td>Isometric</td><td>Quadrilateral</td><td>Drifting</td><td>Barbaric</td><td>Canetonus</td><td>Unruly</td><td>Multiple Identical Faces</td></tr>
+<tr><td>20</td><td>Imposing</td><td>Fragmentary</td><td>Fragmentary</td><td>Outrageous</td><td>Trout</td><td>Volatile</td><td>You Never Match the Ambient Light</td></tr>
+</table>
+
+### Special Rules
+__Flat__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
+__Attune with Matter__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentraion, you can attune yourself with an item, and add it to your inventory.
 
 # Weaponry
 <table>

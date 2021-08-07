@@ -4,6 +4,8 @@ The sun is dying and the wreckage of countless eons litters the parched wastes o
 
 These are the hinterlands, where humanity’s great works have fallen to everlasting decay, where machine and animal and fungus think to crown themselves our equal. The phthalo-sands, where newbeasts hunt proudly with boots upon their hind paws and chromepriests chant unending binary devotions to their nameless synthetic god. Only the desperate or the mad would seek to make a life here, to roam the blue desert in search of the secret VAULTS OF VAARN.
 
+Vaults of Vaarn is compatible with the game Knave; however the material should work fine with any old-school RPG system that uses d20s, armour class, etc.
+
 The PDF version is available for free on [itch.io](https://graculusdroog.itch.io).  
 The full text is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
@@ -14,7 +16,7 @@ Alternatively, available from selected stores:
   <thead><th>Country</th><th>Store</th><th>Vov 1</th><th>Vov 2</th><th>Vov 3</th></thead>
   <tr><td rowspan="2">Worldwide</td><td>Lulu Print on Demand</td>
     <td><a href="https://www.lulu.com/en/us/shop/leo-hunt-and-leo-hunt/vaults-of-vaarn-1/paperback/product-vqwnjv.html?page=1&pageSize=4">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="https://www.lulu.com/en/us/shop/leo-hunt/vaults-of-vaarn-2/paperback/product-yk4wq7.html?page=1&pageSize=4">link</a></td>
     <td><a href="https://www.lulu.com/en/us/shop/leo-hunt/vaults-of-vaarn-3/paperback/product-eq87gz.html?page=1&pageSize=4">link</a></td>
   </tr>
   <tr><td>Big Cartel</td>
