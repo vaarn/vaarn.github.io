@@ -22,6 +22,83 @@ __Damage:__ This indicates the number of attacks a monster can make per round, a
 
 __Morale:__ Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a __morale roll__ by rolling d20 and adding the NPC's morale bonus. If the result __does not exceed 15__, the NPC will attempt the flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
 
+## Travel Rules
+Travel is an integral element of running game sessions in Vaarn’s Interior. Although many readers will have travel procedures that they are accustomed to using, I felt it might benefit those who feel less confident about running overland travel to learn how I do it in my own Vaarn games. 
+
+I don’t make use of detailed breakdowns of every six-mile hex between one destination or another. I use an abstracted system which boils down travel into two resources: __travel days__ and __rations__. Characters need to spend both in order to make progress.
+
+### Travel Days
+Vaarn is not well-mapped, and it is not recorded exactly how far one must travel between locations. Distances given by NPCs are approximations, expressed in days: _‘From here it will take five days of travel to reach the circular ruins’_, for example. These estimates apply to speed on foot. If players are using a vehicle, divide the number of travel days in half.
+
+Under normal conditions, the PCs can travel a half day’s worth of distance in the morning, and a half day’s worth of distance in the afternoon. At night they must eat a meal and rest.
+
+### Rations
+Rations are an abstraction of food and water carried. Five days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become __Deprived__, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
+
+Rations can be obtained from the bodies of dead\* opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
+
+_If you find numbers on a character sheet a bit abstract, you could use a bowl of poker chips to represent the players’ total rations. Have each player remove a poker chip from the bowl when they camp for the night, and add chips back in when they find fresh sources of nourishment._
+
+### Exhaustion
+At any point during the travel day, the players may declare that they are exerting themselves in order to walk faster than usual, or are piloting their vehicle at greater speeds than normal. If the party exerts themselves in this manner, they can travel two days’ worth of distance in one day. However, they must fill an inventory slot with __Exhaustion__.
+
+Exhaustion cannot be removed from a PC’s inventory until they rest in one place for an __entire__ day and night, with no distance being covered. If a PC has no more spare slots to fill with Exhaustion, they must discard an item to make room. A PC who fills ten inventory slots with Exhaustion will die.
+
+### Getting Lost
+Losing one’s way has never seemed particularly fun to me, and I assume the PCs are competent desert navigators, who will never get lost as long as they can see the sun and stars. However, some circumstances - players attempting to travel during a sandstorm, for example - demand it. In such cases roll a d6, and add the resulting number of days to their travel schedule.
+
+### Encounters
+The referee should check for an encounter once during the morning of a travel day, once during the afternoon, and once per night. This is done by rolling a d6, and consulting the results below:
+
+__1 - Active Encounter.__ The PCs encounter a creature or situation that definitely notices them, and will actively attempt to involve them in their business.  
+__2 - Passing Encounter.__ The PCs encounter a creature or situation in passing - it may be happening far away, or be a creature that is not interested in the PCs.  
+__3 - Hint__. The PCs find a hint of an encounter. This may be an object or footprint left in the sand, a flying creature glimpsed on the horizon, or similar. The entity the Hint concerned will always appear as the next Active or Passing Encounter.  
+__4-6 - Nothing.__  
+_If the PCs are traveling in an extremely slow, noisy, or obvious manner, the referee may choose to roll 2d6 or even 3d6 for encounter checks, and use the lowest result._  
+
+### Vigilance
+At the start of each day, as you roll for encounters, the players may collectively roll a Vigilance Dice. This is a single d6, without modifiers. If the players roll a six, they have a guarantee of spotting their next Active or Passing Encounter before the opposing entity or group spots them. If they roll a one, the next Active or Passing Encounter will spot them before they spot it. This vigilance effect resets at the end of each day, whether the players made use of it or not.
+
+### Pursuits
+Since the Interior is a large, open desert, there is a good chance that hostile parties will spot one another some time before they are able to engage in combat. In such situations, one party may choose to flee rather than fight. I resolve pursuits as a series of three opposed CON saves. If the pursuers win two of the three saves, they catch up with their quarry and immediately win the initiative in a combat round. If the fleeing party wins two of the three saves, they escape and cannot be caught.
+
+Sometimes CON may not be the appropriate attribute to test; pursuits over particularly unsteady ground might require DEX saves, for example. The pursuit rules should only be used if there is a reasonable doubt as to the result of the chase.
+
+### Night Watches
+When camping in the desert, the PCs may elect a party member to take watch. Whoever is on watch cannot benefit from a Long Rest; instead they will regain only d8 + CON bonus HP. If the party is approached by a hostile creature at night, the referee should ask the character on watch to make a PSY save opposed to the creature’s DEX. Failure grants the monsters a surprise round in combat; the aggressors strike with advantage, and the players cannot respond. After the surprise round is resolved, roll for initiative as normal.
+
+## Weather
+The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
+
+### Weather Effects
+
+#### Still
+The desert landscape is still, untroubled by the susurration of the heavens. Visibility is good.
+
+#### Hazy
+The air is still, but mists of a lurid hue hang over the desert. Visibility is impaired and landmarks cannot be seen from a distance. Vigilance checks are made with disadvantage.
+
+#### Dust Storm
+The wind blows sheets of blue dust across the desert. Visibility is badly impaired. Traveling under such conditions is possible, but the pace is slowed to half normal speed. A three day journey will take six days, and so on. Vigilance checks are made with disadvantage.
+
+#### Sand Storm
+A howling wind blows a ferocious cloud of azure sand across the desert. Nobody travels in Vaarn’s sandstorms; the PCs must hunker down and wait out the storm. Tents or other makeshift shelters will provide adequate protection. Any encounters rolled during these days are assumed to be seeking shelter from the storm in the same place as the party.
+
+#### Heatwave
+Urth’s dying sun musters all the warmth it can. PCs must consume twice their normal ration of water per day if they wish to travel during a heatwave.
+
+#### Worm-pollen
+The sandworms of the Interior reproduce through a baroque, decade-long process of parthenogenesis, culminating in the explosive release of thousands of melon-sized spores into the atmosphere. This worm-pollen drifts back to Urth in ponderous sticky deluges that can last for weeks. Progress through shifting mounds of the stuff is slowed to half normal speed; the upside is that worm-pollen is edible, and many a starving man has been saved by the timely arrival of spores from the heavens. Treat worm-pollen days as providing d4 rations per player.
+
+#### Rain
+A rare bounty. The parched blue earth is blessed with water. The party may collect 2d6 days of rations per member. In the aftermath of a rainshower, the desert is conquered by a short-lived imperium of majestic flora.
+
+#### Prismatic Tempest
+The sky bruises with clouds of midnight blue. Howling winds carry scouring sheets of sand across the landscape. Thunder rends the air and polychromatic lightning caresses the desert like the tendrils of a jellyfish deity. No travel of any kind is possible, and the PCs will take 3d6 electrical damage every hour they spend above-ground.
+
+[image weather hex flower missing]
+
+
 ## Content Generators
 Use the generators on the following pages to help bring Vaarn to life. They will help you create characters, locations, and objects that the players may encounter during their journeys. You will also find 100 strange and powerful Exotica that players could uncover in Vaarn's ruins, a selection of sample monsters, and rules for vehicles. Vaarn is intended to be different for everyone who plays in it, so these content creation tools are hopefully sparks for creativity rather than instructions.
 

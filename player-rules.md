@@ -105,7 +105,7 @@ Once a character has reached level 10, they are considered complete. Each subseq
 Ancestries describe what kind of being you are. Choose one of the five and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only.
 
 ## True-Kin
-The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony.
+_The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony._
 
 <table>
 <thead><th>d20</th><th>Name</th><th>Caste</th><th>Demeanour</th><th>Distinct Feature</th></thead>
@@ -160,7 +160,7 @@ __PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Ad
 __INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard synths, there is a 50% chance that they will recognise you as their master.
 
 ## Cacogen
-Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth.
+_Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
 
 |d20|__NAME__|__DEMEANOUR__|__MISFORTUNE__|__YOUR ECCENTRICITY__|
 |-|--------|-------------|--------------|---------------------|
@@ -316,7 +316,7 @@ __CORRUPTED BLOOD__ - You must roll for mutations during character creation. You
 |00|Wings|You have wings that allow you to fly freely.|
 
 ## Synth
-The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of.
+_The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of._
 
 <table>
 <thead><tr><th>d20</th><th>SIZE</th><th>FORM</th><th>HEAD</th><th>LIMBS</th><th>FINISH</th></tr></thead>
@@ -372,7 +372,7 @@ __SYNTHETIC FLESH__ - You are the being of metal and plastic. You do not need to
 __SYNTHETIC MIND__ - Your mind uses different operating procedures to those of the biological creatures around you. You are vulnerable to attacks that target the LogLang syntax that powers synths. These include strobing basilisk patterns, malicious infoglyphs, and ancient Titan-era language viruses.
 
 ## Newbeast
-Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood.
+_Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
 
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
@@ -424,7 +424,7 @@ Newbeasts are humanoid animals, produced through intensive nanotech enhancements
 __BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
 
 ## Mycromorph
-In Vaarn many things have intertwined, and much that was once the province of mankind alone - speech, reason, art, religion - has been granted to other forms of life and they hold themselves as humanity’s equal. In the mycomorph death and life are held in strange balance, for these creatures are formed of cadaverous flesh and voracious fungus, and they name their kind the ‘twice born’. Sculptors of living matter and artisans of decay, they remake human flesh for their own purposes, and there is no shortage of raw material in the blue ruins.
+_In Vaarn many things have intertwined, and much that was once the province of mankind alone - speech, reason, art, religion - has been granted to other forms of life and they hold themselves as humanity’s equal. In the mycomorph death and life are held in strange balance, for these creatures are formed of cadaverous flesh and voracious fungus, and they name their kind the ‘twice born’. Sculptors of living matter and artisans of decay, they remake human flesh for their own purposes, and there is no shortage of raw material in the blue ruins._
 
 <table>
 <thead><tr><th>d20</th><th>BODY</th><th>HEAD</th><th>COLOUR</th><th>TEXTURE</th></th></thead>
