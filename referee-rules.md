@@ -610,6 +610,24 @@ _Synthetic_
 </table>
 <b>Notes</b>: A breed of synth that must once have been in mass production, for they are commonly found across Vaarn. Iron Mules are boxy, crude automata with four powerful, restless legs. They are known for their extreme endurance and hardiness, and also for their clumsiness, stupidity, and the nauseating rocking motion of their gait. Normally used as pack animals, but can be ridden in extremis.
 
+## Motile Home
+_Biological_ / _Synthetic_
+<table>
+<tr><td><b>Hull Points</b>: 15</td><td><b>Armour</b>: 22</td></tr>
+<tr><td><b>Speed</b>: Slow</td><td><b>Value</b>: </td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Huge Claw (2d10)</td></tr>
+</table>
+<b>Notes</b>: The fad for living architecture peaked several millennia ago, but there are still some examples of self-aware, motile dwellings to be found in the hinterlands of Vaarn. These rare constructions are half crab, half house, and fully sentient. They are not known for spacious interiors or fast movement, but make up for this with their extreme durability.
+
+## Ornithopter
+_Mechanical_
+<table>
+<tr><td><b>Hull Points</b>: 7</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Speed</b>: Rapid</td><td><b>Value</b>: </td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Laser Lance (3d6)</td></tr>
+</table>
+<b>Notes</b>: Pre-Collapse flying machines that beat artificial wings to stay aloft. Smaller ornithopters are humming-bird like, and seat two passengers, while larger combat ornithopters resemble dragonflies, and carry Hegemony soldiers wherever they are required.
+
 ## Skiff
 _Mechanical_
 <table>
@@ -618,6 +636,15 @@ _Mechanical_
 <tr><td colspan="2"><b>Armaments</b>: Light pulse-rifle (d8)</td></tr>
 </table>
 <b>Notes</b>: A Lightweight hover-bike build around a small sky-seeking stone. Skiffs are powered by a fan at the back of the craft. They are fast and nimble, but unstable and frequently lethal when they malfunction. Used by outlaws, Hegemony rangers, bounty hunters, and anyone else who needs to make a quick getaway.
+
+## Stilt Strutter
+_Mechanical_
+<table>
+<tr><td><b>Hull Points</b>: 4</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Speed</b>: Slow</td><td><b>Value</b>: </td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Mounted Cannon (d12)</td></tr>
+</table>
+<b>Notes</b>: Ponderous towering mechanised walker. Prized for their hardy construction and ability to navigate treacherous ground. Utilised by Hegemony troops for assaults on fortified positions.
 
 ## War Camel
 _Biological_
@@ -642,6 +669,15 @@ _Mechanical_
 <table>
 <tr><td><b>Hull Points</b>: 20</td><td><b>Armour</b>: 22</td></tr>
 <tr><td><b>Speed</b>: Dependant on winds</td><td><b>Value</b>: Very High</td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Traditionally unarmed, but crew will include d2 2HD guards.</td></tr>
+</table>
+<b>Notes</b>: A wooden cargo ship, built around a large sky-seeking stone. These barges are used by the merchant guilds of Vaarn to transport goods across the blue sands. Some are elegant and ornate vessels, while others are heavy and utilitarian. They are usually unarmed by ancient custom, although it would be a foolish merchant who ventured into the wastelands without guards onboard.
+
+## Zeppelin
+_Mechanical_
+<table>
+<tr><td><b>Hull Points</b>: 10</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Speed</b>: Moderate</td><td><b>Value</b>: </td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Traditionally unarmed, but crew will include d2 2HD guards.</td></tr>
 </table>
 <b>Notes</b>: A wooden cargo ship, built around a large sky-seeking stone. These barges are used by the merchant guilds of Vaarn to transport goods across the blue sands. Some are elegant and ornate vessels, while others are heavy and utilitarian. They are usually unarmed by ancient custom, although it would be a foolish merchant who ventured into the wastelands without guards onboard.

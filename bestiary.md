@@ -18,6 +18,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: The poison spray forces CON save. If a PC fails, they gain a special wound: 'Amaranthine Venom'. Their HP drops to 0, and cannot rise above that number until they find an antidote.</td></tr>
 </table>
 
+## Argent Shepherd
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 7</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Special _(Argent Halo Implant)_</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.<br />&nbsp; The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
+</table>
+
 ## Bandit
 _Biological_
 <table>
@@ -28,7 +37,7 @@ _Biological_
 </table>
 
 ## Battle Boar
-_Biological / Synthetic_
+_Biological_ / _Synthetic_
 <table>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d6</td></tr>
@@ -54,6 +63,24 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Enormous flabby toads that lurk near Vaarnish water-sources. If hit with a tongue attack, PCs must STR save or be drawn into the toad's mouth and take d8 damage per round.</td></tr>
 </table>
 
+## Cacklemaw
+_Biological_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Weapon (d8) + Bite (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Lurking laughing hyena-women. Fight in packs, with little regard for their own safety. Will snap at opponents’ faces in close quarters with their powerful teeth. A group of eight will always include a War Mama.</td></tr>
+</table>
+
+## Cacklemaw War Mama
+_Biological_
+<table>
+<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Blade (d8) + Blade (d8) + Bite (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: War Mamas are the largest, meanest, and most cunning Cacklemaw in the pack. They lead from the front, and must be seen to savour the violence lest they be challenged by one of their underlings. For this reason War Mamas will never retreat from combat if other Cacklemaw are alive to witness it.</td></tr>
+</table>
+
 ## Cacogen Psuedo-Giant
 _Biological_
 <table>
@@ -61,6 +88,15 @@ _Biological_
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d4</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: d10 stomp</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Severely mutated humans that resemble enormous ambulatory torsos. They have a primitive, furious face on their chest, and tiny vestigial arms. They are unintelligent but ferocious and will pursue prey for miles.</td></tr>
+</table>
+
+## Chrome-Feathered Sailback
+_Biological_ / _Synthetic_
+<table>
+<tr><td><b>HD</b>: 10</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Heavy Laser Cannon (d12 beam)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Graceful sky-serpents, which warm their cold-blooded bodies with rows of solar panels. These vast creatures generally do not notice travellers on foot, but they will viciously attack vehicles and flying machines without provocation. It is theorised that the Sailbacks interpret the glinting of sunlight on metal as a dominance challenge.</td></tr>
 </table>
 
 ## Chromavore
@@ -81,8 +117,17 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Biotech blob. When it successfully scores a hit, it will begin spawning jelly-clones of the PC to hit. It does so once per round. The clones are naked, insane, and homicidally attack the PC they were copied from. They have 5 HP, Armour 10, and the ability scores of the PC they cloned.</td></tr>
 </table>
 
+## Faa Nomad
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Rifle (d8) / Curved Blade (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
+</table>
+
 ## Giant Azure Scorpion
-_Biological / Synthetic_
+_Biological_ / _Synthetic_
 <table>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d4</td></tr>
@@ -117,6 +162,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Creepy gangly giant insects. Normally scavengers, but will attack humans if they think they can get away with it. Their spit forces a CON save. Failure results in disadvantage on all saves for one round due to vomiting.</td></tr>
 </table>
 
+## Harlequin Serpent
+_Biological_
+<table>
+<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite(d8) / Venom Sray</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Large desert snakes, with colouration on their heads that resembles the makeup worn by sacred fools. Their venom forces a CON save; failure results in a convulsive laughter-like reaction to the serpent’s neurotoxins. Afflicted creatures laugh for d6 hours; they cannot speak until the venom wears off.</td></tr>
+</table>
+
 ## Hiveyman
 _Biological_
 <table>
@@ -135,6 +189,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: An indigo-robed corpse, re-animated by the necrotech implants of the College of Indigo Tigers. Obeys the wearer of a Dominion Ring without question. Mute, obedient, fearless.</td></tr>
 </table>
 
+## Lambent Lynx
+_Biological_ / _Synthetic_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Electric Claws (d6) / Binding Pelt</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Lurid cyborg feline. Feeds on sources of electrical power, including synths. The lynx can ignite every filament in its synthetic pelt like a flash-bang, forcing DEX saves to avoid d6 rounds of blindness; they will use this technique to ambush potential prey or to escape a lost fight.</td></tr>
+</table>
+
 ## Leopard Worm
 _Biological_
 <table>
@@ -142,6 +205,15 @@ _Biological_
 <tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: d4</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: d8 bite + Glue Spit</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Sinuous ambush predators. The worm's gluey spit is highly adhesive; when covered in spit all STR and DEX rolls are at disadvantage. The spit is dissolved by salt water.</td></tr>
+</table>
+
+## Lithling Scholar
+_Mineral_
+<table>
+<tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 24</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Swipe (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Wandering scholar from the Lithic Lyceum. Generally pacifists, and have little desire to harm living beings. Will attempt to reason with their assailants, even during deadly combat.</td></tr>
 </table>
 
 ## Lizard Lion
@@ -180,6 +252,15 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Merciless shapeshifting liquid metal war-synth. Immune to kinetic damage, fire, acid, radiation, and all poisons. Can only be harmed with extreme cold, or with hypergeometric weapons.</td></tr>
 </table>
 
+## Quill Spider
+_Biological_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6) + Quill Spray (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Loathsome arachnid, with a bloated body that bristles with hollow quills like those of a porcupine. When threatened it will rapidly brush its back legs across its back, showering the surrounding area with quills.<br />&nbsp; Quill-spiders are not venomous and rely on brute strength to subdue their prey, breaking the necks of addax and phthalo-jackals and dragging them into sheltered burrows to be devoured. These creatures are a menace to travellers in the Interior: they are inquisitive, fast-moving, aggressive, and will devour anything that fails to outrun them or fight them off.</td></tr>
+</table>
+
 ## Regenerator
 _Biological_
 <table>
@@ -187,6 +268,24 @@ _Biological_
 <tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: d6 claw + d6 claw + d8 bite if both claws hit same target</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Towering tumorous mutant. Will regenerate d8 HP per round unless burned or covered in acid.</td></tr>
+</table>
+
+## Sandworm (Adult)
+_Biological_
+<table>
+<tr><td><b>Hull Points</b>: 20</td><td><b>Armour</b>: 25</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Slam (5d10) / Swallow Whole</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The grandest inhabitant of the Interior. Adult sandworms have no natural predators, and have a lifespan of several millennia. They do not usually notice human-sized travellers, but will attack noisy vehicles if provoked. They will usually seek to swallow the offending machine whole.</td></tr>
+</table>
+
+## Sandworm (Juvenile)
+_Biological_
+<table>
+<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Slam (2d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology.</td></tr>
 </table>
 
 ## Stumbling Drone
@@ -217,12 +316,21 @@ _Biological_
 </table>
 
 ## Troika
-_Synthetic)_
+_Synthetic_
 <table>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: d6 kick + d6 kick + d6 kick</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Pinwheel of synthetic legs that tumbles through the blue wastelands kicking everything it can find. Utterly inexplicable and widely hated.</td></tr>
+</table>
+
+## Tumblesnare
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: Always Flees</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Grab (followed by rolling damage)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.<br />&nbsp; After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.<br />&nbsp; Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
 </table>
 
 ## Walking Womb
