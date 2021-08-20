@@ -25,3 +25,8 @@ v0.5 VoV 3 The Interior
 - Remove docsify-sidebar-collapse plugin which was behaving weird when adding the Locations section.
 - Rename 'Vaarnish Bestiary' -> 'Bestiary' in menu
 - Add contents of 'The Interior' from VoV 3 to Locations
+
+v0.6 Restructuring
+- Split monolithic pages into smaller pages
+- Update and reorder the menu
+- Add hyperlinks from new creating-characters page, to relevant rule sections

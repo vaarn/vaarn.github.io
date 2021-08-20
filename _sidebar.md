@@ -1,8 +1,13 @@
 - [Home](/)
-- [Player Rules](player-rules.md)
+- [What is Vaarn?](what-is-vaarn.md)
+- [Creating Characters](creating-characters.md)
+- [Ancestries](ancestries.md)
+- [Equipment](equipment.md)
+- [Basic Rules](basic-rules.md)
+- [Transport in Vaarn](vehicles.md)
 - [Referee Rules](referee-rules.md)
-- Locations
-  - [The Interior](locations/the-interior.md)
+- Regions of Vaarn
+  - [The Interior](regions/the-interior.md)
 - [Bestiary](bestiary.md)
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
