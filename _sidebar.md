@@ -1,6 +1,8 @@
 - [Home](/)
 - [Player Rules](player-rules.md)
 - [Referee Rules](referee-rules.md)
-- [Vaarnish Bestiary](bestiary.md)
+- Locations
+  - [The Interior](locations/the-interior.md)
+- [Bestiary](bestiary.md)
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)

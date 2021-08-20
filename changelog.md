@@ -18,3 +18,10 @@ v0.3 VoV 3 Travel and Weather Rules
 v0.4 VoV 3 Monsters and Vehicles  
 - Add Monsters from VoV 3 to the bestiary
 - Add Vehicles from VoV 3
+
+v0.5 VoV 3 The Interior  
+- Update URL in Acknowledgements to vaultsofvaarn.com, and hyperlink to Leo's blog.
+- Add Locations section to menu
+- Remove docsify-sidebar-collapse plugin which was behaving weird when adding the Locations section.
+- Rename 'Vaarnish Bestiary' -> 'Bestiary' in menu
+- Add contents of 'The Interior' from VoV 3 to Locations
