@@ -30,3 +30,12 @@ v0.6 Restructuring
 - Split monolithic pages into smaller pages
 - Update and reorder the menu
 - Add hyperlinks from new creating-characters page, to relevant rule sections
+
+v0.7 Content  
+- Add Resource link to fillable character sheet.
+- Add Creating Regions sections and tables.
+- Add Exotica from VoV #3
+- Add What you find in the sand.
+- Add Titans of a Faded Age.
+- Add Weather Hex Flower image
+- Update Acknowledgements to VoV #3

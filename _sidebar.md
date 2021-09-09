@@ -9,5 +9,7 @@
 - Regions of Vaarn
   - [The Interior](regions/the-interior.md)
 - [Bestiary](bestiary.md)
+- [Titans Of A Faded Age](titans.md)
+
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)

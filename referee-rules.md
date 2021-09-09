@@ -96,7 +96,7 @@ A rare bounty. The parched blue earth is blessed with water. The party may colle
 #### Prismatic Tempest
 The sky bruises with clouds of midnight blue. Howling winds carry scouring sheets of sand across the landscape. Thunder rends the air and polychromatic lightning caresses the desert like the tendrils of a jellyfish deity. No travel of any kind is possible, and the PCs will take 3d6 electrical damage every hour they spend above-ground.
 
-[image weather hex flower missing]
+![Weather Hex Flower](images/weather_hex_flower.jpg ':size=70%')
 
 
 ## Content Generators
