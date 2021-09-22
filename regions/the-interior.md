@@ -12,7 +12,7 @@ Simply put, the Interior connects all regions of Vaarn to one another; the quick
 
 There are also reasons to make the Interior a destination in its own right. Most of Vaarn’s noteworthy ruins and vaults are located in the desert - the vastness and shifting nature of the place allows creative referees to place whatever kind of structure they can imagine in the Interior, without having to further justify its obscurity and isolation. There are also unique cultures that exist predominantly in the desert. Players who wish to locate a certain Faa nomad clan or Lithling scholar will find that they must brave the sandstorms and heatwaves in order to speak with them. 
 
-Campaigns that focus on the Interior should revolve around movement, exploration, and discovery. If your players find the trading city Gnomon too claustrophobic, then give them an opportunity to enlist as guards for a merchant’s caravan, or let them come into possession of a small wind-barge and enjoy sailing wherever fate takes them. Other adventure starters in the Interior could include rescuing an important prisoner from a Cacklemaw warband, hunting down a notorious caravan robber in order to collect a bounty, or searching for the ruins of a biotech laboratory in order to discover the cure for a virulent disease.
+Campaigns that focus on the Interior should revolve around movement, exploration, and discovery. If your players find the trading city [Gnomon](regions/the-badlands.md?id=gnomon) too claustrophobic, then give them an opportunity to enlist as guards for a merchant’s caravan, or let them come into possession of a small wind-barge and enjoy sailing wherever fate takes them. Other adventure starters in the Interior could include rescuing an important prisoner from a Cacklemaw warband, hunting down a notorious caravan robber in order to collect a bounty, or searching for the ruins of a biotech laboratory in order to discover the cure for a virulent disease.
 
 ## Desert Cultures
 
@@ -40,6 +40,83 @@ The Lithling are formed from a mesh of motile crystals, each shard attracted to 
 The lithling life-cycle is as alien to humanity as their bloodless bodies. Lithling are grown from a seed, which must crystallise and bloom in a deep bath of alchemical elixirs. After decades of maturation, they are deemed fully-moulded and allowed to awaken, as large and strong as they will ever be. They are inducted into the Lithic Lyceum by their kindred, and instructed in their duties as scholars.
 
 Lithling have a scholarly, enquiring cast of mind, and are endlessly fascinated by the alien world of biological organisms they find themselves marooned on. The Lyceum is devoted to cataloging the minutiae of the natural world, and contains the life’s work of millions of long-dead lithling in its underground archives. Unfortunately, the records of the lithling are often of dubious usefulness to outsiders – their dissertations and essays tend to focus on the minutiae of data and experience while lacking the wider context that a human mind might find meaningful. One celebrated lithling study describes the movements made by generations of land-snails over a hundred year period, with the relative positions of each snail recorded by the second.
+
+## Travel Rules
+Travel is an integral element of running game sessions in Vaarn’s Interior. Although many readers will have travel procedures that they are accustomed to using, I felt it might benefit those who feel less confident about running overland travel to learn how I do it in my own Vaarn games. 
+
+I don’t make use of detailed breakdowns of every six-mile hex between one destination or another. I use an abstracted system which boils down travel into two resources: **travel days** and **rations**. Characters need to spend both in order to make progress.
+
+### Travel Days
+Vaarn is not well-mapped, and it is not recorded exactly how far one must travel between locations. Distances given by NPCs are approximations, expressed in days: _‘From here it will take five days of travel to reach the circular ruins’_, for example. These estimates apply to speed on foot. If players are using a vehicle, divide the number of travel days in half.
+
+Under normal conditions, the PCs can travel a half day’s worth of distance in the morning, and a half day’s worth of distance in the afternoon. At night they must eat a meal and rest.
+
+### Rations
+Rations are an abstraction of food and water carried. Five days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
+
+Rations can be obtained from the bodies of dead\* opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
+
+_If you find numbers on a character sheet a bit abstract, you could use a bowl of poker chips to represent the players’ total rations. Have each player remove a poker chip from the bowl when they camp for the night, and add chips back in when they find fresh sources of nourishment._
+
+### Exhaustion
+At any point during the travel day, the players may declare that they are exerting themselves in order to walk faster than usual, or are piloting their vehicle at greater speeds than normal. If the party exerts themselves in this manner, they can travel two days’ worth of distance in one day. However, they must fill an inventory slot with **Exhaustion**.
+
+Exhaustion cannot be removed from a PC’s inventory until they rest in one place for an **entire** day and night, with no distance being covered. If a PC has no more spare slots to fill with Exhaustion, they must discard an item to make room. A PC who fills ten inventory slots with Exhaustion will die.
+
+### Getting Lost
+Losing one’s way has never seemed particularly fun to me, and I assume the PCs are competent desert navigators, who will never get lost as long as they can see the sun and stars. However, some circumstances - players attempting to travel during a sandstorm, for example - demand it. In such cases roll a d6, and add the resulting number of days to their travel schedule.
+
+### Encounters
+The referee should check for an encounter once during the morning of a travel day, once during the afternoon, and once per night. This is done by rolling a d6, and consulting the results below:
+
+**1 - Active Encounter.** The PCs encounter a creature or situation that definitely notices them, and will actively attempt to involve them in their business.  
+**2 - Passing Encounter.** The PCs encounter a creature or situation in passing - it may be happening far away, or be a creature that is not interested in the PCs.  
+**3 - Hint**. The PCs find a hint of an encounter. This may be an object or footprint left in the sand, a flying creature glimpsed on the horizon, or similar. The entity the Hint concerned will always appear as the next Active or Passing Encounter.  
+**4-6 - Nothing.**  
+_If the PCs are traveling in an extremely slow, noisy, or obvious manner, the referee may choose to roll 2d6 or even 3d6 for encounter checks, and use the lowest result._  
+
+### Vigilance
+At the start of each day, as you roll for encounters, the players may collectively roll a Vigilance Dice. This is a single d6, without modifiers. If the players roll a six, they have a guarantee of spotting their next Active or Passing Encounter before the opposing entity or group spots them. If they roll a one, the next Active or Passing Encounter will spot them before they spot it. This vigilance effect resets at the end of each day, whether the players made use of it or not.
+
+### Pursuits
+Since the Interior is a large, open desert, there is a good chance that hostile parties will spot one another some time before they are able to engage in combat. In such situations, one party may choose to flee rather than fight. I resolve pursuits as a series of three opposed CON saves. If the pursuers win two of the three saves, they catch up with their quarry and immediately win the initiative in a combat round. If the fleeing party wins two of the three saves, they escape and cannot be caught.
+
+Sometimes CON may not be the appropriate attribute to test; pursuits over particularly unsteady ground might require DEX saves, for example. The pursuit rules should only be used if there is a reasonable doubt as to the result of the chase.
+
+### Night Watches
+When camping in the desert, the PCs may elect a party member to take watch. Whoever is on watch cannot benefit from a Long Rest; instead they will regain only d8 + CON bonus HP. If the party is approached by a hostile creature at night, the referee should ask the character on watch to make a PSY save opposed to the creature’s DEX. Failure grants the monsters a surprise round in combat; the aggressors strike with advantage, and the players cannot respond. After the surprise round is resolved, roll for initiative as normal.
+
+
+## Weather
+The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
+
+### Weather Effects
+
+#### Still
+The desert landscape is still, untroubled by the susurration of the heavens. Visibility is good.
+
+#### Hazy
+The air is still, but mists of a lurid hue hang over the desert. Visibility is impaired and landmarks cannot be seen from a distance. Vigilance checks are made with disadvantage.
+
+#### Dust Storm
+The wind blows sheets of blue dust across the desert. Visibility is badly impaired. Traveling under such conditions is possible, but the pace is slowed to half normal speed. A three day journey will take six days, and so on. Vigilance checks are made with disadvantage.
+
+#### Sand Storm
+A howling wind blows a ferocious cloud of azure sand across the desert. Nobody travels in Vaarn’s sandstorms; the PCs must hunker down and wait out the storm. Tents or other makeshift shelters will provide adequate protection. Any encounters rolled during these days are assumed to be seeking shelter from the storm in the same place as the party.
+
+#### Heatwave
+Urth’s dying sun musters all the warmth it can. PCs must consume twice their normal ration of water per day if they wish to travel during a heatwave.
+
+#### Worm-pollen
+The sandworms of the Interior reproduce through a baroque, decade-long process of parthenogenesis, culminating in the explosive release of thousands of melon-sized spores into the atmosphere. This worm-pollen drifts back to Urth in ponderous sticky deluges that can last for weeks. Progress through shifting mounds of the stuff is slowed to half normal speed; the upside is that worm-pollen is edible, and many a starving man has been saved by the timely arrival of spores from the heavens. Treat worm-pollen days as providing d4 rations per player.
+
+#### Rain
+A rare bounty. The parched blue earth is blessed with water. The party may collect 2d6 days of rations per member. In the aftermath of a rainshower, the desert is conquered by a short-lived imperium of majestic flora.
+
+#### Prismatic Tempest
+The sky bruises with clouds of midnight blue. Howling winds carry scouring sheets of sand across the landscape. Thunder rends the air and polychromatic lightning caresses the desert like the tendrils of a jellyfish deity. No travel of any kind is possible, and the PCs will take 3d6 electrical damage every hour they spend above-ground.
+
+![Weather Hex Flower](../images/weather_hex_flower.jpg ':size=70%')
 
 ## What You Find In The Sand
 _For use when the party searches a corpse, a wrecked vehicle, a deserted house, etc._
@@ -152,29 +229,29 @@ The Referee can generate regions of Vaarn using the following method. This techn
 6. Now that the broad shape of the region has been created, return to each location and use the tables provided in this zine to generate more specific details about each one. Write down your ideas for each location inside the circles. You are not obliged to abide by the results of the tables if they don’t fit your concept for the region.
 7. If you need more details about the region as a whole, roll on the Landscape Type table below to get an idea of the general terrain. You can also roll to find out the origin of the region’s name.
 8. Build a region-specific encounter table using the bestiary in these zines. There are more Vaarnish monsters in VOV #1, as well as a sample encounter table. The character of the region you have generated should inform the encounters you seed it with. A region that contains the ruins of a synth factory will likely have malfunctioning synths lurking around, whereas a region with lots of settlements may have an abundance of trading caravans.
-9. Last but by no means least, think of a few NPCs who might be found in the region, and what they might want from the party. Use the Story Seeds table on p.20 if you are stuck.
+9. Last but by no means least, think of a few NPCs who might be found in the region, and what they might want from the party. Use the [Story Seeds](regions/the-interior.md?id=story-seeds) table if you are stuck.
 
 <table>
 <thead><th>d20</th><th>Location Type</th><th>Travel Hazard</th><th>Landscape Type</th><th>Region Named For</th></thead>
-<tr><td>1</td><td>Ruin</td><td rowspan="2">Bandits Control the Road</td><td>Featureless Sands</td><td rowspan="2">Famous Resident</td></tr>
-<tr><td>2</td><td>Settlement</td><td>Salt Pan</td></tr>
-<tr><td>3</td><td>Oasis</td><td rowspan="2">Hunting Ground of Chromavore</td><td>Hard Rocky Plain</td><td rowspan="2">Local Wildlife</td></tr>
-<tr><td>4</td><td>Holy Place</td><td>Dried-up Lake</td></tr>
-<tr><td>5</td><td>Wreck</td><td rowspan="2">Prowled by Argent Shepherd</td><td>Dried-up River</td><td rowspan="2">Natural Wonder</td></tr>
-<tr><td>6</td><td>Vault</td><td>Towering Monoliths</td></tr>
-<tr><td>7</td><td>Landmark</td><td rowspan="2">Sandworm Spawning Grounds</td><td>Mesas</td><td rowspan="2">Natural Hazard</td></tr>
-<tr><td>8</td><td>Bandit Camp</td><td>Low Hills</td></tr>
-<tr><td>9</td><td>Bounty Hunter's Camp</td><td rowspan="2">Very Windy; Guaranteed Sandstorms</td><td>Single Mountain</td><td rowspan="2">Famous Monster</td></tr>
-<tr><td>10</td><td>Lair</td><td>Toxic Lake</td></tr>
-<tr><td>11</td><td>Archive</td><td rowspan="2">Roving Cult Searching for Converts</td><td>Toxic River</td><td rowspan="2">Long-Dead Settlement</td></tr>
-<tr><td>12</td><td>Arcology</td><td>Fungal Forest</td></tr>
-<tr><td>13</td><td>Grave</td><td rowspan="2">Malfunctioning Synths Demand a Toll</td><td>Crystal Growths</td><td rowspan="2">Forgotten Religion</td></tr>
-<tr><td>14</td><td>Science-Mystic's Abode</td><td>Windswept Plateau</td></tr>
-<tr><td>15</td><td>Trade Post</td><td rowspan="2">Road Watched by Cacklemaw Clan</td><td>Mountainous</td><td rowspan="2">Local Weather</td></tr>
-<tr><td>16</td><td>Hegemony Camp</td><td>Winding Canyons</td></tr>
-<tr><td>17</td><td>Faa Nomad Camp</td><td rowspan="2">Warring Faa Nomads</td><td>Abandoned City</td><td rowspan="2">Natural Resource</td></tr>
-<tr><td>18</td><td>Cacklemaw Den</td><td>Cactus Fields</td></tr>
-<tr><td>19</td><td>Anomaly</td><td rowspan="2">Unexploded Landmines</td><td>Riddled with Caves</td><td rowspan="2">Name No Longer Understood</td></tr>
+<tr><td>1</td><td><a href="#/regions/the-interior.md?id=ruin">Ruin</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">Bandits Control the Road</a></td><td>Featureless Sands</td><td rowspan="2">Famous Resident</td></tr>
+<tr><td>2</td><td><a href="#/regions/the-interior.md?id=settlement">Settlement</a></td><td>Salt Pan</td></tr>
+<tr><td>3</td><td><a href="#/regions/the-interior.md?id=oasis">Oasis</a></td><td rowspan="2">Hunting Ground of Chromavore</td><td>Hard Rocky Plain</td><td rowspan="2">Local Wildlife</td></tr>
+<tr><td>4</td><td><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td><td>Dried-up Lake</td></tr>
+<tr><td>5</td><td><a href="#/regions/the-interior.md?id=wreck">Wreck</a></td><td rowspan="2"><a href="#/bestiary.md?id=argent-shepherd">Prowled by Argent Shepherd</a></td><td>Dried-up River</td><td rowspan="2">Natural Wonder</td></tr>
+<tr><td>6</td><td><a href="#/regions/the-interior.md?id=vault">Vault</a></td><td>Towering Monoliths</td></tr>
+<tr><td>7</td><td><a href="#/regions/the-interior.md?id=landmark">Landmark</a></td><td rowspan="2">Sandworm Spawning Grounds</td><td>Mesas</td><td rowspan="2">Natural Hazard</td></tr>
+<tr><td>8</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Bandit Camp</a></td><td>Low Hills</td></tr>
+<tr><td>9</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">Bounty Hunter's Camp</a></td><td rowspan="2">Very Windy; Guaranteed Sandstorms</td><td>Single Mountain</td><td rowspan="2">Famous Monster</td></tr>
+<tr><td>10</td><td><a href="#/regions/the-interior.md?id=lair">Lair</a></td><td>Toxic Lake</td></tr>
+<tr><td>11</td><td><a href="#/regions/the-interior.md?id=archive">Archive</a></td><td rowspan="2">Roving Cult Searching for Converts</td><td>Toxic River</td><td rowspan="2">Long-Dead Settlement</td></tr>
+<tr><td>12</td><td><a href="#/regions/the-interior.md?id=arcology">Arcology</a></td><td>Fungal Forest</td></tr>
+<tr><td>13</td><td><a href="#/regions/the-interior.md?id=grave">Grave</a></td><td rowspan="2">Malfunctioning Synths Demand a Toll</td><td>Crystal Growths</td><td rowspan="2">Forgotten Religion</td></tr>
+<tr><td>14</td><td><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td><td>Windswept Plateau</td></tr>
+<tr><td>15</td><td><a href="#/regions/the-interior.md?id=trade-post">Trade Post</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">Road Watched by Cacklemaw Clan</a></td><td>Mountainous</td><td rowspan="2">Local Weather</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">Hegemony Camp</a></td><td>Winding Canyons</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Camp</a></td><td rowspan="2">Warring Faa Nomads</td><td>Abandoned City</td><td rowspan="2">Natural Resource</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Cactus Fields</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=anomaly">Anomaly</a></td><td rowspan="2">Unexploded Landmines</td><td>Riddled with Caves</td><td rowspan="2">Name No Longer Understood</td></tr>
 <tr><td>20</td><td>(Roll d20 twice and combine results)</td><td>Garbage-strewn Wastes</td></tr>
 </table>
 
@@ -214,11 +291,11 @@ _Vaarn is studded with the fractured remnants of the works of the ancients; the 
 <tr><td>2</td><td>Cryogenic Chambers</td><td>Criminal's Hideout</td><td>Fragmented</td><td>Arch</td><td>Choked with Synthetic Vines</td></tr>
 <tr><td>3</td><td>Orbital Defence Turret</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
 <tr><td>4</td><td>Cyborg Construction</td><td>Ossuary</td><td>Crumbling</td><td>Orb</td><td>Has Abundant Food Source</td></tr>
-<tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2">Faa Nomad Campsite</td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Food Source</td></tr>
+<tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Campsite</a></td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Food Source</td></tr>
 <tr><td>6</td><td>Cloning Facility</td><td>Barracks</td><td>Gigantic</td><td>Knife</td><td>Contains Exotica</td></tr>
-<tr><td>7</td><td>University</td><td>Brothel</td><td rowspan="2">Hideout for Bandits</td><td>Translucent</td><td>Bottle</td><td>Secret Weapons Cache</td></tr>
+<tr><td>7</td><td>University</td><td>Brothel</td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td><td>Translucent</td><td>Bottle</td><td>Secret Weapons Cache</td></tr>
 <tr><td>8</td><td>Nanotech Forge</td><td>Inn</td><td>Bat-Infested</td><td>Flower</td><td>Contain Wild Animal Nest</td></tr>
-<tr><td>9</td><td>Power Generator</td><td>Theatre</td><td rowspan="2">Cacklemaw Den</td><td>Sunbleached</td><td>Hand</td><td>Used for Sacrifices</td></tr>
+<tr><td>9</td><td>Power Generator</td><td>Theatre</td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Sunbleached</td><td>Hand</td><td>Used for Sacrifices</td></tr>
 <tr><td>10</td><td>Noble's Residence</td><td>Gladiator Pit</td><td>Half-Collapsed</td><td>Eye</td><td>Ancient Defense Systems Active</td></tr>
 <tr><td>11</td><td>Autarch's Tomb</td><td>Madhouse</td><td rowspan="2">Hegemony Outpost</td><td>Threatening</td><td>Head</td><td>Upsetting Decorations</td></tr>
 <tr><td>12</td><td>Chemical Plant</td><td>Observatory</td><td>Crooked</td><td>Pyramid</td><td>Swallowed by the Sands</td></tr>

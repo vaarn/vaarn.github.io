@@ -39,3 +39,18 @@ v0.7 Content
 - Add Titans of a Faded Age.
 - Add Weather Hex Flower image
 - Update Acknowledgements to VoV #3
+
+v0.8 Content  
+- Add content from VoV #2
+- Update menu
+  - Organization
+  - Change auto headers to display only h2 deep from h3.
+- Change Character Sheet URL to use Leo's
+- Add missing hyperlinks to 'The Interior'.
+- Post conversion edits to content.
+  - Fix bolding
+  - Adding hyperlinks
+  - Adding 'note' sections
+- Changes to Docsify
+  - Add Search
+  - Remove "Edit on Github"
