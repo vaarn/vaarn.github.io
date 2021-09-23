@@ -234,6 +234,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Frill-necked reptiles. Ill-tempered, territorial, like a crocodile that can sprint. Their skin is highly prized as a material for boots.</td></tr>
 </table>
 
+## Memory Eater
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Special Grab</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Biomechanical memory vampire. Like a giant mosquito cast from living steel. Cranial-bore proboscis drains d6 INT from target per round.</td></tr>
+</table>
+
 ## Phthalo-Jackal
 _Biological_
 <table>
@@ -304,6 +313,15 @@ _Synthetic_
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: d8 plasma-rifle</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Staggering boxy war-synths. When flipped on their backs they cannot right themselves. When their plasma-rifle deals maximum damage they suffer equal damage from overheating.</td></tr>
+</table>
+
+## Subtle Stalker
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 22 (11)</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Slash (d8) + Slash (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Sadistic mantis-shaped synth. Permanently cloaked; always surprises unless opponents have infrared vision. If the cloaking field is disrupted, the Stalker’s Armour Defense drops to 11.</td></tr>
 </table>
 
 ## Thunderstrike Bird
