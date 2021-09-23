@@ -14,7 +14,7 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 ## Monsters
 **Hit Dice / Hit Points:** All monster hit dice (**HD**) are d8s unless otherwise specified. To get the monster's hit points, just multiply the number of hit dice they have by 4 (or 5 if you're feeling mean.)  
 
-**ARMOUR:** A monster's Armour score gives the number a PC's attack role must equal or exceed to damage them.  
+**Armour:** A monster's Armour score gives the number a PC's attack role must equal or exceed to damage them.  
 
 **Attack Bonus / Saves:** Assume that monsters have ability bonuses equal to their HD, with the corresponding ability defences.
 
@@ -23,6 +23,26 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 **Damage:** This indicates the number of attacks a monster can make per round, and the damage dice rolled for each.  
 
 **Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt the flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
+
+## Monster Types
+**Biological:** Living creature, made from flesh and blood. No unusual resistances or weaknesses.
+
+**Fungal:** Creature formed from motile fungus. Takes half damage from kinetic attacks such as bludgeoning, stabbing, etc. Takes double damage from fire or fungicide bombs.
+
+**Hypergeometric:** A creature that exists outside the bounds of Euclidean geometry. Takes double damage from hypergeometric weaponry. 
+
+**Mineral:** a creature made from living rock or crystal. Immune to damage from suffocation, poison, radiation, electricity, extreme temperatures, or fungal spores. Takes double damage from bludgeoning weapons.
+
+**Outsider:** A being that is alien to our reality. Too strange to be categorised. Resistances and vulnerabilities vary wildly.
+
+
+**Psychic:** a creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
+
+**Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 
+ 
+## Psychic Gleam
+There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
+
 
 # Desert Encounters
 <table>
