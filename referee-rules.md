@@ -25,18 +25,18 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 **Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt the flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
 
 ## Monster Types
-**Biological:** Living creature, made from flesh and blood. No unusual resistances or weaknesses.
+**Biological:** A living creature, made from flesh and blood. No unusual resistances or weaknesses.
 
-**Fungal:** Creature formed from motile fungus. Takes half damage from kinetic attacks such as bludgeoning, stabbing, etc. Takes double damage from fire or fungicide bombs.
+**Fungal:** A creature formed from motile fungus. Takes half damage from kinetic attacks such as bludgeoning, stabbing, etc. Takes double damage from fire or fungicide bombs.
 
 **Hypergeometric:** A creature that exists outside the bounds of Euclidean geometry. Takes double damage from hypergeometric weaponry. 
 
-**Mineral:** a creature made from living rock or crystal. Immune to damage from suffocation, poison, radiation, electricity, extreme temperatures, or fungal spores. Takes double damage from bludgeoning weapons.
+**Mineral:** A creature made from living rock or crystal. Immune to damage from suffocation, poison, radiation, electricity, extreme temperatures, or fungal spores. Takes double damage from bludgeoning weapons.
 
 **Outsider:** A being that is alien to our reality. Too strange to be categorised. Resistances and vulnerabilities vary wildly.
 
 
-**Psychic:** a creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
+**Psychic:** A creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
 
 **Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 
  
