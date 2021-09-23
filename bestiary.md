@@ -180,6 +180,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Human corpses that have been infested by fearsome colonies of Sable Bees. They crawl across the sands, their bellies swollen with a throbbing hive structure. The angry bees deal d6 unblockable damage per round to everyone in reach.</td></tr>
 </table>
 
+## Hollow Maiden
+_Hypergeometric_
+<table>
+<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Special Grab</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out. Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
+</table>
+
 ## Indigo Servitor
 _Biological_
 <table>
