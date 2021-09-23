@@ -320,7 +320,7 @@ _Newbeasts are humanoid animals, produced through intensive nanotech enhancement
 ### Special
 __BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
 
-## Mycromorph
+## Mycomorph
 _In Vaarn many things have intertwined, and much that was once the province of mankind alone - speech, reason, art, religion - has been granted to other forms of life and they hold themselves as humanity’s equal. In the mycomorph death and life are held in strange balance, for these creatures are formed of cadaverous flesh and voracious fungus, and they name their kind the ‘twice born’. Sculptors of living matter and artisans of decay, they remake human flesh for their own purposes, and there is no shortage of raw material in the blue ruins._
 
 <table>
