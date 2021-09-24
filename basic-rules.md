@@ -18,9 +18,11 @@ If the save is opposed by another character, then instead of aiming to equal or 
 If there are situational factors that make a save significantly easier or harder, the referee may grant the roll __advantage__ or __disadvantage__. If a roll has advantage, roll 2d20 and use the better of the two dice. If it has disadvantage, roll 2d20 and use the worse of the two dice.
 
 ## Item Slots
-PCs have a number of item slots equal to their constitution defence. Most items, including a day's water and rations, light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
+PCs have a number of item slots equal to their constitution defence. Most items, including light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
 
 ## Combat
+Initiative in combat is decided each turn. All sides of a conflict roll d6, and whichever side rolls higher acts first. Resolve ties in favor of the players.
+
 On their turn, a character may move and take up to one combat action. This action may be using a Gift, making a second move, making an attack, attempting a stunt, or any other action deemed reasonable by the referee.  
 
 Melee weapons can strike adjacent foes, but ranged weapons cannot be used if the shooting character is engaged in melee combat. To make an attack, roll a d20 and add the character's Strength or Dexterity bonus, depending on whether they are using a melee or ranged weapon, respectively. If the attack total is __greater than__ the defender's armor defence value, the attack hits. If not, the attack misses.  
@@ -30,7 +32,8 @@ Alternatively, an attack roll can also be resolved by the defender rolling a d20
 On a hit, the attacker rolls their weapon's damage die to determine how many __Hit Points__ (__HP__) the defender loses. A bonus damage die of the weapon's type may be added to the roll if the ideal weapon was used against an enemy type.
 
 ## Wounds and Healing
-When a character reaches 0 HP, they begin taking __Wounds__, which fill item slots and incur penalties. If a character fills 10 item slots with Wounds they will die.  
+When a character reaches 0 HP, every subsequent point of damage causes them to acquire __wounds__, which fill item slots and incur penalties (see table below). If a character fills 10 item slots with wounds they will die. If one of a character’s ability defenses reaches zero, they will die.
+
 
 |DAMAGE PAST 0HP|WOUND|SLOTS|DESCRIPTION|
 |---------------|-----|-----|-----------|
@@ -55,14 +58,27 @@ When a character reaches 0 HP, they begin taking __Wounds__, which fill item slo
 |19|Bloody Mess| 3 |Roll 3 random wounds. You pass out.|
 |20|FATALITY| - |You are dead.|
 
-HP is replenished via Short or Long Rests. A Short Rest is a quick sit-down, with a glug of water or a meal. This replenishes d8 + Constitution bonus HP. A Long Rest is a full night's sleep in a safe place. This replenishes all lost HP, and can heal minor wounds.  
+HP is replenished via Short and Long Rests. A __Short Rest__ is a quick sit-down, with a ration of water or a meal. This replenishes d8 + Constitution bonus HP. A __Long Rest__ is a ration of water and a meal, followed by a full night’s sleep in a safe place. This will either replenish all lost HP or heal one item slot’s worth of wounds. Ability scores that have been depleted by enemy attacks replenish at the rate of one point per day.  
 
 If your character is __Deprived__ they cannot benefit from Short or Long Rests. Deprivation can be incurred through many means, but the most common are starvation or thirst.
 
-## Mystic Gifts
-Characters use their Gift in play by stating what they want to accomplish, and then paying an HP cost set by the referee, usually of d6. This represents the toll the unnatural powers take upon the body. Using a Gift in combat will result in a d8 damage roll, but this amount can be increased by paying more HP (paying d8 HP would grant a d10 damage roll, and so on). The same ratio applies to Gifts that heal allies' HP.  
+## Water
+Vaarn has a fluid economy; potable water is one of the most valuable resources in the blue wastelands. Up to three rations of water can be carried in one item slot. 
+Biological PCs must drink one ration of water every day. Synthetic PCs must imbibe a ration of water weekly, in order to cool their general syntax boards and ego-engines. Failure to do so will result in the character becoming Deprived. If a character is Deprived due to thirst for three days in a row, they will perish. 
 
-Gifts fill up psyche slots. Your maximum psyche slots cannot exceed your Psyche bonus.
+## Mystic Gifts
+Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are collectively referred to as __Gifts__. 
+
+Note that Gifts are only lightly defined by their name, and the players and referee must collectively agree on the specific effect of a Mystic Gift. Using a Gift always costs HP; a precise cost will be determined by the referee once the player describes what they want to accomplish. The baseline cost for using a Gift is __d6 HP__. 
+ 
+Gifts always hit in combat without rolling against armour defence values, and deal damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. Therefore, paying d6 HP will result in a damage roll of d8 + PSY bonus; the same ratio applies if trying to heal an ally using a Gift. Some Gifts, such as mind control or force barriers, could be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
+ 
+Mystic Gifts are not earned merely by gaining levels; they must be actively hunted for. Sources of new Gifts could include imbibing psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, meditating in front of a hypergeometric obelisk, and so on. It is up to the GM how exactly new Gifts can be obtained. 
+
+
+## Exotica
+Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds. It is presumed that the PCs are vault-raiders, on the hunt for such items of Exotica.
+When a new item of Exotica is found, the GM may ask for an INT save in order to puzzle out what the device does. If the save is failed, it is assumed that the PCs cannot understand the device. They can either have the item appraised at a settlement or use it and hope for the best. 
 
 ## Advancement
 As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your Level. All new characters start at Level 1, and advance by completing Expeditions. The precise nature of a single Expedition will be defined by the GM, but they usually involve extended journeys during which the characters solve problems, negotiate with or battle opponents, and discover more about the world of Vaarn. Completing an Expedition will gain you one experience point or __XP__. When your XP equals your current Level, increase your Level by one and erase all XP tallies.  
