@@ -1,5 +1,5 @@
 # Ancestries
-_Ancestries describe what kind of being you are. Choose one of the five and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only._
+_Ancestries describe what kind of being you are. Choose one of the nine and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only._
 
 ## True-Kin
 _The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony._
@@ -476,7 +476,7 @@ __Crystalline Flesh__ - You are made from living crystal. Your minimum Armour De
 __Inevitable__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
 
 ## Planeyfolk
-_The Study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The Slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
+_The study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
 
 _Planeyfolk are the descendants of such unfortunates, a race fathered by men who slipped through the cracks of Euclidean space into something new and strange. Some have normal proportions, and can be mistaken for a true person when viewed head-on. Others are possessed of more exotic geometry, their forms warped by impossible vanishing points and blasphemous angles._
 
