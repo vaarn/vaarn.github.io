@@ -206,7 +206,7 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 <tr><td>20</td><td>Mildly Psychedelic</td><td>Sacred Caves</td><td>Famous Musician</td><td>Fasting</td></tr>
 </table>
 
-## FAA Nomads
+## Faa Nomads
 <table>
 <thead><tr><th>d20</th><th>NUMBERS</th><th>Transport</th><th>Livestock</th><th>Mood</th></th></thead>
 <tr><td>1</td><td rowspan="3">Outriders<br />(d4)</td><td rowspan="3">On foot</td><td rowspan="3">Goats</td><td>Angry</td></tr>
