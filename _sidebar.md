@@ -15,6 +15,7 @@
     - [Gnomon](regions/the-badlands/gnomon.md)
   - [The Interior](regions/the-interior.md)
 - [Bestiary](bestiary.md)
+- [Tongues of Vaarn](tongues-of-vaarn.md)
 - [Titans Of A Faded Age](titans.md)
 
 - [Resources](resources.md)
