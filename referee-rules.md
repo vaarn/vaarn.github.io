@@ -22,7 +22,7 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 **Damage:** This indicates the number of attacks a monster can make per round, and the damage dice rolled for each.  
 
-**Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt the flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
+**Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt to flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
 
 ## Monster Types
 **Biological:** A living creature, made from flesh and blood. No unusual resistances or weaknesses.
