@@ -73,7 +73,7 @@ Note that Gifts are only lightly defined by their name, and the players and refe
  
 Gifts always hit in combat without rolling against armour defence values, and deal damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. Therefore, paying d6 HP will result in a damage roll of d8 + PSY bonus; the same ratio applies if trying to heal an ally using a Gift. Some Gifts, such as mind control or force barriers, could be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
  
-Mystic Gifts are not earned merely by gaining levels; they must be actively hunted for. Sources of new Gifts could include imbibing psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, meditating in front of a hypergeometric obelisk, and so on. It is up to the GM how exactly new Gifts can be obtained. 
+Mystic Gifts are not earned merely by gaining levels; they must be actively hunted for. Sources of new Gifts could include imbibing psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, meditating in front of a hypergeometric obelisk, and so on. It is up to the Referee how exactly new Gifts can be obtained. 
 
 
 ## Exotica
