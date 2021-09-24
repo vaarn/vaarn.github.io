@@ -8,7 +8,7 @@ Each of the six abilities is used in different circumstances.
 - __Constitution__: Used for saves to resist poison, sickness, cold, etc. The Constitution bonus is added to healing rolls. A PC's number of item slots is always equal to their Constitution defence.
 - __Intellect__: Used for saves requiring concentration and precision, such as recalling information, crafting objects, tinkering with machinery, identifying arcane technology, etc.
 - __Psyche__: Used for saves requiring perception and intuition, such as tracking, navigating, searching for secret doors, communing with psychic powers, etc.
-- __Eco__: Used for saves requiring willpower and charm, such as persuading, deceiving, intimidating, resisting mental domination, etc.
+- __Ego__: Used for saves requiring willpower and charm, such as persuading, deceiving, intimidating, resisting mental domination, etc.
 
 ## Saving Throws
 If a character attempts something where the outcome is uncertain and failure has consequences, they make a saving throw, or "save". To make a save, add the bonus of the relevant ability to a d20 roll. If the total __exceeds 15__, the character succeeds. If not, they fail.  
