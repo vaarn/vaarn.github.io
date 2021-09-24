@@ -45,6 +45,15 @@ _Biological_ / _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Cyborg war-boars infested with nanomachinery. Their flamethrower snouts target everyone in range.</td></tr>
 </table>
 
+## Blightstone Knight
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 19</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Tarnished Greatsword (d10) + Shield Bash (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Vengeful radioactive revenant. Withered corpse inside sentient powered armour. Fanatically guards buried blightstone mines. Biological creatures who attack the Blightstone Knight at melee range must make a CON save each round or suffer d8 CON damage from the leaking radiation.</td></tr>
+</table>
+
 ## Blue Baboon
 _Biological_
 <table>
@@ -205,6 +214,15 @@ _Biological_ / _Synthetic_
 <tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Electric Claws (d6) / Binding Pelt</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Lurid cyborg feline. Feeds on sources of electrical power, including synths. The lynx can ignite every filament in its synthetic pelt like a flash-bang, forcing DEX saves to avoid d6 rounds of blindness; they will use this technique to ambush potential prey or to escape a lost fight.</td></tr>
+</table>
+
+## Lamigator
+_Biological_
+<table>
+<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6), followed by Deathroll (d10) in water</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Great pallid crocodilian coated in a symbiotic layer of living plastic. Following a successful bite, the Lamigator will deathroll its prey if it is in water. This deals d10 damage per turn with no to-hit roll needed. Victim must make an opposed STR save to break free.</td></tr>
 </table>
 
 ## Leopard Worm
