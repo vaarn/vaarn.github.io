@@ -1,3 +1,5 @@
+# Tongues of Vaarn
+
 **Hegemonic Standard:** The language of bureaucracy, taxation, legal contracts, debt, and edicts. The official tongue of the New Hegemony, and therefore the ‘official’ tongue of the occupied areas of Vaarn as well. Not widely heard outside of Gnomon.
 
 **Vaarnish:** The lingua franca of Vaarn and the surrounding regions. Vaarnish is the linguistic bridge between Faa nomad tribes, Cacklemaw clans, Hegemony troops, the denizens of Gnomon, the vertiginous theocracies that roost within the Great Wall, and all other corners of this vast blue ruin. Spoken by many, but the mother tongue of few, Vaarnish is considered by linguists to be a descendent of Low Autarkic, with loan-words plucked from the Faatongue, Hegemonic Standard, and the obscure dialects spoken within the Great Wall.
