@@ -86,6 +86,31 @@ Sometimes CON may not be the appropriate attribute to test; pursuits over partic
 ## Night Watches
 When camping in the desert, the PCs may elect a party member to take watch. Whoever is on watch cannot benefit from a Long Rest; instead they will regain only d8 + CON bonus HP. If the party is approached by a hostile creature at night, the referee should ask the character on watch to make a PSY save opposed to the creature’s DEX. Failure grants the monsters a surprise round in combat; the aggressors strike with advantage, and the players cannot respond. After the surprise round is resolved, roll for initiative as normal.
 
+## Desert Encounters
+<table>
+<thead><tr><th>d20</th><th>Encounter</th><th>Terrain</th><th>Behaviour</th></th></thead>
+<tr><td>1</td><td>Yurling</td><td>Scrubby Bushes</td><td>Sleeping</td></tr>
+<tr><td>2</td><td>Thunderstrike Bird</td><td>Salt Pan</td><td>Dying</td></tr>
+<tr><td>3</td><td>Battle Boar</td><td>Sand Dunes</td><td>Patrolling</td></tr>
+<tr><td>4</td><td>Blue Baboon</td><td>Heavy Scree</td><td>Mating</td></tr>
+<tr><td>5</td><td>Giant Azure Scorpion</td><td>Dried Up Stream</td><td>Territorial Display</td></tr>
+<tr><td>6</td><td>Lizard Lion</td><td>Dry Watering Hole</td><td>Eating</td></tr>
+<tr><td>7</td><td>Glass Tiger</td><td>Large Rock</td><td>Relaxing / Nesting</td></tr>
+<tr><td>8</td><td>Greenguard</td><td>Cactus Field</td><td>Pursuit / Fleeing</td></tr>
+<tr><td>9</td><td>Grey Locust</td><td>Grove of Martyr Trees</td><td>Scavenging</td></tr>
+<tr><td>10</td><td>Doppelgeller</td><td>Derelict Vehicle</td><td>Wounded</td></tr>
+<tr><td>11</td><td>Leopard Worm</td><td>Wrecked Spacecraft</td><td>Wounded</td></tr>
+<tr><td>12</td><td>Indigo Servitor</td><td>Abandoned Town</td><td>Travelling</td></tr>
+<tr><td>13</td><td>Bandit</td><td>Ruined Bell-tower</td><td>Psychedelic State</td></tr>
+<tr><td>14</td><td>Pthalo-Jackal</td><td>Toxin Pools</td><td>Sheltering / Hiding</td></tr>
+<tr><td>15</td><td>Planeyfolk</td><td>Caustic Geyser</td><td rowspan="6">Combat with another creature<br />(roll again)</td></tr>
+<tr><td>16</td><td>Regenerator</td><td>Crystalline Growths</td></tr>
+<tr><td>17</td><td>Tiger Fly</td><td>Ancient Battlefield</td></tr>
+<tr><td>18</td><td>Stumbling Drone</td><td>Fungus-choked Outpost</td></tr>
+<tr><td>19</td><td>Alzabo</td><td>Silent Machinery</td></tr>
+<tr><td>20</td><td>Cacogen Pseudo-giant</td><td>Abandoned Campsite</td></tr>
+</table>
+
 
 # Weather
 The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
@@ -179,7 +204,7 @@ _For use when the party searches a corpse, a wrecked vehicle, a deserted house, 
 __Not-Sword__  
 A blade engraved with paradoxical LogLang glyphs. Synthetic creatures cannot recognise this weapon as a blade, nor can they recognise the bearer of the sword as a living being.  
 __Amaranthine Sugar__  
-Fabulously valuable substance, extracted through patient husbandry from the bodies of adult sand- worms. Ingestion greatly boosts the psychic strength of biological creatures. Each dose grants one new randomly rolled Mystic Gift.  
+Fabulously valuable substance, extracted through patient husbandry from the bodies of adult sandworms. Ingestion greatly boosts the psychic strength of biological creatures. Each dose grants one new randomly rolled Mystic Gift.  
 __Bottled Thicket__  
 Glass vial containing weaponised seeds. When the vial is broken, the seeds germinate and begin an astoundingly rapid life cycle, sprouting into a dense tangle of iridescent vines within seconds.  
 __Gecko Gloves__  
