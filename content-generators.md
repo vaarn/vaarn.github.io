@@ -181,55 +181,6 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |19|Jewelled|Titan|Awkward|Physics|Drugs Hidden Inside|
 |20|Indigo|Warrior|Pedantic|Sex|Utterly Illegible|
 
-## Faa Nomads
-<table>
-<thead><tr><th>d20</th><th>NUMBERS</th><th>Transport</th><th>Livestock</th><th>Mood</th></th></thead>
-<tr><td>1</td><td rowspan="3">Outriders<br />(d4)</td><td rowspan="3">On foot</td><td rowspan="3">Goats</td><td>Angry</td></tr>
-<tr><td>2</td><td>Scared</td></tr>
-<tr><td>3</td><td>Mourning</td></tr>
-<tr><td>4</td><td rowspan="4">A family group<br /> (2d6)</td><td rowspan="4">Pack Camels</td><td rowspan="4">Cattle</td><td>Talkative</td></tr>
-<tr><td>5</td><td>Sullen</td></tr>
-<tr><td>6</td><td>Warlike</td></tr>
-<tr><td>7</td><td>Contemplative</td></tr>
-<tr><td>8</td><td rowspan="4">Extended family group <br />(3d6)</td><td rowspan="5">Iron Mules</td><td rowspan="2">Lizards</td><td>Pious</td></tr>
-<tr><td>9</td><td>Crazed</td></tr>
-<tr><td>10</td><td rowspan="3">Feastbeasts</td><td>Suspicious</td></tr>
-<tr><td>11</td><td>Cheerful</td></tr>
-<tr><td>12</td><td rowspan="4">Small Clan<br \></td><td>Wary</td></tr>
-<tr><td>13</td><td rowspan="6">War Camels</td><td rowspan="3">Yurlings</td?><td>Overconfident</td></tr>
-<tr><td>14</td><td>Argumentative</td></tr>
-<tr><td>15</td><td>Proud</td></tr>
-<tr><td>16</td><td rowspan="3">Large Clan<br />(6d20)</td><td rowspan="2">Giant Snails</td><td>Silent</td></tr>
-<tr><td>17</td><td>Praying</td></tr>
-<tr><td>18</td><td rowspan="3">Juvenile Sandworms</td><td>Celebrating</td></tr>
-<tr><td>19</td><td rowspan="2">Meeting of Clans<br />(3d100)</td><td rowspan="2">Sandworm Sled</td><td>Drunken</td></tr>
-<tr><td>20</td><td>Boastful</td></tr>
-</table>
-
-<table>
-<thead><tr><th>d20</th><th>Leader</th><th>They Have</th><th>They Want</th><th>They Survive By</th></th></thead>
-<tr><td>1</td><td>Stern Patriarch</td><td>Meat</td><td>Meat</td><td rowspan="2">Scavenging and Selling Scrap</td></tr>
-<tr><td>2</td><td>Stern Matriarcrh</td><td>Dates</td><td>Wine</td></tr>
-<tr><td>3</td><td>Council of Elders</td><td>Olives</td><td>Beer</td><td rowspan="2">Animal Herding</td></tr>
-<tr><td>4</td><td>Charismatic Visionary</td><td>Cheese</td><td>salt</td></tr>
-<tr><td>5</td><td>Wounded Old Warrior</td><td>Weapons</td><td>Weapons</td><td rowspan="2">Trading Between Static Settlements</td></tr>
-<tr><td>6</td><td>Husband and Wife, arguing</td><td>Hides</td><td>Information</td></tr>
-<tr><td>7</td><td>Husband and Wife, happy</td><td>Precious Metal</td><td>Shelter</td><td rowspan="2">Raiding Other Nomads</td></tr>
-<tr><td>8</td><td>Young Hothead</td><td>Machine Parts</td><td>Slaves</td></tr>
-<tr><td>9</td><td>Drug-addled Oracle</td><td>Medicine</td><td>Escaped Prisoner</td><td rowspan="2">Controlling a Pass or Road</td></tr>
-<tr><td>10</td><td>Sinister Slayer</td><td>Spices</td><td>Ceptured Bride</td></tr>
-<tr><td>11</td><td>Lecherous Patriarch</td><td>Drugs</td><td>Runaway Groom</td><td rowspan="2">Controlling a Watercourse</td></tr>
-<tr><td>12</td><td>Lucherous Matriarch</td><td>Spare Livestock</td><td>Revenge: Other Faa</td></tr>
-<tr><td>13</td><td>Twin Brothers/Sisters</td><td>Fabrics</td><td>Revenge: Monster</td><td rowspan="2">Move between Oases</td></tr>
-<tr><td>14</td><td>Blind Brothers/Sisters</td><td>Fungus</td><td>Revenge: Hegemony</td></tr>
-<tr><td>15</td><td>Accomplished Animal Tamer</td><td>Sugar</td><td>Revenge: Bandits</td><td rowspan="2">Hunting Sandworms</td></tr>
-<tr><td>16</td><td>Frail Grandmother</td><td>Cybernetics</td><td>Missing Child</td></tr>
-<tr><td>17</td><td>Skilled Sharpshooter</td><td>Tonics</td><td>Medical Help</td><td rowspan="2">Raiding Static Settlements</td></tr>
-<tr><td>18</td><td>Cruel Psychic</td><td>Books</td><td>Humiliate Other Faa</td></tr>
-<tr><td>19</td><td>Power Struggle</td><td>Exotica</td><td>To Party</td><td rowspan="2">Slave Traders</td></tr>
-<tr><td>20</td><td>Anarchy</td><td>Water</td><td>Water</td></tr>
-</table>
-
 ## Drugs of Vaarn
 |d20|Colour|Form|Ingested By|Effect (x2)|
 |---|------|----|-----------|-----------|
@@ -253,31 +204,6 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |18|Violet|Blood|Place in Ear|Can't Stop Dancing|
 |19|Octarine|Clay|Only Affects Synths|Very Mellow|
 |20|Ulfire|Tooth|Smell It|Hightened Empathy|
-
-## Ruins of Vaarn
-<table>
-<thead><tr><th>d20</th><th>What Was It?</th><th>And Then?</th><th>But Also</th><th>Now</th></th></thead>
-<tr><td>1</td><td>Bath House</td><td>Hermitage</td><td>Haunted by Planeyfolk</td><td rowspan="5">Abandoned</td></tr>
-<tr><td>2</td><td>Cryogenic Chambers</td><td>Bandit Hideout</td><td>Has Hidden Water</td></tr>
-<tr><td>3</td><td>Orbital Defence Turret</td><td>Cultist Compound</td><td>Has Abundant Food Source</td></tr>
-<tr><td>4</td><td>Cyborg Construction</td><td>Barracks</td><td>Has Abundant Drugs</td></tr>
-<tr><td>5</td><td>Theatre</td><td>Monastery</td><td>Wild Animal Nest</td></tr>
-<tr><td>6</td><td>Observatory</td><td>Creature's Lair</td><td>Part of Creature Territory</td><td rowspan="5">Creature's Lair</td></tr>
-<tr><td>7</td><td>Barracks</td><td>Brothel</td><td>Contains Exotica</td></tr>
-<tr><td>8</td><td>Autarch Statue</td><td>Inn</td><td>Has Petty-God Shrine</td></tr>
-<tr><td>9</td><td>Power Generator</td><td>Theatre</td><td>Has Titan Shrine</td></tr>
-<tr><td>10</td><td>Noble's Residence</td><td>Gladiator Pit</td><td>Has Weapons Cache</td></tr>
-<tr><td>11</td><td>Autarch's Tomb</td><td>Madhouse</td><td>Upsetting Artwork</td><td rowspan="5">Bandit Hideout</td></tr>
-<tr><td>12</td><td>Chemical Processing</td><td>Cloning Facility</td><td>Used for Sacrifices</td></tr>
-<tr><td>13</td><td>Temple</td><td>Mystic's Abode</td><td>Fire Damaged</td></tr>
-<tr><td>14</td><td>Shrine</td><td>Shrine</td><td>Crystal Encrusted</td></tr>
-<tr><td>15</td><td>Transit Hub</td><td>Fungus Garden</td><td>Swallowed by Sands</td></tr>
-<tr><td>16</td><td>Farm Array</td><td>Battlefield</td><td>Overgrown with Fungus</td><td rowspan="3">Hegemony Outpost</td></tr>
-<tr><td>17</td><td>Bioengineering Facility</td><td>Demon Shrine</td><td>Servitor Synths Still Function</td></tr>
-<tr><td>18</td><td>Medical Facility</td><td>Trading Post</td><td>Strange Monolith</td></tr>
-<tr><td>19</td><td>Communications Array</td><td>Oasis</td><td>Crashed Vehicle</td><td rowspan="2">Nomad Encampment</td></tr>
-<tr><td>20</td><td>Space Port</td><td>Prison</td><td>Defence System Active</td></tr>
-</table>
 
 ## Petty Gods of Vaarn
 Vaarn is the graveyard of faiths, some older than the very stars that shine overhead. Gods are carried here in the hearts of those who seek to make a life amongst the unending azure sands, and deities proliferate like ragweed across the desolation. A Vaarnish traveller would find it noteworthy to walk a day without encountering the remains of an enigmatic shrine to a member of a long-forgotten pantheon, a standing stone where blood was once spilt to appease a quantum daemon, or the abode of a hermit who still observed the rituals of an oblique and private devotion.
@@ -304,55 +230,6 @@ Vaarn is the graveyard of faiths, some older than the very stars that shine over
 |18|Spider|Goblet|Art|Salmon|Water Ritual|
 |19|Sandworm|Owl|Wind|Olive|A Secret Name|
 |20|Jester|Horned|Silence|Rust|Marathon Race|
-
-## Bandits
-<table>
-<thead><tr><th>d20</th><th>Number</th><th>Type</th><th>Leader</th><th>Weapons</th></th></thead>
-<tr><td>1</td><td rowspan="5">Small Group</td><td>Faa Nomads</td><td>Silent Brute</td><td>Martial Arts</td></tr>
-<tr><td>2</td><td>Cacklemaw Raiders</td><td>Small but Intense</td><td>Bite and Scream</td></tr>
-<tr><td>3</td><td>Hegemony Deserters</td><td>One-Eyed Woman</td><td>Crossbows</td></tr>
-<tr><td>4</td><td>Escaped Slaves</td><td>Rogue Synth</td><td>Blowdarts</td></tr>
-<tr><td>5</td><td>Luckless Drifters</td><td>Self-styled King</td><td>Throwing Axes</td></tr>
-<tr><td>6</td><td rowspan="6">Modest Band</td><td>Doomsday Cult</td><td>Exiled Nobleman</td><td>Swords</td></tr>
-<tr><td>7</td><td>Lepers</td><td>Tells Jokes</td><td>Slings</td></tr>
-<tr><td>8</td><td>Slavers</td><td>Infamous Outlaw</td><td>Spears and Nets</td></tr>
-<tr><td>9</td><td>Cruel Children</td><td>Ex-Gladiator</td><td>Flails</td></tr>
-<tr><td>10</td><td>Ghoul Clan</td><td>Scrawny Genius</td><td>Rocket Launcher</td></tr>
-<tr><td>11</td><td>False Monks</td><td>Ex-Courtesan</td><td>Poison Gas</td></tr>
-<tr><td>12</td><td rowspan="6">Large Band</td><td>Fungus-riddled Maniacs</td><td>Smiling Psychopath</td><td>Revolvers</td></tr>
-<tr><td>13</td><td>Businesslike Thugs</td><td>Delusional Drunkard</td><td>Rifles</td></tr>
-<tr><td>14</td><td>Gibbering Cacogen</td><td>Sadistic Glutton</td><td>Crude Jezails</td></tr>
-<tr><td>15</td><td>Maskless Newbeasts</td><td>Calm and Polite</td><td>Ancient Cannon</td></tr>
-<tr><td>16</td><td>Gang of Fools</td><td>Apologetic but Firm</td><td>Combat Lasers</td></tr>
-<tr><td>17</td><td>Scantily Clad Women</td><td>Lustful and Crude</td><td>Sonic Weapons</td></tr>
-<tr><td>18</td><td rowspan="3">Mob</td><td>Elderly Thieves</td><td>Cartoonishly Evil</td><td>Trained Beast</td></tr>
-<tr><td>19</td><td>Hegemony Soldiers</td><td>Leaves a Calling Card</td><td>Plasma Rifles</td></tr>
-<tr><td>20</td><td>Gentleman Robbers</td><td>Robin Hood-esque</td><td>Psychic Powers</td></tr>
-</table>
-
-<table>
-<thead><tr><th>d20</th><th>Transport</th><th>Tactics</th><th>They Want</th></th></thead>
-<tr><td>1</td><td rowspan="4">On Foot</td><td rowspan="4">Roving Raiders</td><td>Water</td></tr>
-<tr><td>2</td><td>Food</td></tr>
-<tr><td>3</td><td>Gold</td></tr>
-<tr><td>4</td><td>Weapons</td></tr>
-<tr><td>5</td><td rowspan="4">Camel Riders</td><td rowspan="4">Ambush From Hiding</td><td>Sacrifices</td></tr>
-<tr><td>6</td><td>New Recruits</td></tr>
-<tr><td>7</td><td>Medicine</td></tr>
-<tr><td>8</td><td>Forbidden Books</td></tr>
-<tr><td>9</td><td rowspan="4">Dune Skuggies</td><td rowspan="5">Pretend to Need Help</td><td>Fungus</td></tr>
-<tr><td>10</td><td>Synths</td></tr>
-<tr><td>11</td><td>Children</td></tr>
-<tr><td>12</td><td>Slaves</td></tr>
-<tr><td>13</td><td rowspan="3">Wind-Wagon</td><td>Entertainment</td></tr>
-<tr><td>14</td><td rowspan="4">Night Attacks</td><td>Wine</td></tr>
-<tr><td>15</td><td>Beer</td></tr>
-<tr><td>16</td><td rowspan="3">Antigravity Bikes</td><td>Forgiveness</td></tr>
-<tr><td>17</td><td>To Eat You</td></tr>
-<tr><td>18</td><td rowspan="3">Control a Road</td><td>Single Combat</td></tr>
-<tr><td>19</td><td rowspan="2">Auto-chariots</td><td>Your Eyes</td></tr>
-<tr><td>20</td><td>Your Teeth</td></tr>
-</table>
 
 ## Trade Caravans
 <table>
@@ -401,3 +278,54 @@ Vaarn is the graveyard of faiths, some older than the very stars that shine over
 |18|Courtesan|Cloaking Device|Everyone's Drunk|
 |19|Barber|Hegemony Deserters|Fungal Infection|
 |20|Snake Charmer|Loyal and Competent|Everyone's Arguing|
+
+
+## You Found A Corpse
+|d20|Condition|What Were They Carrying?|
+|---|---------|------------------------|
+|1|Desiccated|Plastic Bag Full of Teeth|
+|2|Skeletal|Can of Survival Rations|
+|3|Mummified by Heat|Pocket Hourglass|
+|4|Riddled with Bullets|Set of Dominoes|
+|5|Seared by Laser-fire|Waxen Poetry Cylinder|
+|6|Worryingly Fresh|Prayer Beads|
+|7|Centuries Old|Synthetic Eye|
+|8|Half-Eaten by Animals|Stick of Infrared Chalk|
+|9|Someone You Know|Bottle with a Tiny Eel Inside|
+|10|Sliced Neatly in Half|Lizard-Skin Boots|
+|11|Seated in Lotus Position|Locket with Hair Inside|
+|12|Ritually Mutilated|Ring with an Autarch's Seal|
+|13|Charred by Flames|Dice Decorated with Arcane Symbols|
+|14|Banquet for Worms|Coil of Razorwire|
+|15|Frozen Solid|Crystalline Vial of Ink|
+|16|Drained of Blood|Exorcist's Bell|
+|17|Infested with Nanotech|Telepathy Suppression Pills|
+|18|Pungent|Glowstone|
+|19|Could be Sleeping|Malfunctioning Memory Crystal|
+|20|Not Quite Dead|Pack of Ancient Cigarettes|
+
+# Fine Dining
+
+<table>
+<thead><th>d20</th><th>Ingredients (2x)</th><th>Main Dish</th><th>Side Dishes (x2)</th><th>Beverage</th></thead>
+<tr><td>1</td><td>Baboon Brains</td><td>Tagine</td><td>Bell Peppers</td><td>Turquoise Wine</td></tr>
+<tr><td>2</td><td>Ghost Pepper</td><td>Curry</td><td>Flatbread</td><td>Umber Wine</td></tr>
+<tr><td>3</td><td>Sandworm Egg</td><td>Stew</td><td>Humous</td><td>Peach Wine</td></tr>
+<tr><td>4</td><td>Pthalo-Jackal Haunch</td><td>Tangia</td><td>Olives</td><td>Xanthine Wine</td></tr>
+<tr><td>5</td><td>Brain Slug</td><td>Soup</td><td>Dates</td><td>Aurum Wine</td></tr>
+<tr><td>6</td><td>Peach Fungus</td><td>Kebab</td><td>Rasins</td><td>Azure Wine</td></tr>
+<tr><td>7</td><td>Skull Pepper</td><td>Omelette</td><td>Yoghurt</td><td>Ashen Wine</td></tr>
+<tr><td>8</td><td>Honeyed Lamb</td><td>Pie</td><td>Falafel</td><td>Pale Wine</td></tr>
+<tr><td>9</td><td>Salt Pork</td><td>Stir-Fry</td><td>Sweet Cucumber</td><td>Sable Wine</td></tr>
+<tr><td>10</td><td>Aubergine</td><td>Pancake</td><td>Honeyed Locusts</td><td>Vaarnish Small Beer</td></tr>
+<tr><td>11</td><td>Spiced Goat</td><td>Sausage</td><td>Baba Ghanoush</td><td>Orange Juice</td></tr>
+<tr><td>12</td><td>Leopard Worm</td><td>Meatballs</td><td>Almonds</td><td>Lemon Juice</td></tr>
+<tr><td>13</td><td>Land Parrot</td><td>Rechta</td><td>Fried Potatoes</td><td>Alabaster Beer</td></tr>
+<tr><td>14</td><td>Crayfish Egg</td><td>Couscous</td><td>Vinegar Egg</td><td>Emerald Beer</td></tr>
+<tr><td>15</td><td>Fennec Fox</td><td>Pastilla</td><td>Rice</td><td>Lazulite Beer</td></tr>
+<tr><td>16</td><td>Cliff Ghar</td><td>Brik</td><td>Crayfish</td><td>Dusken Champagne</td></tr>
+<tr><td>17</td><td>Land Shark</td><td>Shakshouka</td><td>Blue Cheese</td><td>Black Coffee</td></tr>
+<tr><td>18</td><td>Yurling</td><td>Stuffed Peppers</td><td>Persimmon</td><td>Honeyed Milk</td></tr>
+<tr><td>19</td><td>Blood Orange</td><td>Sandwich</td><td>Jellied Eels</td><td>Lambent Whiskey</td></tr>
+<tr><td>20</td><td>Deacon Pepper</td><td>Wonton</td><td>Sand Oysters</td><td>Lotus Tea</td></tr>
+</table>
