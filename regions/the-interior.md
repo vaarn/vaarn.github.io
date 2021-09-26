@@ -708,7 +708,7 @@ _Vaarn is above all else a land heavy with endings, and tombs punctuate the deso
 <tr><td>16</td><td><a href="#/regions/the-interior.md?id=wreck">Near Wreck</a></td><td>Hegemony Rangers</td><td>Below Cairn</td><td>Site of Pilgrimage</td></tr>
 <tr><td>17</td><td><a href="#/regions/the-interior.md?id=oasis">Near Oasis</a></td><td>Massacred Faa Nomads</td><td>Inside Stone Cube</td><td>Synthetic Grave Keeper</td></tr>
 <tr><td>18</td><td><a href="#/regions/the-interior.md?id=ruin">Near Ruin</a></td><td>Hegemony Exultant</td><td>Inside Hypergeometric Artefact</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=lair">Near Holy Place</a></td><td>Autarch</td><td>Frozen Outside Time-stream</td><td><a>Entrance to Vault</a></td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=holy-place">Near Holy Place</a></td><td>Autarch</td><td>Frozen Outside Time-stream</td><td><a href="#/regions/the-interior.md?id=vault">Entrance to Vault</a></td></tr>
 <tr><td>20</td><td><a href="#/regions/the-interior.md?id=settlement">Near Settlement</a></td><td>Extra-Solar Explorers</td><td>Not Really Dead</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
 </table>
 
