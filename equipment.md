@@ -26,27 +26,27 @@
 
 ## Armour
 <table>
-<thead><tr><th>d20</th><th>ARMOUR</th><th>HELM & SHIELD</th></tr></thead>
-<tr><td>1</td><td rowspan="4">None (Armour 10)</td><td rowspan="10">None</td></tr>
-<tr><td>2</td></tr>
-<tr><td>3</td></tr>
-<tr><td>4</td></tr>
-<tr><td>5</td><td rowspan="6">Light Armour<br />(2 slots, Armour 12)</td></tr>
-<tr><td>6</td></tr>
-<tr><td>7</td></tr>
-<tr><td>8</td></tr>
-<tr><td>9</td></tr>
-<tr><td>10</td></tr>
-<tr><td>11</td><td rowspan="7">Medium Armour<br />(4 slots, Armour 14)</td><td rowspan="4">Helm<br />(1 slot, +1 Armour)</td></tr>
-<tr><td>12</td></tr>
-<tr><td>13</td></tr>
-<tr><td>14</td></tr>
-<tr><td>15</td><td rowspan="3">Shield<br />(1 slot, +1 Armour)</td></tr>
-<tr><td>16</td></tr>
-<tr><td>17</td></tr>
-<tr><td>18</td><td rowspan="3">Heavy Armour<br />(6 slots, Armour 16)</td><td rowspan="3">Helm and Shield<br />(2 slots, +2 Armour)</td></tr>
-<tr><td>19</td></tr>
-<tr><td>20</td></tr>
+<thead><tr><th>d20</th><th>QUALITY</th><th>TYPE</th></tr></thead>
+<tr><td>1</td><td>Shabby</td><td rowspan="2">Desert Robes<br />(1 slot, Armour 11)</td></tr>
+<tr><td>2</td><td>Decadent</td></tr>
+<tr><td>3</td><td>Ancestral</td><td rowspan="2">Hazard Wrap<br />(2 slots, Armour 12)<br />Immunity from Radiation and Toxins</td></tr>
+<tr><td>4</td><td>Quicksilver</td></tr>
+<tr><td>5</td><td>Nano-weave</td><td rowspan="4">War Shirt<br />(2 slots, Armour 12)</td></tr>
+<tr><td>6</td><td>Spiny</td></tr>
+<tr><td>7</td><td>Dazzling</td></tr>
+<tr><td>8</td><td>Tarnished</td></tr>
+<tr><td>9</td><td>Indigo</td><td rowspan="5">Brigandine<br />(3 slots, Armour 13)</td></tr>
+<tr><td>10</td><td>Golden</td></tr>
+<tr><td>11</td><td>Symbiotic</td></tr>
+<tr><td>12</td><td>Biomechanical</td></tr>
+<tr><td>13</td><td>Occult</td></tr>
+<tr><td>14</td><td>Fungal</td><td rowspan="3">Curiass<br />(4 slots, Armour 14)</td></tr>
+<tr><td>15</td><td>Translucent</td></tr>
+<tr><td>16</td><td>Gaudy</td></tr>
+<tr><td>17</td><td>Sacred</td><td rowspan="2">Chain-mail<br />(5 slots, Armour 15)</td></tr>
+<tr><td>18</td><td>Iridescent</td></tr>
+<tr><td>19</td><td>Crystalline</td><td rowspan="2">Plate Armour<br />(6 slots, Armour 16)<br />Disadvantage to swim or climb</td></tr>
+<tr><td>20</td><td>Ornate</td></tr>
 </table>
 
 ## Gear Table
