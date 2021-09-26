@@ -14,7 +14,7 @@ Vaarn is a science-fantasy RPG setting. It draws inspiration from novels like Du
 Basically the sun is going out, it’s the end of history, and your characters are combing through the wreckage of the unimaginable eras of the future. Everything that could possibly happen has already happened and faded to dust. Vaarn is an anti-canon setting, where nobody can agree on the world’s history and ultimately it doesn't matter. However, there are some facts about Vaarn that are known for sure:
 
 1. Vaarn is a sky-blue desert littered with the ruins of the far future.  
-2. Vaarn is inhabited mainly by true-kin (humans), cacogen (mutants), synths (robots), newbeasts (sapient animals), and mycromorphs (fungus-men).  
+2. Vaarn is inhabited mainly by true-kin (humans), cacogen (mutants), synths (robots), newbeasts (sapient animals), and mycomorphs (fungus-men).  
 3. The sun is a dying red giant. It won’t go out in a human lifetime, but synths have reason to be concerned.  
 4. Vaarn is both archaic and futuristic. Think sword fights inside the wrecked husks of ancient spaceships.  
 5. There’s a place to the south called the New Hegemony. It’s like the Roman Empire. Theoretically the Hegemony rules Vaarn, but they have little presence besides a few fortified border towns.  
