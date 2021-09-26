@@ -90,5 +90,5 @@ When your Level increases, you receive 3 points which you may use to increase yo
 
 Once a character has reached Level 10, they are considered complete. Each subsequent level will grant only one extra HP, and they cannot increase their Abilities further. It is recommended that they recruit a Level 1 apprentice to accompany them on expeditions. In time, this apprentice can become the player’s new main character.
 
-   ?> _**Note:** Each item of Exotica traded in counts for one XP in total, not one XP per player. A group of four Level 1 PCs would need to trade in four items of Exotica in order for all characters to reach Level 2._
+ _**Note:** Each item of Exotica traded in counts for one XP in total, not one XP per player. A group of four Level 1 PCs would need to trade in four items of Exotica in order for all characters to reach Level 2._
 
