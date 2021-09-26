@@ -11,7 +11,7 @@
 - [Content Generators](content-generators.md)
 - [Transport in Vaarn](vehicles.md)
 - [Regions of Vaarn]()
-  - [Gnomon](regions/the-badlands/gnomon.md)
+  - [Gnomon](regions/gnomon.md)
   - [The Interior](regions/the-interior.md)
 - [Bestiary](bestiary.md)
 - [Tongues of Vaarn](tongues-of-vaarn.md)

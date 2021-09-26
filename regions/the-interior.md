@@ -1,4 +1,5 @@
 # The Interior
+---
 
 The Interior is the name outsiders give to the trackless blue desert that forms Vaarn's heart. It is a harsh and inhospitable landscape, and has claimed the lives of many travellers over the millennia, but there are peoples and monsters and marvels to be discovered in the vastness. The Interior is traversed by wary trade caravans, terrorised by laughing Cacklemaw warbands, and inhabited by the Faa nomads, to whom this desert is not the Vaarnish Interior but rather the world entire. The deepest deserts also play host to Vaarn’s most spectacular and regal inhabitants: the gigantic sandworms, which strike awe into the hearts of all who are lucky enough to witness them.
 
@@ -12,9 +13,10 @@ Simply put, the Interior connects all regions of Vaarn to one another; the quick
 
 There are also reasons to make the Interior a destination in its own right. Most of Vaarn’s noteworthy ruins and vaults are located in the desert - the vastness and shifting nature of the place allows creative referees to place whatever kind of structure they can imagine in the Interior, without having to further justify its obscurity and isolation. There are also unique cultures that exist predominantly in the desert. Players who wish to locate a certain Faa nomad clan or Lithling scholar will find that they must brave the sandstorms and heatwaves in order to speak with them. 
 
-Campaigns that focus on the Interior should revolve around movement, exploration, and discovery. If your players find the trading city [Gnomon](regions/the-badlands.md?id=gnomon) too claustrophobic, then give them an opportunity to enlist as guards for a merchant’s caravan, or let them come into possession of a small wind-barge and enjoy sailing wherever fate takes them. Other adventure starters in the Interior could include rescuing an important prisoner from a Cacklemaw warband, hunting down a notorious caravan robber in order to collect a bounty, or searching for the ruins of a biotech laboratory in order to discover the cure for a virulent disease.
+Campaigns that focus on the Interior should revolve around movement, exploration, and discovery. If your players find the trading city [Gnomon](regions/gnomon.md) too claustrophobic, then give them an opportunity to enlist as guards for a merchant’s caravan, or let them come into possession of a small wind-barge and enjoy sailing wherever fate takes them. Other adventure starters in the Interior could include rescuing an important prisoner from a Cacklemaw warband, hunting down a notorious caravan robber in order to collect a bounty, or searching for the ruins of a biotech laboratory in order to discover the cure for a virulent disease.
 
 # Desert Cultures
+---
 
 ## Faa Nomads
 The travelling people of the great blue desolation. The Faa have roamed the desert since the Titans were young (or so their songs say). Generations ago, the ancestors of the Faa bestowed upon their children genetic adaptations to the harsh conditions of the Interior. The most obvious of these changes is their flesh and hair, which have taken on a blue hue that matches the sands of Vaarn. Combined with the blue robes the nomads wear, they can swiftly become almost invisible amongst the azure dunes and rocks. The Faa also boast an impressive modified metabolism that allows them to survive for weeks without taking in fresh water, as their sweat and urine are collected and purified by sub-dermal biomechanisms and recycled into their bodies. Even the eyes of the Faa have been sculpted to survive in the desert: they possess a second set of translucent eyelids, which protect their vision during sandstorms. The nomads are also famously unable to produce tears, another modification that privileges water retention above all.
@@ -42,6 +44,8 @@ The lithling life-cycle is as alien to humanity as their bloodless bodies. Lithl
 Lithling have a scholarly, enquiring cast of mind, and are endlessly fascinated by the alien world of biological organisms they find themselves marooned on. The Lyceum is devoted to cataloging the minutiae of the natural world, and contains the life’s work of millions of long-dead lithling in its underground archives. Unfortunately, the records of the lithling are often of dubious usefulness to outsiders – their dissertations and essays tend to focus on the minutiae of data and experience while lacking the wider context that a human mind might find meaningful. One celebrated lithling study describes the movements made by generations of land-snails over a hundred year period, with the relative positions of each snail recorded by the second.
 
 # Travel Rules
+---
+
 Travel is an integral element of running game sessions in Vaarn’s Interior. Although many readers will have travel procedures that they are accustomed to using, I felt it might benefit those who feel less confident about running overland travel to learn how I do it in my own Vaarn games. 
 
 I don’t make use of detailed breakdowns of every six-mile hex between one destination or another. I use an abstracted system which boils down travel into two resources: **travel days** and **rations**. Characters need to spend both in order to make progress.
@@ -113,6 +117,8 @@ When camping in the desert, the PCs may elect a party member to take watch. Whoe
 
 
 # Weather
+---
+
 The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
 
 ## Weather Effects
@@ -243,6 +249,7 @@ __The Book of Sand__
 Hypergeometric book with an infinite number of pages, each filled with dense paragraphs of minuscule, utterly illegible text. All efforts to decode the book will fail, although it could provide the fuel for an eternally burning fire.  
 
 # Creating Regions
+---
 
 The Referee can generate regions of Vaarn using the following method. This technique will not create detailed maps encompassing every feature of the terrain, but rather a simulacra of a landscape that will fuel a few sessions of gaming.
 

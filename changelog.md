@@ -62,5 +62,8 @@ v0.9
   - Content Generators/Arcology Dome; Flavor text moved to Creating Regions
   - Content Generators/Oases in the Wastes
 - Update header indentation level for all of The Interior
-- Update font color used in links to the background color of VoV #1.
 - Update anchor links on The Interior tables.
+- CSS Updates
+  - Update font color used in links to the background color of VoV #1.
+  - H1 has a 50px top margin
+  - Tables are now the full width of the page
