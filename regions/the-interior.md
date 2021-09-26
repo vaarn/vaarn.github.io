@@ -14,9 +14,9 @@ There are also reasons to make the Interior a destination in its own right. Most
 
 Campaigns that focus on the Interior should revolve around movement, exploration, and discovery. If your players find the trading city [Gnomon](regions/the-badlands.md?id=gnomon) too claustrophobic, then give them an opportunity to enlist as guards for a merchant’s caravan, or let them come into possession of a small wind-barge and enjoy sailing wherever fate takes them. Other adventure starters in the Interior could include rescuing an important prisoner from a Cacklemaw warband, hunting down a notorious caravan robber in order to collect a bounty, or searching for the ruins of a biotech laboratory in order to discover the cure for a virulent disease.
 
-## Desert Cultures
+# Desert Cultures
 
-### Faa Nomads
+## Faa Nomads
 The travelling people of the great blue desolation. The Faa have roamed the desert since the Titans were young (or so their songs say). Generations ago, the ancestors of the Faa bestowed upon their children genetic adaptations to the harsh conditions of the Interior. The most obvious of these changes is their flesh and hair, which have taken on a blue hue that matches the sands of Vaarn. Combined with the blue robes the nomads wear, they can swiftly become almost invisible amongst the azure dunes and rocks. The Faa also boast an impressive modified metabolism that allows them to survive for weeks without taking in fresh water, as their sweat and urine are collected and purified by sub-dermal biomechanisms and recycled into their bodies. Even the eyes of the Faa have been sculpted to survive in the desert: they possess a second set of translucent eyelids, which protect their vision during sandstorms. The nomads are also famously unable to produce tears, another modification that privileges water retention above all.
 
 In truth the Faa are no single culture, but a mosaic of families and clans who share these genetic adaptations and a lingua-franca known as the Faatongue. Faa groups are wildly varied in their beliefs and lifestyles. Most are nomadic, but some Faa make permanent homes in the foothills of the mountains or around a valuable water-source. Some clans are feared slavers and warriors, but others are sworn to the Pale Faith of Amun-Oh and may harm no living creature. Some Faa are legal citizens of the New Hegemony; other clans are bitter enemies of the true-kin empire. Some Faa ostracise cacogen, synths, and newbeasts, while others welcome them. Faa nomads can be found everywhere in Vaarn, from the shadow of the Great Wall to the markets of Gnomon and the fortress monasteries that speckle the heights of the Lazul Mountains, and in each place there is no concordance on what it means to be Faa.
@@ -25,7 +25,7 @@ Perhaps the only true commonality is that all Faa are fiercely independent-minde
 
 The Faa clans of the Interior are known for a deep understanding of sandworm husbandry, and their ability to ride the creatures, as well as methods by which the worms’ growth may be arrested, to prevent them assuming their enormous, aggressive adult shapes. The sandworms have deep religious significance to many Faa, as their secretions are used to brew the valuable psychoactive substance known as Amaranthine Sugar, an enormously potent drug that can awaken extra-sensory perception even in minds that were not born with such gifts.
 
-### Cacklemaw
+## Cacklemaw
 They are newbeasts of a sort, although they disdain masks and seek no approval from humankind. In form the Cacklemaw are hyena-headed women, standing seven feet or more, with three-fingered hands and a terrible strength in their lanky limbs. The oaths that bound them as warriors in service of the Fallen Autarchy are long-since broken and these creatures are a blight upon humanity, killing and abducting at will and mounting daring raids into Hegemony territory. They respect strength alone, and perhaps they would have overrun the Urth by now if it was not for the constant intra-family bloodletting, as younger Cacklemaw challenge their elder sisters for status.
 
 Two things stand out, aside from their love of violence: their mirth and their singular gender. On the first subject, the chronicler Markus of Dulcrest has written that ‘to the Cacklemaw, all waking activity is slaughter that descends into revelry; else it is revelry that descends into slaughter’. The creatures are famed for their screaming laughter, their love of practical jokes, and most of all for the grisly leather puppets they make from the remnants of defeated foes. Their religion is not well-understood, for rites are closed to outsiders, but it is known to revolve around a fool-capped puppet-demoness the Cacklemaw name ‘Grand-Mama Punch’, to whom they devote wild rites of bloodletting and clowning.
@@ -34,39 +34,39 @@ On the second subject, much has been written. Some theorise that there is an uns
 
 Cacklemaw swear allegiance to War Mamas, but these oaths are not binding and political support is won by the Mama who can best provide her daughters with food, drink, laughter, and violence. At present the dominant War Mamas are Mama Hecklehaw in the trackless Interior, Mama Gloatgrim in the southern badlands, and Mama Yawningfool in the Lazul mountains. Ageing matriarchs Nana Blacklaugh and Nana Rictus command small but devoted cadres of veteran fighters, who respect the older Nanas' tactical nous above the younger Mamas’ savage energy.
 
-### Lithling
+## Lithling
 The Lithling are formed from a mesh of motile crystals, each shard attracted to its neighbours and animated by an energy field far beyond the understanding of Vaarnish scholars. They walk stiffly and ponderously, but have surprisingly dexterous fingers, and are capable of skilful manipulations of brushes, pens, and other delicate objects. They are fed by wavelengths of energy quite invisible to humanity and thus do not breathe, eat, or drink, a quality that makes them masters of the harshest environments imaginable. Lithling scholars have carried out extensive surveys of the toxic landscapes of Ikor Quag, and think nothing of spending years at a time submerged beneath the ocean or the surface of the desert, composing some treatise in their calcified minds.
 
 The lithling life-cycle is as alien to humanity as their bloodless bodies. Lithling are grown from a seed, which must crystallise and bloom in a deep bath of alchemical elixirs. After decades of maturation, they are deemed fully-moulded and allowed to awaken, as large and strong as they will ever be. They are inducted into the Lithic Lyceum by their kindred, and instructed in their duties as scholars.
 
 Lithling have a scholarly, enquiring cast of mind, and are endlessly fascinated by the alien world of biological organisms they find themselves marooned on. The Lyceum is devoted to cataloging the minutiae of the natural world, and contains the life’s work of millions of long-dead lithling in its underground archives. Unfortunately, the records of the lithling are often of dubious usefulness to outsiders – their dissertations and essays tend to focus on the minutiae of data and experience while lacking the wider context that a human mind might find meaningful. One celebrated lithling study describes the movements made by generations of land-snails over a hundred year period, with the relative positions of each snail recorded by the second.
 
-## Travel Rules
+# Travel Rules
 Travel is an integral element of running game sessions in Vaarn’s Interior. Although many readers will have travel procedures that they are accustomed to using, I felt it might benefit those who feel less confident about running overland travel to learn how I do it in my own Vaarn games. 
 
 I don’t make use of detailed breakdowns of every six-mile hex between one destination or another. I use an abstracted system which boils down travel into two resources: **travel days** and **rations**. Characters need to spend both in order to make progress.
 
-### Travel Days
+## Travel Days
 Vaarn is not well-mapped, and it is not recorded exactly how far one must travel between locations. Distances given by NPCs are approximations, expressed in days: _‘From here it will take five days of travel to reach the circular ruins’_, for example. These estimates apply to speed on foot. If players are using a vehicle, divide the number of travel days in half.
 
 Under normal conditions, the PCs can travel a half day’s worth of distance in the morning, and a half day’s worth of distance in the afternoon. At night they must eat a meal and rest.
 
-### Rations
+## Rations
 Rations are an abstraction of food and water carried. Five days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
 
 Rations can be obtained from the bodies of dead\* opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
 
 _If you find numbers on a character sheet a bit abstract, you could use a bowl of poker chips to represent the players’ total rations. Have each player remove a poker chip from the bowl when they camp for the night, and add chips back in when they find fresh sources of nourishment._
 
-### Exhaustion
+## Exhaustion
 At any point during the travel day, the players may declare that they are exerting themselves in order to walk faster than usual, or are piloting their vehicle at greater speeds than normal. If the party exerts themselves in this manner, they can travel two days’ worth of distance in one day. However, they must fill an inventory slot with **Exhaustion**.
 
 Exhaustion cannot be removed from a PC’s inventory until they rest in one place for an **entire** day and night, with no distance being covered. If a PC has no more spare slots to fill with Exhaustion, they must discard an item to make room. A PC who fills ten inventory slots with Exhaustion will die.
 
-### Getting Lost
+## Getting Lost
 Losing one’s way has never seemed particularly fun to me, and I assume the PCs are competent desert navigators, who will never get lost as long as they can see the sun and stars. However, some circumstances - players attempting to travel during a sandstorm, for example - demand it. In such cases roll a d6, and add the resulting number of days to their travel schedule.
 
-### Encounters
+## Encounters
 The referee should check for an encounter once during the morning of a travel day, once during the afternoon, and once per night. This is done by rolling a d6, and consulting the results below:
 
 **1 - Active Encounter.** The PCs encounter a creature or situation that definitely notices them, and will actively attempt to involve them in their business.  
@@ -75,50 +75,50 @@ The referee should check for an encounter once during the morning of a travel da
 **4-6 - Nothing.**  
 _If the PCs are traveling in an extremely slow, noisy, or obvious manner, the referee may choose to roll 2d6 or even 3d6 for encounter checks, and use the lowest result._  
 
-### Vigilance
+## Vigilance
 At the start of each day, as you roll for encounters, the players may collectively roll a Vigilance Dice. This is a single d6, without modifiers. If the players roll a six, they have a guarantee of spotting their next Active or Passing Encounter before the opposing entity or group spots them. If they roll a one, the next Active or Passing Encounter will spot them before they spot it. This vigilance effect resets at the end of each day, whether the players made use of it or not.
 
-### Pursuits
+## Pursuits
 Since the Interior is a large, open desert, there is a good chance that hostile parties will spot one another some time before they are able to engage in combat. In such situations, one party may choose to flee rather than fight. I resolve pursuits as a series of three opposed CON saves. If the pursuers win two of the three saves, they catch up with their quarry and immediately win the initiative in a combat round. If the fleeing party wins two of the three saves, they escape and cannot be caught.
 
 Sometimes CON may not be the appropriate attribute to test; pursuits over particularly unsteady ground might require DEX saves, for example. The pursuit rules should only be used if there is a reasonable doubt as to the result of the chase.
 
-### Night Watches
+## Night Watches
 When camping in the desert, the PCs may elect a party member to take watch. Whoever is on watch cannot benefit from a Long Rest; instead they will regain only d8 + CON bonus HP. If the party is approached by a hostile creature at night, the referee should ask the character on watch to make a PSY save opposed to the creature’s DEX. Failure grants the monsters a surprise round in combat; the aggressors strike with advantage, and the players cannot respond. After the surprise round is resolved, roll for initiative as normal.
 
 
-## Weather
+# Weather
 The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
 
-### Weather Effects
+## Weather Effects
 
-#### Still
+### Still
 The desert landscape is still, untroubled by the susurration of the heavens. Visibility is good.
 
-#### Hazy
+### Hazy
 The air is still, but mists of a lurid hue hang over the desert. Visibility is impaired and landmarks cannot be seen from a distance. Vigilance checks are made with disadvantage.
 
-#### Dust Storm
+### Dust Storm
 The wind blows sheets of blue dust across the desert. Visibility is badly impaired. Traveling under such conditions is possible, but the pace is slowed to half normal speed. A three day journey will take six days, and so on. Vigilance checks are made with disadvantage.
 
-#### Sand Storm
+### Sand Storm
 A howling wind blows a ferocious cloud of azure sand across the desert. Nobody travels in Vaarn’s sandstorms; the PCs must hunker down and wait out the storm. Tents or other makeshift shelters will provide adequate protection. Any encounters rolled during these days are assumed to be seeking shelter from the storm in the same place as the party.
 
-#### Heatwave
+### Heatwave
 Urth’s dying sun musters all the warmth it can. PCs must consume twice their normal ration of water per day if they wish to travel during a heatwave.
 
-#### Worm-pollen
+### Worm-pollen
 The sandworms of the Interior reproduce through a baroque, decade-long process of parthenogenesis, culminating in the explosive release of thousands of melon-sized spores into the atmosphere. This worm-pollen drifts back to Urth in ponderous sticky deluges that can last for weeks. Progress through shifting mounds of the stuff is slowed to half normal speed; the upside is that worm-pollen is edible, and many a starving man has been saved by the timely arrival of spores from the heavens. Treat worm-pollen days as providing d4 rations per player.
 
-#### Rain
+### Rain
 A rare bounty. The parched blue earth is blessed with water. The party may collect 2d6 days of rations per member. In the aftermath of a rainshower, the desert is conquered by a short-lived imperium of majestic flora.
 
-#### Prismatic Tempest
+### Prismatic Tempest
 The sky bruises with clouds of midnight blue. Howling winds carry scouring sheets of sand across the landscape. Thunder rends the air and polychromatic lightning caresses the desert like the tendrils of a jellyfish deity. No travel of any kind is possible, and the PCs will take 3d6 electrical damage every hour they spend above-ground.
 
 ![Weather Hex Flower](../images/weather_hex_flower.jpg ':size=70%')
 
-## What You Find In The Sand
+# What You Find In The Sand
 _For use when the party searches a corpse, a wrecked vehicle, a deserted house, etc._
 
 <table>
@@ -174,7 +174,7 @@ _For use when the party searches a corpse, a wrecked vehicle, a deserted house, 
 <tr><td>50</td><td>Linen Sandal</td><td>00</td><td>Human Embryo, Preserved in Cyro-Flask</td></tr>
 </table>
 
-## Exotica
+# Exotica
 
 __Not-Sword__  
 A blade engraved with paradoxical LogLang glyphs. Synthetic creatures cannot recognise this weapon as a blade, nor can they recognise the bearer of the sword as a living being.  
@@ -217,7 +217,7 @@ Revolver that generates weaponised temporal anomalies when its bullets impact a 
 __The Book of Sand__  
 Hypergeometric book with an infinite number of pages, each filled with dense paragraphs of minuscule, utterly illegible text. All efforts to decode the book will fail, although it could provide the fuel for an eternally burning fire.  
 
-## Creating Regions
+# Creating Regions
 
 The Referee can generate regions of Vaarn using the following method. This technique will not create detailed maps encompassing every feature of the terrain, but rather a simulacra of a landscape that will fuel a few sessions of gaming.
 
@@ -255,7 +255,7 @@ The Referee can generate regions of Vaarn using the following method. This techn
 <tr><td>20</td><td>(Roll d20 twice and combine results)</td><td>Garbage-strewn Wastes</td></tr>
 </table>
 
-### Story Seeds
+## Story Seeds
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Wants To</th><th>NPC B</th><th>Added Complication</th></thead>
@@ -281,7 +281,7 @@ The Referee can generate regions of Vaarn using the following method. This techn
 <tr><td>20</td><td>Clone Catcher</td><td>Wealthy Layabout</td><td>Psychedelic Visions</td></tr>
 </table>
 
-### Ruin
+## Ruin
 
 _Vaarn is studded with the fractured remnants of the works of the ancients; the desert a dolorous mosaic of squandered ambitions and forgotten marvels. Broken by time and eroded by the mastication of the azure sands, these hollow vessels are known nonetheless to house both horrors and wonders._
 
@@ -309,7 +309,7 @@ _Vaarn is studded with the fractured remnants of the works of the ancients; the 
 <tr><td>20</td><td>Space Port</td><td>Prison</td><td>Molten</td><td>Ziggurat</td><td>Conceals Long-Burried Threat</td></tr>
 </table>
 
-### Settlement
+## Settlement
 
 <table>
 <thead><th>d20</th><th>The Houses</th><th>Local Industry</th><th>Notable Structure</th></thead>
@@ -325,14 +325,14 @@ _Vaarn is studded with the fractured remnants of the works of the ancients; the 
 <tr><td>10</td><td>Repurposed Vehicles</td><td>Mining (Synth Parts)</td><td>Birthplace of Famed Tyrant</td></tr>
 <tr><td>11</td><td>Repurposed Weapon Arrays</td><td>Leatherworking</td><td>Glowering Autarch Statue</td></tr>
 <tr><td>12</td><td>Moulded Glass</td><td>Breeding Packbeasts</td><td>Memory Crystal Library</td></tr>
-<tr><td>13</td><td>Hanging from a Cliff</td><td>Breeding Fighting Beasts</td><td><a>Forbidden Grave</a></td></tr>
+<tr><td>13</td><td>Hanging from a Cliff</td><td>Breeding Fighting Beasts</td><td><a href="#/regions/the-interior.md?id=grave">Forbidden Grave</a></td></tr>
 <tr><td>14</td><td>Atop Colossal Stilts</td><td>Pottery</td><td>Huge Carnivorous Plant</td></tr>
 <tr><td>15</td><td>Made from Bone</td><td>Carpet Weaving</td><td>Statue of Void Saint</td></tr>
 <tr><td>16</td><td>Living Biotech Structures</td><td>Herding (Lizards)</td><td>Shunned Shrine</td></tr>
 <tr><td>17</td><td>Inside a Cave</td><td>Herding (Zoxen)</td><td>Enigmatic Obelisk</td></tr>
 <tr><td>18</td><td>Inside Vast Corpse</td><td>Herding (Land Parrots)</td><td>Automated Clock Tower</td></tr>
-<tr><td>19</td><td>Inside Mutant Tree</td><td>Herding (Giant Snails)</td><td><a>Artificial Landmark</a></td></tr>
-<tr><td>20</td><td>Huge Communal Tent</td><td>Brewing</td><td><a>Central Ruin</a></td></tr>
+<tr><td>19</td><td>Inside Mutant Tree</td><td>Herding (Giant Snails)</td><td><a href="#/regions/the-interior.md?id=landmark">Artificial Landmark</a></td></tr>
+<tr><td>20</td><td>Huge Communal Tent</td><td>Brewing</td><td><a href="#/regions/the-interior.md?id=ruin">Central Ruin</a></td></tr>
 </table>
 
 <table>
@@ -383,7 +383,7 @@ _Vaarn is studded with the fractured remnants of the works of the ancients; the 
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-### Oasis
+## Oasis
 
 _The land parches and withers beneath a wine-red sun, yet even here one may glimpse fragments of paradise._
 
@@ -411,7 +411,7 @@ _The land parches and withers beneath a wine-red sun, yet even here one may glim
 <tr><td>20</td><td>Mildly Psychedelic</td><td>Sacred Caves</td><td>Famous Musician</td><td>Fasting</td></tr>
 </table>
 
-### Holy Place
+## Holy Place
 
 _None can predict the capricious and bemusing vessels through which the divine will make itself known, but such relics - whenever they manifest themselves - are meticulously preserved, and tended to by venerable orders._
 
@@ -432,14 +432,14 @@ _None can predict the capricious and bemusing vessels through which the divine w
 <tr><td>13</td><td>Fungal Church</td><td>Urn of Ashes</td><td>Cult of GAEA</td><td>Guardian Synth</td></tr>
 <tr><td>14</td><td>Chrome Tower</td><td>Mummified Jackal</td><td>Cult of COEUS</td><td>Pack of New-Jackals</td></tr>
 <tr><td>15</td><td>Windy Hilltop</td><td>Molten Statue</td><td>Cult of THEMIS</td><td>Paranoid Exiles</td></tr>
-<tr><td>16</td><td>Hidden Cave</td><td>Mummified Child</td><td>Faa Nomad Ancestors</td><td><a>Faa Nomads</a></td></tr>
+<tr><td>16</td><td>Hidden Cave</td><td>Mummified Child</td><td>Faa Nomad Ancestors</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomads</a></td></tr>
 <tr><td>17</td><td>Missile Silo</td><td>Ancient Telescope</td><td>A Solar Saint</td><td>Cacogen Oracle</td></tr>
-<tr><td>18</td><td><a>Wreck</a></td><td>Levitating Orb</td><td>A Fungal Saint</td><td>Mycomorph Oracle</td></tr>
-<tr><td>19</td><td><a>Settlement</a></td><td>Synthetic Head</td><td>A Void Saint</td><td>Beggar Monks</td></tr>
-<tr><td>20</td><td><a>Ruin</a></td><td>Human Tooth</td><td>Nameless, Forgotten God</td><td><a>Monster Lair</a></td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=wreck">Wreck</a></td><td>Levitating Orb</td><td>A Fungal Saint</td><td>Mycomorph Oracle</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=settlement">Settlement</a></td><td>Synthetic Head</td><td>A Void Saint</td><td>Beggar Monks</td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Ruin</a></td><td>Human Tooth</td><td>Nameless, Forgotten God</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
 </table>
 
-### Wreck
+## Wreck
 
 _All journeys must end - some more dramatically than others._
 
@@ -467,7 +467,7 @@ _All journeys must end - some more dramatically than others._
 <tr><td>20</td><td>Pre-Collapse Spacecraft</td><td>Some Features Work</td><td>Exotica</td><td>Orbital Weapon Strike</td></tr>
 </table>
 
-### Vault
+## Vault
 
 _The ground beneath the desert is riddled with passageways, tunnels, shafts, and other entrances to the underworld. Who can say what long-buried secrets such locations conceal?_
 
@@ -482,20 +482,20 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 <tr><td>7</td><td>Opens at Full Moon</td><td>Fire-Damaged</td><td>Nuclear Power Station</td><td>Power Source Active</td></tr>
 <tr><td>8</td><td>Scrawled With Runes</td><td>Winding and Narrow</td><td>Hypergeometry Research</td><td>Hypergeometric Rift</td></tr>
 <tr><td>9</td><td>Finctioning Lift</td><td>Descend into the Urth</td><td>Deep Core Mining</td><td>Guard Synths</td></tr>
-<tr><td>10</td><td>Broken Lift</td><td>Somehow Absorb Sound</td><td>Military Command Post</td><td><a>Cacklemaw Den</a></td></tr>
-<tr><td>11</td><td>Functioning Escalator</td><td>Lightless and Dank</td><td>Titan AI Memory Banks</td><td><a>Science-Mystic's Abode</a></td></tr>
+<tr><td>10</td><td>Broken Lift</td><td>Somehow Absorb Sound</td><td>Military Command Post</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td></tr>
+<tr><td>11</td><td>Functioning Escalator</td><td>Lightless and Dank</td><td>Titan AI Memory Banks</td><td><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td></tr>
 <tr><td>12</td><td>Broken Escalator</td><td>Spiralling, Strange</td><td>Titan AI Cooling System</td><td>Poisonous Gases</td></tr>
 <tr><td>13</td><td>Ruined Train Tunnel</td><td>Lit with Bioluminous Moss</td><td>Seed Bank</td><td>Carnivorous Fungus</td></tr>
 <tr><td>14</td><td>Beneath Toxic Water</td><td>Surprisingly Clean</td><td>Interrogation Chambers</td><td>Janitor Synths</td></tr>
 <tr><td>15</td><td>Air Filtration Vent</td><td>Full of Ancient Corpses</td><td>Synth Production</td><td>Hologram Cinema</td></tr>
 <tr><td>16</td><td>Infested with Bats</td><td>Incredibly Cold</td><td>Illicit Cloning Facility</td><td>Frozen Embryos</td></tr>
-<tr><td>17</td><td>Barricaded from Inside</td><td>Enormous and Echoing</td><td>Spy Network Base</td><td><a>Lost Archive</a></td></tr>
-<tr><td>18</td><td><a>Below Arcology</a></td><td>Battle Damaged</td><td>Autarch's Hideout</td><td><a>Monster Lair</a></td></tr>
-<tr><td>19</td><td><a>Below Settlement</a></td><td>White and Sterile</td><td>Hidden Resrvior</td><td><a>Holy Place</a></td></tr>
-<tr><td>20</td><td><a>Below Ruin</a></td><td>Filled with Garbage</td><td>Recycling Facility</td><td>Contains Exotica</td></tr>
+<tr><td>17</td><td>Barricaded from Inside</td><td>Enormous and Echoing</td><td>Spy Network Base</td><td><a href="#/regions/the-interior.md?id=archive">Lost Archive</a></td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=arcology">Below Arcology</a></td><td>Battle Damaged</td><td>Autarch's Hideout</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=settlement">Below Settlement</a></td><td>White and Sterile</td><td>Hidden Resrvior</td><td><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Below Ruin</a></td><td>Filled with Garbage</td><td>Recycling Facility</td><td>Contains Exotica</td></tr>
 </table>
 
-### Landmark
+## Landmark
 
 <table>
 <thead><th>d20</th><th>Natural Landmark</th><th>Artificial Landmark</th></thead>
@@ -521,7 +521,7 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 <tr><td>20</td><td>Plain of Uncountable Bleached Skeletons</td><td>Bottomless Dark Pit, With Unnaturally Smooth Sides</td></tr>
 </table>
 
-### Bandit Camp
+## Bandit Camp
 
 <table>
 <thead><th>d20</th><th>Type</th><th>Leader</th><th>Weapons</th><th>They Want</th></thead>
@@ -571,7 +571,7 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-### Bounty Hunter's Camp
+## Bounty Hunter's Camp
 
 _It is commonly known that those seeking to escape the New Hegemony’s justice will flee into the deepest reaches of the Interior, preferring a brief harsh life full of uncertainty to a brief harsh life filled with terrible certainty. It is likewise commonly known that there exists an eccentric and vibrant fraternity of misfits, who attempt - both for profit and for pleasure - to fetch these fugitives back._
 
@@ -585,21 +585,21 @@ _It is commonly known that those seeking to escape the New Hegemony’s justice 
 <tr><td>6</td><td>Remote-Controlled Armour</td><td>Gambling Debtor</td><td>Sniper Rifle</td></tr>
 <tr><td>7</td><td>Young and Beautiful</td><td>Livestock Thief</td><td>Tranquilliser Crossbow</td><td rowspan="2">Help Killing Someone You Know</td></tr>
 <tr><td>8</td><td>Depressed Drunkard</td><td>Adulterer</td><td>Shoot First</td></tr>
-<tr><td>9</td><td>Husband and Wife Team</td><td>Rogue Synth</td><td>Alluring Honey Trap</td><td rowspan="2"><a>Help Bringing Prisoner to Distant Settlement</a></td></tr>
+<tr><td>9</td><td>Husband and Wife Team</td><td>Rogue Synth</td><td>Alluring Honey Trap</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">Help Bringing Prisoner to Distant Settlement</a></td></tr>
 <tr><td>10</td><td>Looks Way Too Young</td><td>Cacklemaw Exile</td><td>Enlist Big Posse</td></tr>
-<tr><td>11</td><td>Clean Cut and Heroic</td><td>Faa Nomads</td><td>Bribes for Information</td><td rowspan="2"><a>Help Bringing Prisoner To Distant Arcology</a></td></tr>
+<tr><td>11</td><td>Clean Cut and Heroic</td><td>Faa Nomads</td><td>Bribes for Information</td><td rowspan="2"><a href="#/regions/the-interior.md?id=arcology">Help Bringing Prisoner To Distant Arcology</a></td></tr>
 <tr><td>12</td><td>Dashing Womaniser</td><td>Water Token Forger</td><td>Reliable Informants</td></tr>
-<tr><td>13</td><td>Flamboyant Old Woman</td><td>Poisoner</td><td>Trained Monster</td><td rowspan="2"><a>Help Bringing Prisoner To Faa Nomads</a></td></tr>
+<tr><td>13</td><td>Flamboyant Old Woman</td><td>Poisoner</td><td>Trained Monster</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Help Bringing Prisoner To Faa Nomads</a></td></tr>
 <tr><td>14</td><td>Clone Siblings</td><td>Child Killer</td><td>Quiet Abductions</td></tr>
-<tr><td>15</td><td>New-Baboon, Riding Human</td><td>Oath Breaker</td><td>Secret Martial Art</td><td rowspan="2"><a>Help Capturing Science-Mystic Alive</a></td></tr>
+<tr><td>15</td><td>New-Baboon, Riding Human</td><td>Oath Breaker</td><td>Secret Martial Art</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Help Capturing Science-Mystic Alive</a></td></tr>
 <tr><td>16</td><td>Veteran Soldier</td><td>Runaway Bride</td><td>Psychic Gifts</td></tr>
-<tr><td>17</td><td>Famous Exile</td><td>Runaway Groom</td><td>Expert Desert Tracker</td><td rowspan="2"><a>Help Killing Dangerous Monster</a></td></tr>
+<tr><td>17</td><td>Famous Exile</td><td>Runaway Groom</td><td>Expert Desert Tracker</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Help Killing Dangerous Monster</a></td></tr>
 <tr><td>18</td><td>Sacred Assassin</td><td>Disgraced Cleric</td><td>Use Camera Drones</td></tr>
 <tr><td>19</td><td>Faa Nomad Tracker</td><td>Hegemony Deserter</td><td>Utterly Incompetent</td><td rowspan="2">Help Escorting Prisoner to Gnomon</td></tr>
 <tr><td>20</td><td>Psychic Mute</td><td>Own Family Member</td><td>Absurdly Complex Traps</td></tr>
 </table>
 
-### Lair
+## Lair
 
 _The wild places of Vaarn are well-stocked with monstrosities of all stripes. The prudent traveller sleeps lightly, keeps a weapon close at hand, learns to sight these miserable pariahs of the Urth well in advance of their sighting him, and will avoid at all costs the places such creatures dwell._
 
@@ -629,12 +629,12 @@ _The wild places of Vaarn are well-stocked with monstrosities of all stripes. Th
 
 * For stats see Vaults of Vaarn #1
 
-### Archive
+## Archive
 
 _To forget is to be human, for the burden of an unceasing memory is too great for the mortal mind to withstand. Some resist the creeping triumph of oblivion, erecting great libraries and charging these structures with the endless remembering their frail minds cannot bear._
 
 <table>
-<thead><th>d20</th><th>ARCHIVE OF</th><th>APPEARANCE</th><th>THE ARCHIVISTS</th><th>THEY WANT</th></thead>
+<thead><th>d20</th><th>Archive Of</th><th>Appearance</th><th>The Archivists</th><th>They Want</th></thead>
 <tr><td>1</td><td>Books (Holy)</td><td>Dusty</td><td>Glum Nuns</td><td rowspan="2">Rare Object Retrieved From Elsewhere in Vaarn</td></tr>
 <tr><td>2</td><td>Books (Fiction)</td><td>Collapsing</td><td>Pedantic and Rude</td></tr>
 <tr><td>3</td><td>Books (Obscene)</td><td>Cluttered</td><td>Salacious Bigots</td><td rowspan="2">A Stolen Item From the Collection Retrieved</td></tr>
@@ -643,24 +643,25 @@ _To forget is to be human, for the burden of an unceasing memory is too great fo
 <tr><td>6</td><td>Fungal Spores</td><td>Dazzling</td><td>Lazy Mycomorphs</td></tr>
 <tr><td>7</td><td>Embryos</td><td>Grimy</td><td>Tiny Lithling</td><td rowspan="2">A Sealed Wing Of the Archive Explored</td></tr>
 <tr><td>8</td><td>Eggs</td><td>Chaotic</td><td>Maternal New-Parrots</td></tr>
-<tr><td>9</td><td>Maps</td><td>Malfunctioning</td><td>Ascetic Mutes</td><td rowspan="2"><a>An Archivist Escorted To Distant Settlement</a></td></tr>
+<tr><td>9</td><td>Maps</td><td>Malfunctioning</td><td>Ascetic Mutes</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">An Archivist Escorted To Distant Settlement</a></td></tr>
 <tr><td>10</td><td>Poems</td><td>Elegant</td><td>Cultists Who Worship Decay</td></tr>
 <tr><td>11</td><td>Video Recordings</td><td>Serene</td><td>Ignorant of What They Collect</td><td rowspan="2">A Rival Archive Raided</td></tr>
 <tr><td>12</td><td>Music</td><td>Squalid</td><td>Worship Their Collection</td></tr>
-<tr><td>13</td><td>Play Scripts</td><td>Sterile</td><td>Chattering Imbeciles</td><td rowspan="2"><a>To Send A Message to a Science-Mystic</a></td></tr>
+<tr><td>13</td><td>Play Scripts</td><td>Sterile</td><td>Chattering Imbeciles</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">To Send A Message to a Science-Mystic</a></td></tr>
 <tr><td>14</td><td>Art (Paintings)</td><td>Ordered</td><td>Attack Outsiders</td></tr>
 <tr><td>15</td><td>Art (Statues)</td><td>Polluted</td><td>Desperately Seeking Recruits</td><td rowspan="2">To Locate an Archivist Who Vanished in the Stacks</td></tr>
 <tr><td>16</td><td>Art (Conceptual)</td><td>Occult</td><td>Afflicted by Strange Illness</td></tr>
-<tr><td>17</td><td>Taxidermy</td><td>Foreboding</td><td>Whispering New-Spiders</td><td rowspan="2"><a>Monster Lair Removed From Archive</a></td></tr>
+<tr><td>17</td><td>Taxidermy</td><td>Foreboding</td><td>Whispering New-Spiders</td><td rowspan="2"><a href="#/regions/the-interior.md?id=archive">Monster Lair Removed From Archive</a></td></tr>
 <tr><td>18</td><td>Preserved Brains</td><td>Cheerful</td><td>Masked Philosophers</td></tr>
-<tr><td>19</td><td>Titancreed Syntax</td><td>Burned</td><td>Cruel and Calculating</td><td rowspan="2"><a>Vault Beneath Archive Explored</a></td></tr>
+<tr><td>19</td><td>Titancreed Syntax</td><td>Burned</td><td>Cruel and Calculating</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">Vault Beneath Archive Explored</a></td></tr>
 <tr><td>20</td><td>Insects</td><td>Infested</td><td>Paranoid and Isolated</td></tr>
 </table>
 
-### Arcology
+## Arcology
+_Arcologies are self-sufficient, hermetically sealed artificial ecosystems, which protected the true-kin through the fevered centuries of the Great Collapse. They have long since been unsealed and released their inhabitants into the blue lands of Vaarn, but these domes are still a common sight in the wastes and are often occupied, as their subterranean gardens offer a stable source of water and food._
 
 <table>
-<thead><th>d20</th><th>DOME</th><th>INHABITANTS</th><th>ABUNDANCE</th><th>LACK</th></thead>
+<thead><th>d20</th><th>Dome</th><th>Inhabitants</th><th>Abundance</th><th>Lack</th></thead>
 <tr><td>1</td><td>Broken</td><td rowspan="2">Abandoned</td><td>Meat</td><td>Olives</td></tr>
 <tr><td>2</td><td>Molten</td><td>Fresh Water</td><td>Fish</td></tr>
 <tr><td>3</td><td>Sand-swallowed</td><td>Hermit</td><td>Salt</td><td>Beer</td></tr>
@@ -683,7 +684,7 @@ _To forget is to be human, for the burden of an unceasing memory is too great fo
 <tr><td>20</td><td>Perfect</td><td>Exotica</td><td>Clothing</td></tr>
 </table>
 
-### Grave
+## Grave
 
 _Vaarn is above all else a land heavy with endings, and tombs punctuate the desolation with grim regularity._
 
@@ -704,14 +705,14 @@ _Vaarn is above all else a land heavy with endings, and tombs punctuate the deso
 <tr><td>13</td><td>Elegant Pagoda</td><td>Powerful Psychic</td><td>Sky Burial</td><td>Memorial Fountain (Dry)</td></tr>
 <tr><td>14</td><td>Looming Edifice</td><td>Famed Swordsman</td><td>Consumed by Fungus</td><td>Ritual Artwork (Ugly)</td></tr>
 <tr><td>15</td><td>Plain of Stones</td><td>Bandit King</td><td>Food for Sacred Flower</td><td>Ritual Artwork (Good)</td></tr>
-<tr><td>16</td><td><a>Near Wreck</a></td><td>Hegemony Rangers</td><td>Below Cairn</td><td>Site of Pilgrimage</td></tr>
-<tr><td>17</td><td><a>Near Oasis</a></td><td>Massacred Faa Nomads</td><td>Inside Stone Cube</td><td>Synthetic Grave Keeper</td></tr>
-<tr><td>18</td><td><a>Near Ruin</a></td><td>Hegemony Exultant</td><td>Inside Hypergeometric Artefact</td><td><a>Hideout for Bandits</a></td></tr>
-<tr><td>19</td><td><a>Near Holy Place</a></td><td>Autarch</td><td>Frozen Outside Time-stream</td><td><a>Entrance to Vault</a></td></tr>
-<tr><td>20</td><td><a>Near Settlement</a></td><td>Extra-Solar Explorers</td><td>Not Really Dead</td><td><a>Monster Lair</a></td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=wreck">Near Wreck</a></td><td>Hegemony Rangers</td><td>Below Cairn</td><td>Site of Pilgrimage</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=oasis">Near Oasis</a></td><td>Massacred Faa Nomads</td><td>Inside Stone Cube</td><td>Synthetic Grave Keeper</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=ruin">Near Ruin</a></td><td>Hegemony Exultant</td><td>Inside Hypergeometric Artefact</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=lair">Near Holy Place</a></td><td>Autarch</td><td>Frozen Outside Time-stream</td><td><a>Entrance to Vault</a></td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=settlement">Near Settlement</a></td><td>Extra-Solar Explorers</td><td>Not Really Dead</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
 </table>
 
-### Science Mystic's Abode
+## Science Mystic's Abode
 
 _Certain avenues of philosophical enquiry are best pursued in the deepest deserts, far away from curious neighbors, the reach of law enforcement, or indeed any conceivable restraint save one’s own threadbare conscience._
 
@@ -723,15 +724,15 @@ _Certain avenues of philosophical enquiry are best pursued in the deepest desert
 <tr><td>4</td><td>Dark</td><td>Dazzlingly Beautiful</td><td>Antigravity Field</td></tr>
 <tr><td>5</td><td>Spiralling</td><td>Plastic-fleshed Synth</td><td>Time Stasis</td><td rowspan="2">To Dispose of a Rogue Creation</td></tr>
 <tr><td>6</td><td>Sentient</td><td>Double-faced Cacogen</td><td>Time Travel</td></tr>
-<tr><td>7</td><td>Wheeled</td><td>Ostentatious New-Tiger</td><td>Time Paradox</td><td rowspan="2"><a>A Fabled Chemical Substance; Found In Nearby Ruin</a></td></tr>
+<tr><td>7</td><td>Wheeled</td><td>Ostentatious New-Tiger</td><td>Time Paradox</td><td rowspan="2"><a href="#/regions/the-interior.md?id=ruin">A Fabled Chemical Substance; Found In Nearby Ruin</a></td></tr>
 <tr><td>8</td><td>Transparent</td><td>Permanently Invisible</td><td>Hypergeometry</td></tr>
 <tr><td>9</td><td>Crystalline</td><td>Brain in a Vat</td><td>Synthetic Anatomy</td><td rowspan="2">A Fabled Artefact; Said to be Held by a Faa Nomad Clan</td></tr>
 <tr><td>10</td><td>Sword-like</td><td>Levitating Idiot</td><td>Synthetic Psychology</td></tr>
-<tr><td>11</td><td>Towering</td><td>Terrified of their Reflection</td><td>Newbeast Biology</td><td rowspan="2"><a>Body Parts of Local Monster</a></td></tr>
+<tr><td>11</td><td>Towering</td><td>Terrified of their Reflection</td><td>Newbeast Biology</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Body Parts of Local Monster</a></td></tr>
 <tr><td>12</td><td>Severe</td><td>Flesh-eating Mycomorph</td><td>Newbeast Psychology</td></tr>
 <tr><td>13</td><td>Decadent</td><td>Extra Arms Grafted On Back</td><td>Mycomorph Biology</td><td rowspan="2">Revenge on Ex-Assistant; They Stole Research</td></tr>
 <tr><td>14</td><td>Buried</td><td>Neurotic New-Lynx</td><td>Mycomorph Psychology</td></tr>
-<tr><td>15</td><td>Overgrown</td><td>Stuttering Synth</td><td>Language Virus</td><td rowspan="2"><a>An Armed Escort To Explore A Distant Vault</a></td></tr>
+<tr><td>15</td><td>Overgrown</td><td>Stuttering Synth</td><td>Language Virus</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">An Armed Escort To Explore A Distant Vault</a></td></tr>
 <tr><td>16</td><td>Elegant</td><td>Bashful Murderer</td><td>Teleportation</td></tr>
 <tr><td>17</td><td>Devotional</td><td>Icily Polite</td><td>Titancreed Syntax</td><td rowspan="2">An Armed Escort to Accompany Them to Gnomon</td></tr>
 <tr><td>18</td><td>Pyramid</td><td>Blood-drinking Cacogen</td><td>Ancient Super-weapon</td></tr>
@@ -739,7 +740,7 @@ _Certain avenues of philosophical enquiry are best pursued in the deepest desert
 <tr><td>20</td><td>Floating Orb</td><td>Glows in the Dark</td><td>Space Travel</td></tr>
 </table>
 
-### Trade Post
+## Trade Post
 
 <table>
 <thead><th>d20</th><th>Location</th><th>Who Trades Here? (x2)</th><th>What is Traded? (x2)</th></thead>
@@ -757,12 +758,12 @@ _Certain avenues of philosophical enquiry are best pursued in the deepest desert
 <tr><td>12</td><td>Grove of Martyr Trees</td><td>Gnomonian Merchants</td><td>Prisoners</td></tr>
 <tr><td>13</td><td>Dried Up Oasis</td><td>Mercenary Band</td><td>Psychedelics</td></tr>
 <tr><td>14</td><td>Polluted Lakeshore</td><td>Roaming Scavengers</td><td>Flowers</td></tr>
-<tr><td>15</td><td><a>Near Faa Nomad Camp</a></td><td>Secretive Hermit</td><td>Synth Parts</td></tr>
-<tr><td>16</td><td><a>Near Hegemony Camp</a></td><td>Lowly Goatherds</td><td>Camels</td></tr>
-<tr><td>17</td><td><a>Near Wreck</a></td><td>Pious Synths</td><td>Books</td></tr>
-<tr><td>18</td><td><a>Near Holy Place</a></td><td>Deranged Synths</td><td>Carpets</td></tr>
-<tr><td>19</td><td><a>By Oasis</a></td><td>Pack of Newbeasts</td><td>Medicine</td></tr>
-<tr><td>20</td><td><a>Inside Ruin</a></td><td>Titan Cultists</td><td>Exotica</td></tr>
+<tr><td>15</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Near Faa Nomad Camp</a></td><td>Secretive Hermit</td><td>Synth Parts</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">Near Hegemony Camp</a></td><td>Lowly Goatherds</td><td>Camels</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=wreck">Near Wreck</a></td><td>Pious Synths</td><td>Books</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=holy-place">Near Holy Place</a></td><td>Deranged Synths</td><td>Carpets</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=oasis">By Oasis</a></td><td>Pack of Newbeasts</td><td>Medicine</td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Inside Ruin</a></td><td>Titan Cultists</td><td>Exotica</td></tr>
 </table>
 
 <table>
@@ -789,7 +790,7 @@ _Certain avenues of philosophical enquiry are best pursued in the deepest desert
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-### Hegemony Camp
+## Hegemony Camp
 
 _Vaarn is considered one of the least desirable postings a Hegemony soldier can receive, and patrolling the Interior is considered the least desirable duty within the Legions assigned to Vaarn. The Hegemony camps found amongst the blue dunes are generally sparse, miserable, and paranoid affairs, garrisoned by the most mutinous and untrustworthy soldiers the New Hegemony has to offer._
 
@@ -817,7 +818,7 @@ _Vaarn is considered one of the least desirable postings a Hegemony soldier can 
 <tr><td>20</td><td>Beloved</td><td>Mournful</td><td>Combat With Cacklemaw</td></tr>
 </table>
 
-### Faa Nomad Camp
+## Faa Nomad Camp
 
 <table>
 <thead><th>d20</th><th>Leader</th><th>They Have</th><th>They Want</th><th>Mood</th></thead>
@@ -867,7 +868,7 @@ _Vaarn is considered one of the least desirable postings a Hegemony soldier can 
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-### Cacklemaw Den
+## Cacklemaw Den
 
 _The dens of the Cacklemaw are not difficult to locate - one must simply follow the sound of uproarious merriment, of weapons being discharged wildly, of discordant and rowdy music played fast and poorly, and of vehicles being driven in circles with no apparent destination._
 
@@ -895,7 +896,7 @@ _The dens of the Cacklemaw are not difficult to locate - one must simply follow 
 <tr><td>20</td><td>Teeth and Claws</td><td>Fighting (Faa Nomads)</td><td>Prisoners</td></tr>
 </table>
 
-### Anomaly
+## Anomaly
 
 _There are more things in the Heavens and Urth than are dreamed of in your philosophies. There are more things. There are always more._
 

@@ -54,3 +54,13 @@ v0.8 Content
 - Changes to Docsify
   - Add Search
   - Remove "Edit on Github"
+
+v0.9 
+- New and revised content added by Leo!
+- Place Gnomon in the top of the menu below Regions instead of nested beneath Badlands.
+- Remove Duplicate Tables
+  - Content Generators/Arcology Dome; Flavor text moved to Creating Regions
+  - Content Generators/Oases in the Wastes
+- Update header indentation level for all of The Interior
+- Update font color used in links to the background color of VoV #1.
+- Update anchor links on The Interior tables.

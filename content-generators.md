@@ -181,31 +181,6 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |19|Jewelled|Titan|Awkward|Physics|Drugs Hidden Inside|
 |20|Indigo|Warrior|Pedantic|Sex|Utterly Illegible|
 
-## Oases in the Wastes
-<table>
-<thead><tr><th>d20</th><th>THE WATER</th><th>WHAT'S HERE? (x2)</th><th>WHO'S HERE? (x2)</th><th>CUSTOMS OF THE OASIS</th></th></thead>
-<tr><td>1</td><td>Very Blue</td><td>Date Palms</td><td rowspan="4">Trading Caravan</td><td>Pay Toll</td></tr>
-<tr><td>2</td><td>Leaks from Machinery</td><td>Flamingos</td><td>No Bloodshed</td></tr>
-<tr><td>3</td><td>Incredibly Clear</td><td>Towering Rock</td><td>Moonlit Sacrifices</td></tr>
-<tr><td>4</td><td>Umber and Silty</td><td>Rusted War Machine</td><td>No Bathing</td></tr>
-<tr><td>5</td><td>Still and Glassy</td><td>Autarch Statue</td><td rowspan="3">Faa Nomads</td><td>Ritual Combat</td></tr>
-<tr><td>6</td><td>Black and Muddy</td><td>Flowering Bushes</td><td>Vow of Silence</td></tr>
-<tr><td>7</td><td>Almost Gone</td><td>Ibis</td><td>Ruled by Chance</td></tr>
-<tr><td>8</td><td>Full of Fish</td><td>Lurking Crocodiles</td><td>Hegemony Scouts</td><td>Sacred to Men</td></tr>
-<tr><td>9</td><td>Tastes Sour</td><td>Black Obelisks</td><td>Bounty Hunters</td><td>Sacred to Women</td></tr>
-<tr><td>10</td><td>Algae-choked</td><td>Decaying Building</td><td>Titan Cultists</td><td>Consult Computer</td></tr>
-<tr><td>11</td><td>Fetid</td><td>Addax Herd</td><td>Wandering Mystics</td><td>Consult Oracle</td></tr>
-<tr><td>12</td><td>Full of plastic</td><td>Solar Panels</td><td>Traveling Circus</td><td>Must be Naked</td></tr>
-<tr><td>13</td><td>Rusty Red</td><td>Arcology Dome</td><td>Medicant Warrior</td><td>Must be Veiled</td></tr>
-<tr><td>14</td><td>Warm and Bubbling</td><td>Crystalline Growths</td><td>Escaped Slave</td><td>An Animal is Holy</td></tr>
-<tr><td>15</td><td>Champagne Coloured</td><td>Fungal Growths</td><td>Sunburnt Exile</td><td>An Animal is Profane</td></tr>
-<tr><td>16</td><td>Deep and Silent</td><td>Broken Pillar</td><td>Pilgrim Monks</td><td>Laughter is Prohibited</td></tr>
-<tr><td>17</td><td>Inside a Cave</td><td>Nomad Graveyard</td><td>Synths</td><td>Sacred to Petty God</td></tr>
-<tr><td>18</td><td>Healing Properties</td><td>Wrecked Synths</td><td>Cacklemaws</td><td>Drug Ritual</td></tr>
-<tr><td>19</td><td>Sugary Sweet</td><td>Mud Holes</td><td>Noble in Disguise</td><td>Water Ritual</td></tr>
-<tr><td>20</td><td>Mildly Psychedelic</td><td>Sacred Caves</td><td>Famous Musician</td><td>Fasting</td></tr>
-</table>
-
 ## Faa Nomads
 <table>
 <thead><tr><th>d20</th><th>NUMBERS</th><th>Transport</th><th>Livestock</th><th>Mood</th></th></thead>
@@ -426,30 +401,3 @@ Vaarn is the graveyard of faiths, some older than the very stars that shine over
 |18|Courtesan|Cloaking Device|Everyone's Drunk|
 |19|Barber|Hegemony Deserters|Fungal Infection|
 |20|Snake Charmer|Loyal and Competent|Everyone's Arguing|
-
-## Arcology Domes
-Arcologies are self-sufficient, hermetically sealed artificial ecosystems, which protected the true-kin through the fevered centuries of the Great Collapse. They have long since been unsealed and released their inhabitants into the blue lands of Vaarn, but these domes are still a common sight in the wastes and are often occupied, as their subterranean gardens offer a stable source of water and food.
-
-<table>
-<thead><tr><th>d20</th><th>Dome</th><th>Inhabitants</th><th>Abundance</th><th>Lack</th></th></thead>
-<tr><td>1</td><td>Broken</td><td rowspan="2">Abandoned</td><td>Meat</td><td>Olives</td></tr>
-<tr><td>2</td><td>Molten</td><td>Fresh Water</td><td>Fish</td></tr>
-<tr><td>3</td><td>Sand-swallowed</td><td>Hermit</td><td>Salt</td><td>Beer</td></tr>
-<tr><td>4</td><td>Dingy</td><td>Mystic</td><td>Guzzleline</td><td>Men</td></tr>
-<tr><td>5</td><td>Blackened</td><td>Escaped Slaves</td><td>Coffee</td><td>Women</td></tr>
-<tr><td>6</td><td>Self-Repairing</td><td>Ghouls</td><td>Wine</td><td>Children</td></tr>
-<tr><td>7</td><td>Barely Intact</td><td>Hegemony Deserters</td><td>Bread</td><td>Music</td></tr>
-<tr><td>8</td><td>Booby-trapped</td><td>Newbeasts</td><td>Jewellery</td><td>Silence</td></tr>
-<tr><td>9</td><td>Reinforced</td><td>Semi-Feral Orphans</td><td>Books</td><td>Livestock</td></tr>
-<tr><td>10</td><td>Functional</td><td>Amnesiac Clones</td><td>Fruit</td><td>Books</td></tr>
-<tr><td>11</td><td>Warlike</td><td>Elderly Mutes</td><td>Information</td><td>Coffee</td></tr>
-<tr><td>12</td><td>Delicate</td><td>Conceptual Artists</td><td>Bells</td><td>Bread</td></tr>
-<tr><td>13</td><td>Ornate</td><td>Orchestra</td><td>Drugs</td><td>Spices</td></tr>
-<tr><td>14</td><td>Welcoming</td><td>Fungus Cultists</td><td>Livestock</td><td>Drugs</td></tr>
-<tr><td>15</td><td>Garden-like</td><td>Polygamous Church</td><td>Skilled Labour</td><td>Sanity</td></tr>
-<tr><td>16</td><td>Elegant</td><td>Lepers</td><td>Musical Instruments</td><td>Medicine</td></tr>
-<tr><td>17</td><td>Devotional</td><td>Warrior Monks</td><td>Slaves</td><td>Information</td></tr>
-<tr><td>18</td><td>Flooded</td><td>Psychic Choir</td><td>Cheese</td><td>New Blood</td></tr>
-<tr><td>19</td><td>Geodesic</td><td rowspan="2">Androids Pretending to be Human</td><td>Weapons</td><td>Machine Parts</td></tr>
-<tr><td>20</td><td>Perfect</td><td>Exotica</td><td>Clothing</td></tr>
-</table>
