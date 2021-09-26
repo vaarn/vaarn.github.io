@@ -6,8 +6,8 @@ Each of the six abilities is used in different circumstances.
 - __Strength__: Used for melee attacks and saves requiring physical power, like lifting gates, bending bars, etc.
 - __Dexterity__: Used for ranged attacks and saves requiring poise, speed, and reflexes, like dodging, climbing, sneaking, balancing, etc.
 - __Constitution__: Used for saves to resist poison, sickness, cold, etc. The Constitution bonus is added to healing rolls. A PC's number of item slots is always equal to their Constitution defence.
-- __Intellect__: Used for saves requiring concentration and precision, such as recalling information, crafting objects, tinkering with machinery, identifying arcane technology, etc.
-- __Psyche__: Used for saves requiring perception and intuition, such as tracking, navigating, searching for secret doors, communing with psychic powers, etc.
+- __Intellect__: Used for saves requiring concentration and precision, such as recalling information, crafting objects, tinkering with machinery, identifying Exotica, etc.
+- __Psyche__: Used for saves requiring perception and intuition, such as tracking, navigating, searching for secret doors, communing with psychic powers, etc. The Psyche bonus is added to the damage dealt by Mystic Gifts. 
 - __Ego__: Used for saves requiring willpower and charm, such as persuading, deceiving, intimidating, resisting mental domination, etc.
 
 ## Saving Throws
