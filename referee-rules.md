@@ -35,7 +35,6 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 **Outsider:** A being that is alien to our reality. Too strange to be categorised. Resistances and vulnerabilities vary wildly.
 
-
 **Psychic:** A creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
 
 **Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 
@@ -95,27 +94,3 @@ There is a subtle peril associated with expanding one’s mind too extravagantly
 <tr><td>19</td><td>Alzabo</td><td>Silent Machinery</td></tr>
 <tr><td>20</td><td>Cacogen Pseudo-giant</td><td>Abandoned Campsite</td></tr>
 </table>
-
-## You Found A Corpse
-|d20|Condition|What Were They Carrying?|
-|---|---------|------------------------|
-|1|Desiccated|Plastic Bag Full of Teeth|
-|2|Skeletal|Can of Survival Rations|
-|3|Mummified by Heat|Pocket Hourglass|
-|4|Riddled with Bullets|Set of Dominoes|
-|5|Seared by Laser-fire|Waxen Poetry Cylinder|
-|6|Worryingly Fresh|Prayer Beads|
-|7|Centuries Old|Synthetic Eye|
-|8|Half-Eaten by Animals|Stick of Infrared Chalk|
-|9|Someone You Know|Bottle with a Tiny Eel Inside|
-|10|Sliced Neatly in Half|Lizard-Skin Boots|
-|11|Seated in Lotus Position|Locket with Hair Inside|
-|12|Ritually Mutilated|Ring with an Autarch's Seal|
-|13|Charred by Flames|Dice Decorated with Arcane Symbols|
-|14|Banquet for Worms|Coil of Razorwire|
-|15|Frozen Solid|Crystalline Vial of Ink|
-|16|Drained of Blood|Exorcist's Bell|
-|17|Infested with Nanotech|Telepathy Suppression Pills|
-|18|Pungent|Glowstone|
-|19|Could be Sleeping|Malfunctioning Memory Crystal|
-|20|Not Quite Dead|Pack of Ancient Cigarettes|
