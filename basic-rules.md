@@ -18,7 +18,7 @@ If the save is opposed by another character, then instead of aiming to equal or 
 If there are situational factors that make a save significantly easier or harder, the referee may grant the roll __advantage__ or __disadvantage__. If a roll has advantage, roll 2d20 and use the better of the two dice. If it has disadvantage, roll 2d20 and use the worse of the two dice.
 
 ## Item Slots
-PCs have a number of item slots equal to their constitution defence. Most items, including light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
+PCs have a number of item slots **equal to their Constitution defence.** Most items, including light weapons, tools and so on take up 1 slot, but particularly heavy or bulky items like armour or medium to heavy weapons will take up more slots. Groups of small, identical items may be bundled into the same slot, at the referee's discretion. Carrying more items than your slot limit will make your character __Encumbered__, which imposes disadvantage on all physical saves. It is impossible to carry more than 20 slots worth of items.
 
 ## Combat
 Initiative in combat is decided each turn. All sides of a conflict roll d6, and whichever side rolls higher acts first. Resolve ties in favor of the players.
@@ -74,10 +74,9 @@ Vaarn is a world where religion, science, and magic are indistinguishable. Devou
 
 Note that Gifts are only lightly defined by their name, and the players and referee must collectively agree on the specific effect of a Mystic Gift. Using a Gift always costs HP; a precise cost will be determined by the referee once the player describes what they want to accomplish. The baseline cost for using a Gift is __d6 HP__. 
  
-Gifts always hit in combat without rolling against armour defence values, and deal damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. Therefore, paying d6 HP will result in a damage roll of d8 + PSY bonus; the same ratio applies if trying to heal an ally using a Gift. Some Gifts, such as mind control or force barriers, could be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
+Gifts always hit in combat without rolling against armour defence values, and deal damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. Therefore, paying d6 HP will result in a damage roll of **d8 + PSY bonus;** the same ratio applies if trying to heal an ally using a Gift. Some Gifts, such as mind control or force barriers, could be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
  
 Mystic Gifts are not earned merely by gaining levels; they must be actively hunted for. Sources of new Gifts could include imbibing psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, meditating in front of a hypergeometric obelisk, and so on. It is up to the Referee how exactly new Gifts can be obtained. 
-
 
 ## Exotica
 Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds. It is presumed that the PCs are vault-raiders, on the hunt for such items of Exotica.
