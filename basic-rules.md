@@ -84,7 +84,7 @@ Exotica are the strange relics of the many extinct civilizations that preceded y
 When a new item of Exotica is found, the GM may ask for an INT save in order to puzzle out what the device does. If the save is failed, it is assumed that the PCs cannot understand the device. They can either have the item appraised at a settlement or use it and hope for the best. 
 
 ## Advancement
-As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your **Level.** All new characters start at Level 1 and advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will gain you one **experience point** or XP. When your XP tally equals your current Level, increase your Level by one and erase your current XP tally.
+As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your **Level.** All new characters start at Level 1 and advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will gain you one **experience point** or **XP.** When your XP tally equals your current Level, increase your Level by one and erase your current XP tally.
 
 When your Level increases, you receive 3 points which you may use to increase your Abilities. Abilities may never be raised higher than 20 /+10. You must also roll a d8 and add the result to your maximum HP. 
 
