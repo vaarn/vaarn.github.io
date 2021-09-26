@@ -60,7 +60,7 @@ The players must drink every day (unless they are synthetic). Make them aware of
 
 You decide how much a token is worth, but I suggest allowing them to trade an item slot’s worth of equipment for a single token at the Baron’s banks.
 
-If your players are anything like mine, they will immediately start trying to find ways around this extortion. They will steal tokens, steal water from NPCs or from the Baron’s mercenaries, tap into private water pipes, or try to overthrow the Baron entirely and make water free for everyone. This is all good, as it drives conflict. Embrace it
+If your players are anything like mine, they will immediately start trying to find ways around this extortion. They will steal tokens, steal water from NPCs or from the Baron’s mercenaries, tap into private water pipes, or try to overthrow the Baron entirely and make water free for everyone. This is all good, as it drives conflict. Embrace it.
 
 # Bartering
 ----
