@@ -54,7 +54,7 @@ Under normal conditions, the PCs can travel a half day’s worth of distance in 
 ## Rations
 Rations are an abstraction of food and water carried. Five days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
 
-Rations can be obtained from the bodies of dead\* opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
+Rations can be obtained from the bodies of dead opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
 
 _If you find numbers on a character sheet a bit abstract, you could use a bowl of poker chips to represent the players’ total rations. Have each player remove a poker chip from the bowl when they camp for the night, and add chips back in when they find fresh sources of nourishment._
 
