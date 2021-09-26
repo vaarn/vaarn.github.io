@@ -64,10 +64,13 @@ If your character is __Deprived__ they cannot benefit from Short or Long Rests. 
 
 ## Water
 Vaarn has a fluid economy; potable water is one of the most valuable resources in the blue wastelands. Up to three rations of water can be carried in one item slot. 
-Biological PCs must drink one ration of water every day. Synthetic PCs must imbibe a ration of water weekly, in order to cool their general syntax boards and ego-engines. Failure to do so will result in the character becoming Deprived. If a character is Deprived due to thirst for three days in a row, they will perish. 
+Biological PCs must drink one ration of water every day. Synthetic PCs must imbibe a ration of water weekly, in order to cool their general syntax boards and ego-engines. Failure to do so will result in the character becoming Deprived. If a character is Deprived due to thirst for three days in a row, they will perish.
+
+## Barter
+Merchants will usually trade an item slots’ worth of goods for similar, putting a premium on rations of water and items of Exotica. There is no set list of prices for goods in Vaarn. The deals characters can strike will depend upon context, the merchant’s disposition, and how persuasive they are. 
 
 ## Mystic Gifts
-Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are collectively referred to as __Gifts__. 
+Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are collectively referred to as __Gifts__.  Each Mystic Gift uses one item slot; this represents the burden these unnatural powers exert on the body of the wielder.
 
 Note that Gifts are only lightly defined by their name, and the players and referee must collectively agree on the specific effect of a Mystic Gift. Using a Gift always costs HP; a precise cost will be determined by the referee once the player describes what they want to accomplish. The baseline cost for using a Gift is __d6 HP__. 
  
@@ -81,8 +84,11 @@ Exotica are the strange relics of the many extinct civilizations that preceded y
 When a new item of Exotica is found, the GM may ask for an INT save in order to puzzle out what the device does. If the save is failed, it is assumed that the PCs cannot understand the device. They can either have the item appraised at a settlement or use it and hope for the best. 
 
 ## Advancement
-As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your Level. All new characters start at Level 1, and advance by completing Expeditions. The precise nature of a single Expedition will be defined by the GM, but they usually involve extended journeys during which the characters solve problems, negotiate with or battle opponents, and discover more about the world of Vaarn. Completing an Expedition will gain you one experience point or __XP__. When your XP equals your current Level, increase your Level by one and erase all XP tallies.  
+As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your **Level.** All new characters start at Level 1 and advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will gain you one **experience point** or XP. When your XP tally equals your current Level, increase your Level by one and erase your current XP tally.
 
-When you level up, you receive 3 points which you may use to increase your Abilities. Abilities may never be raised higher than 20/+10. You may also roll a d8 and add the result to your maximum HP.  
+When your Level increases, you receive 3 points which you may use to increase your Abilities. Abilities may never be raised higher than 20 /+10. You must also roll a d8 and add the result to your maximum HP. 
 
-Once a character has reached level 10, they are considered complete. Each subsequent level will grant one extra HP, and they cannot increase their Abilities further. It is recommended that they recruit an Apprentice to accompany them on Expeditions. Once they have gained a few Levels, this Apprentice can become your new main character.
+Once a character has reached Level 10, they are considered complete. Each subsequent level will grant only one extra HP, and they cannot increase their Abilities further. It is recommended that they recruit a Level 1 apprentice to accompany them on expeditions. In time, this apprentice can become the player’s new main character.
+
+   ?> _**Note:** Each item of Exotica traded in counts for one XP in total, not one XP per player. A group of four Level 1 PCs would need to trade in four items of Exotica in order for all characters to reach Level 2._
+
