@@ -15,7 +15,7 @@
   - [The Interior](regions/the-interior.md)
 - [Bestiary](bestiary.md)
 - [Tongues of Vaarn](tongues-of-vaarn.md)
-- [Titans Of A Faded Age](titans.md)
+- [Titans of a Faded Age](titans.md)
 
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
