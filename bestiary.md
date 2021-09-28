@@ -393,7 +393,7 @@ _Fungal_
 <tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 9</td></tr>
 <tr><td><b>Morale</b>: 15 (3)</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Slam (d8) + Spore Spray (d8 area)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make Morale check it Morale 3 if burned.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make Morale Save at Morale 3 if burned.</td></tr>
 </table>
 
 ## Yurling
