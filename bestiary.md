@@ -33,7 +33,7 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d20</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: As weapon</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Ragged desperate robbers that plague the Blue Ruins. For greater detail see page 39.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Ragged desperate robbers that plague the Blue Ruins.</td></tr>
 </table>
 
 ## Battle Boar
