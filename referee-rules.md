@@ -20,7 +20,7 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 
 ?> **Example:** A typical 4 HD monster would have an attack bonus of +4 and a defence of 14 in all of its abilities by default, unless modified by the referee.  
 
-**Damage:** This indicates the number of attacks a monster can make per round, and the damage dice rolled for each.  
+**Attacks:** This indicates the number of attacks a monster can make per round, and the damage dice rolled for each.  
 
 **Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt to flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
 
