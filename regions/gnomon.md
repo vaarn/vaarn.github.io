@@ -125,8 +125,9 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 
 **VILLAIN**: Hopefully a story that writes itself. Ancamulla is a wealthy, cruel monopolist who has a stranglehold on the most valuable resource in the city. As a machine, he can never experience the thirst that terrifies those under him. Show the players the Baron’s militia denying begging families a drink, smashing open barrels of illegal water, and imprisoning people for water debt. They will probably want to do something about this.
 
+### Ancamulla, The Water Baron of Gnomon
+_Synthetic_
 <table>
-<thead><td>Ancamulla, The Water Baron of Gnomon</td><td>Synthetic</td></thead>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 24 (Ancient Warding Field)</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Attacks</b>: Feeble Swipe (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Ancamulla does not expect to fight; he has mercenaries for that. If in mortal danger he will likely flee or try to bargain using his wealth. His chassis is fitted with an ancient Warding Field, which renders most kinetic attacks against his person harmless. A well-timed EMP would disrupt the warding field, reducing him to his natural Armour of 11.</td></tr>
@@ -177,8 +178,9 @@ _Biological_
 
 **VILLAIN**: If the referee desires, Larke can fill the role of a primary campaign villain. Accentuate his black rages, his hatred of Gnomon and its inhabitants, and the ruthless lengths he will go to ensuring a steady flow of taxes to the Hegemon. Show his men taking a well-liked NPC prisoner over a minor violation of Hegemony law. It is recommended that you pair this portrayal of Consul Lonrot with an equally villainous Commander Loonflower, and cast the Water Baron as a sympathetic figure, who is attempting to keep control of the water supply to prevent the Hegemony from gaining an unbreakable grip over the city.
 
+### Hegemony Consul, Larke Xan Lonrot
+_Biological_
 <table>
-<thead><td>Hegemony Consul, Larke Xan Lonrot</td><td>Biological</td></thead>
 <tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 16 (Adamant Linen Robes)</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Attacks</b>: Monofilament Sword (2d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Always accompanied by Lictors. Lonrot is a competent enough duelist, but will not have any interest in risking his life in battle. If cornered he will use the active camouflage rig inside his robes to become invisible and attempt to escape.</td></tr>
@@ -230,8 +232,9 @@ _Biological_
 
 **VILLAIN**: To make Loonflower an antagonist, heighten his bigotry against non-human characters and NPCs. He is still bluff, jovial and playful, but there is real hatred behind his jokes. His soldiers share his prejudice, and the cacogen, newbeasts, mycomorphs and synths of Gnomon are terrorised by the Hegemony’s true-kin soldiers. Loonflower could also be carrying out a campaign of extermination against the tribes of Faa nomads who live in the badlands around Gnomon. Play up the imperialist aspects of the New Hegemony, and make Loonflower the avatar of these tendencies.
 
+### Hegemony Commander, Eldwall Loonflower
+_Biological_
 <table>
-<thead><td>Hegemony Commander, Eldwall Loonflower</td><td>Biological</td></thead>
 <tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 16 (Hegemony Ferro-Plate)</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Hegemony Sidearm (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Unlikely to fight alone; he will be accompanied by four Hegemony Centurions. Hegemony troops will never fail Morale checks while Loonflower is alive and fighting with them.</td></tr>
@@ -283,8 +286,9 @@ _Biological_
 
 **VILLAIN**: Faunia as an antagonist is still grandmotherly, soft-spoken and physically gentle. However, she is the recipient of prophetic dreams, glorious images of the Promised Sun rising bright and terrible to burn away the wickedness of the world and bring the righteous few to a gleaming salvation. Faunia must hasten the arrival of this celestial saviour, by rooting out unbelievers and burning them alive in great rapturous bonfires. This version of Faunia runs Gnomon as a theocratic police-state, probably with the support of the Water Baron or Consul Lonrot, who have been converted to her faith by the fervour of her visions.
 
+### Abbess Faunia, Apostle Of The Promised Sun
+_Biological_
 <table>
-<thead><td>Abbess Faunia, Apostle Of The Promised Sun</td><td>Biological</td></thead>
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 11 (Golden Robes)</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Attacks</b>: Fists (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Faunia is no warrior, but her ambient psychic powers mean that she is impossible to surprise. If attacked, she will activate her most precious artefact: a hard-light projector that creates seven solid-state holograms of her, which will scatter in all directions. In the confusion she will attempt to escape. Note these holograms are physical objects, and can be restrained by the PCs.</td></tr>
@@ -336,8 +340,9 @@ _Biological_
 
 **VILLAIN**: Prieval is a natural fit for a villain, and can play the role easily. He’s vain, proud, extremely violent, and easily offended. Bring the players into conflict with his operation by having some smugglers show up to collect debt from an NPC halfway through an important conversation. Alternatively, if they visit a chariot race or underground gambling den, Prieval is there holding court at the VIP table with his cronies. Have him throw a drink at them and they’ll hate him forever.
 
+### Prieval Prise
+_Biological_
 <table>
-<thead><td>Prieval Prise</td><td>Biological</td></thead>
 <tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 13 (Gaudy Robes)</td></tr>
 <tr><td><b>Morale</b>: See Below</td><td><b>Attacks</b>: Pistol (d8) + Bite (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: If combat breaks out, the referee should roll to determine which drug Prieval is high on. Even numbers designate amphetamines; Prieval is twitchy and fast, and will always act twice before the PCs do. However, he will bug out and run as soon as the fight goes against him. Odd numbers designate opiates; Prieval is disassociating and will always attack last. However, he has no concept of the danger he is in, cannot feel pain, and will never run away.</td></tr>
@@ -391,8 +396,9 @@ _Biological_
 
 **VILLAIN**: Nyxia’s ‘justice’ is alien to contemporary conceptions of a legal system, and wrongly accused people end up forced to fight in her arena all the time. Have an NPC known to the players be served with a Crimson Mark, someone who is unable to afford an Advocate’s help. Nyxia will show no mercy in such situations, considering those who die in the Court to have proven themselves guilty of something.
 
+### Nyxia, The Wall-Shadow
+_Hypergeometric_
 <table>
-<thead><td>Nyxia, The Wall-Shadow</td><td>Hypergeometric</td></thead>
 <tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 11</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: d8 CON drain</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Nyxia cannot be injured by regular weapons or by psychic Gifts. Only hypergeometric weapons have any hope of harming her. She attacks by latching onto an opponent and draining the energy from their body. When their CON defence is reduced to 0, they are dead.</td></tr>
@@ -445,8 +451,9 @@ _Biological_
 
 **VILLAIN**: Jak is still a monster, even if she is a very intelligent one. To make her an antagonist, play up the creepy cannibal aspect of her coven. Have the players hear sinister stories about corpses going missing before funerals, and family crypts in the Tomblands being ransacked. Maybe the Friends of Jak prefer live flesh for their feasts? A hidden society that practiced such wicked rituals would, of course, be a topic of fear and revulsion amongst the common people of Gnomon. Someone who rooted out this cabal would enjoy a favorable reputation in the city.
 
+### Longtooth Jak
+_Biological_
 <table>
-<thead><td>Longtooth Jak</td><td>Biological</td></thead>
 <tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 15 (Thick hide)</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: If both of Jak’s claws hit the same target, she will follow up with a bite attack that deals 2d6 damage, with no to-hit roll required. She will deal another automatic 2d6 damage to the target she has grabbed each turn, unless they pass a STR save to wrestle her off.</td></tr>
