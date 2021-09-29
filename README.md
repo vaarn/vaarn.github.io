@@ -44,11 +44,6 @@ Alternatively, available from selected stores:
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-2">link</a></td>
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-3-pdf">link</a></td>
   </tr>
-  <tr><td>Spear Witch</td>
-    <td><a href="https://spearwitch.com/products/vaults-of-vaarn-issue-01">link</a></td>
-    <td><a href="https://spearwitch.com/products/vaults-of-vaarn-issue-02">link</a></td>
-    <td><a href="https://spearwitch.com/products/vaults-of-vaarn-issue-03">link</a></td>
-  </tr>
   <tr><td>CA</td><td>Monkey's Paw Games</td>
     <td><a href="https://monkeyspawgames.com/products/vaults-of-vaarn">link</a></td>
     <td><a href="https://monkeyspawgames.com/collections/setting/products/vaults-of-vaarn-2">link</a></td>

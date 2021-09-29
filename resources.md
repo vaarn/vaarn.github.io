@@ -4,7 +4,8 @@
 [Travel in Vaarn](https://perchance.org/travelinvaarn)  
 [Vaarn Character Generator](https://perchance.org/vaarnpcgen) 
 
-# Blogs
+# Blogs <!-- {docsify-ignore} -->
+
 [Vaults of Vaarn](https://vaultsofvaarn.com/): The original Vaults of Vaarn blog.  
 [Buccolia](https://bucoliablog.wordpress.com/): Solo play updates, random tables, and Vaarn music.   
 [Finder's Trail](https://finderstrails.tumblr.com/): A campaign record with some additional lore posts. 
