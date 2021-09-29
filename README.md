@@ -39,7 +39,7 @@ Alternatively, available from selected stores:
     <td><a href="https://alltheproblemsinthisworld.com/shop/p/vaultsofvaarn2">link</a></td>
     <td><a href="https://alltheproblemsinthisworld.com/shop/p/leo-hunt-vaults-of-vaarn-3">link</a></td>
   </tr>
-  <tr><td rowspan="2">US</td><td>Exalted Funeral</td>
+  <tr><td>US</td><td>Exalted Funeral</td>
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-1-pdf">link</a></td>
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-2">link</a></td>
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-3-pdf">link</a></td>
