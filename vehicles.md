@@ -70,7 +70,7 @@ _Biological_
 <tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Speed</b>: Moderate</td><td><b>Value</b>: Moderate</td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Hump-mounted flechette cannon (d10) + Kick (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Camels are still considered an excellent choice of desert mount, even in this late red era of Urth. War camels, fitted with mirror-armor and implanted flechette cannons, are used by Faa nomad raiders and Hegemony troops alike, and camel trains are one of the cheapest venture of Vaarnish merchant can finance.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Camels are still considered an excellent choice of desert mount, even in this late red era of Urth. War camels, fitted with mirror-armor and implanted flechette cannons, are used by Faa nomad raiders and Hegemony troops alike, and camel trains are one of the cheapest ventures a Vaarnish merchant can finance.</td></tr>
 </table>
 
 ## Weeping Lizard
