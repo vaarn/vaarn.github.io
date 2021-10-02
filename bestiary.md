@@ -213,7 +213,7 @@ _Synthetic_
 <tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 22</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Crush (d12)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire and in so doing it make them part of its ever-roving axis.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire and in so doing it makes them part of its ever-roving axis.</td></tr>
 </table>
 
 ## Lambent Lynx
