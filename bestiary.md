@@ -207,6 +207,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: An indigo-robed corpse, re-animated by the necrotech implants of the College of Indigo Tigers. Obeys the wearer of a Dominion Ring without question. Mute, obedient, fearless.</td></tr>
 </table>
 
+## Juggernaut
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 22</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Crush (d12)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of destruction. What it sees it covets but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire and in so doing it makes them part of its ever-roving axis. /td></tr>
+</table>
+
 ## Lambent Lynx
 _Biological_ / _Synthetic_
 <table>
