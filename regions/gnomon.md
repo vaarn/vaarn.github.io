@@ -379,7 +379,7 @@ _Biological_
 <table>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Knife (d6) + Plasma Grenede (d8 blast)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Knife (d6) + Plasma Grenade (d8 blast)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Assassination technique involves bombing targets’ homes with ancient plasma grenades.</td></tr>
 </table>
 
