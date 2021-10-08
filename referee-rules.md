@@ -14,7 +14,7 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 ## Monsters
 **Hit Dice / Hit Points:** All monster hit dice (**HD**) are d8s unless otherwise specified. To get the monster's hit points, just multiply the number of hit dice they have by 4 (or 5 if you're feeling mean.)  
 
-**Armour:** A monster's Armour score gives the number a PC's attack role must equal or exceed to damage them.  
+**Armour:** A monster's Armour score gives the number a PC's attack roll must exceed to damage them.  
 
 **Attack Bonus / Saves:** Assume that monsters have ability bonuses equal to their HD, with the corresponding ability defences.
 
