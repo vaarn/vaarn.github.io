@@ -57,7 +57,7 @@ Vaarn is not well-mapped, and it is not recorded exactly how far one must travel
 Under normal conditions, the PCs can travel a half day’s worth of distance in the morning, and a half day’s worth of distance in the afternoon. At night they must eat a meal and rest.
 
 ## Rations
-Rations are an abstraction of food and water carried. Five days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
+Rations are an abstraction of food and water carried. Three days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
 
 Rations can be obtained from the bodies of dead opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Hit Dice into rations at a ratio of 1:1.
 
