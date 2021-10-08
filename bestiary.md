@@ -221,7 +221,7 @@ _Biological_ / _Synthetic_
 <table>
 <tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Electric Claws (d6) / Binding Pelt</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Electric Claws (d6) / Blinding Pelt</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Lurid cyborg feline. Feeds on sources of electrical power, including synths. The lynx can ignite every filament in its synthetic pelt like a flash-bang, forcing DEX saves to avoid d6 rounds of blindness; they will use this technique to ambush potential prey or to escape a lost fight.</td></tr>
 </table>
 
