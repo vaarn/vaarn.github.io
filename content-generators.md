@@ -152,10 +152,10 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |94|Seeker of Flaws|Hammer. When held, shows you the weak points in structures.|
 |95|Autarch’s Sigil|Machines that served the Autarchy believe you are their master.|
 |96|Feathered Parasol|Affixed with anti-gravity beads, to produce a parachute effect.|
-|97|Psybernetic Helm|Installs one random Mystic’s Gift (p.23).|
-|98|Cybernetic Cocoon|Installs one random cybernetic implant (p.25).|
-|99|Book|Roll for random rare book (p.31).|
-|00|Drug|Roll for random rare drug (p.34).|
+|97|Psybernetic Helm|Installs one random [Mystic Gift](https://vaarn.github.io/#/mystic-gifts).|
+|98|Cybernetic Cocoon|Installs one random [cybernetic implant](https://vaarn.github.io/#/cybernetics).|
+|99|Book|Roll for random rare [book](https://vaarn.github.io/#/content-generators?id=books-of-vaarn).|
+|00|Drug|Roll for random rare [drug](https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn).|
 
 ## Books of Vaarn
 |d20|COVER|AUTHOR|STYLE|SUBJECT|NOTABLE FEATURE|
