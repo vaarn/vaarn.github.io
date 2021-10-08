@@ -1354,7 +1354,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>13</td><td>Bloated</td><td>Missing Family</td></tr>
 <tr><td>14</td><td>Gangly</td><td>Missing Friend</td></tr>
 <tr><td>15</td><td>Child-like</td><td>Hates a Rival</td></tr>
-<tr><td>16</td><td rowspan="3">Synth</td><td>Gigantic</td><td>Forbidden Love</td></tr>
+<tr><td>16</td><td rowspan="3">Synth</td><td>Tanned</td><td>Unrequited Love</td></tr>
 <tr><td>17</td><td rowspan="2">Androgynous</td><td>Gigantic</td><td>Forbidden Love</td></tr>
 <tr><td>18</td><td>Wiry</td><td>Craves Power</td></tr>
 <tr><td>19</td><td rowspan="2">Mycomorph</td><td rowspan="2">Nonbinary</td><td>Stout</td><td>Create Art</td></tr>
