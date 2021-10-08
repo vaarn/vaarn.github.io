@@ -1020,7 +1020,7 @@ _The Church of the Promised Sun is not the only faith followed in Gnomon. Trader
 <tr><td>12</td><td>Silence</td><td>Assassins</td><td>Jackals</td></tr>
 <tr><td>13</td><td>Wind</td><td>Livestock</td><td>Tortoises</td></tr>
 <tr><td>14</td><td>Rain</td><td>Weaponry</td><td>Cats</td></tr>
-<tr><td>15</td><td>Destruction</td><td>Serpents</td><td>Beetles</td></tr>
+<tr><td>15</td><td>Despair</td><td>Serpents</td><td>Beetles</td></tr>
 <tr><td>16</td><td>Death</td><td>Oasis</td><td>Memories</td></tr>
 <tr><td>17</td><td>Wisdom</td><td>Wild Beasts</td><td>Scorpions</td></tr>
 <tr><td>18</td><td>Men</td><td>Jealousy</td><td>Specific Body Parts</td></tr>
