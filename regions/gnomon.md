@@ -43,7 +43,7 @@ Vaarn is a dry and rain-starved country. In the trackless blue deserts, clans of
 
 By ancient law, distribution of water in Gnomon is controlled by the Water Baron, Ancamulla. The Baron’s Aquifer machine stands at the base of the Apex, and it draws vast quantities of cool, fresh water from deep within the flesh of the Urth. Through a web of pipes and fountains, the city drinks at the Baron’s pleasure.
 
-Access to water is administered by the Water Baron’s clerks and mercenaries. The poor drink from public fountains, while wealthier residents of Gnomon have private pipelines installed in their townhouses. All must pay the water tax, however, exchanging goods at the Baron’s banks for **water-debt** tokens that are redeemable at public fountains. Each token is worth a day’s drinking water for one person, if they take small sips. The militiamen who man the water fountains may also exchange water for food, weapons, or other luxuries, depending on their mood. All water in Gnomon belongs to the Baron, and bringing water from outside the city walls is forbidden.
+Access to water is administered by the Water Baron’s clerks and mercenaries. The poor drink from public fountains, while wealthier residents of Gnomon have private pipelines installed in their townhouses. All must pay the water tax, however, exchanging goods at the Baron’s banks for **water debt** tokens that are redeemable at public fountains. Each token is worth a day’s drinking water for one person, if they take small sips. The militiamen who man the water fountains may also exchange water for food, weapons, or other luxuries, depending on their mood. All water in Gnomon belongs to the Baron, and bringing water from outside the city walls is forbidden.
 
 ## Ancamulla and the New Hegemony
 
@@ -56,7 +56,7 @@ The precise nature of the Baron’s sabotage device is left to the referee to de
 
 ## Water Debt and the Players
 
-The players must drink every day (unless they are synthetic). Make them aware of this, and punish them when they aren’t drinking. Inflicting the **Deprived** tag on them, which prevents them from healing lost HP, is a good start. If they go multiple days without drinking, you may impose stiffer penalties. Make it clear that the Water Baron has a monopoly on potable water in Gnomon, and that they’ll need to pay his militia with water-debt tokens every day.
+The players must drink every day (unless they are synthetic). Make them aware of this, and punish them when they aren’t drinking. Inflicting the **Deprived** tag on them, which prevents them from healing lost HP, is a good start. If they go multiple days without drinking, you may impose stiffer penalties. Make it clear that the Water Baron has a monopoly on potable water in Gnomon, and that they’ll need to pay his militia with water debt tokens every day.
 
 You decide how much a token is worth, but I suggest allowing them to trade an item slot’s worth of equipment for a single token at the Baron’s banks.
 
@@ -82,7 +82,7 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 </table>
 
 <table>
-<thead><td colspan="2">Typical Price In Water-Debt Tokens</td></thead>
+<thead><td colspan="2">Typical Price In Water Debt Tokens</td></thead>
 <tr><td>A Day’s Water</td><td>1 Token</td></tr>
 <tr><td>Sturdy Boots</td><td>1 Token</td></tr>
 <tr><td>Flash-bangs (5)</td><td>1 Token</td></tr>
@@ -1452,7 +1452,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Desires To</th><th>NPC B</th></thead>
 <tr><td>1</td><td>Silk Merchant</td><td rowspan="2">Abduct</td><td>Priest of the Promised Sun</td></tr>
-<tr><td>2</td><td>Water-Debt Clerk</td><td>Water Baron’s Guard</td></tr>
+<tr><td>2</td><td>Water Debt Clerk</td><td>Water Baron’s Guard</td></tr>
 <tr><td>3</td><td>Musician</td><td rowspan="2">Professionally Discredit</td><td>Corrupt Scribe</td></tr>
 <tr><td>4</td><td>Mosaic Artist</td><td>Astronomer</td></tr>
 <tr><td>5</td><td>Hired Poet</td><td rowspan="2">Marry</td><td>Silversmith</td></tr>
