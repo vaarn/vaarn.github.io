@@ -43,7 +43,7 @@ _Mechanical_
 <tr><td><b>Hull Points</b>: 7</td><td><b>Armour</b>: 18</td></tr>
 <tr><td><b>Speed</b>: Rapid</td><td><b>Value</b>: </td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Laser Lance (3d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Pre-Collapse flying machines that beat artificial wings to stay aloft. Smaller ornithopters are humming-bird like, and seat two passengers, while larger combat ornithopters resemble dragonflies, and carry Hegemony soldiers wherever they are required.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Pre-Collapse flying machines that beat artificial wings to stay aloft. Smaller ornithopters are hummingbird-like, and seat two passengers, while larger combat ornithopters resemble dragonflies, and carry Hegemony soldiers wherever they are required.</td></tr>
 </table>
 
 ## Skiff
