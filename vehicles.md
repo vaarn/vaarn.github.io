@@ -16,7 +16,7 @@ _Mechanical_
 <tr><td><b>Hull Points</b>: 5</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Speed</b>: Fast</td><td><b>Value</b>: Low</td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Flak-blaster turret (d10)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Simple, crude desert vehicles that run on guzzline. Dune-Skuggies are hacked together from whatever metal their maker could steal or scavenge, usually nothing but a seat protected by a roll-cage, bolted to a roaring smoky engine that drives for ravenous wheels. Skuggies are fast, rough, and loud, and their owners are usually the same.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Simple, crude desert vehicles that run on guzzline. Dune-Skuggies are hacked together from whatever metal their maker could steal or scavenge, usually nothing but a seat protected by a roll-cage, bolted to a roaring smoky engine that drives four ravenous wheels. Skuggies are fast, rough, and loud, and their owners are usually the same.</td></tr>
 </table>
 
 ## Iron Mule
