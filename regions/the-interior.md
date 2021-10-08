@@ -641,26 +641,24 @@ _The wild places of Vaarn are well-stocked with monstrosities of all stripes. Th
 <tr><td>1</td><td>Argent Shepherd</td><td>Ruined Chapel</td><td>Madmen Affixed With Argent Halos Beg Party To Turn Back</td></tr>
 <tr><td>2</td><td>Chrome-Feathered Sailback</td><td>Flat Basking Plain</td><td>Chrome Feathers Float on the Wind</td></tr>
 <tr><td>3</td><td>d6 Quill-Spiders</td><td>Burrows in Earth</td><td>An Antelope, Limping, Leg Full of Quills</td></tr>
-<tr><td>4</td><td>Chromavore*</td><td>Colourless Cactus Grove</td><td>Colourless Husks of Faa Family</td></tr>
-<tr><td>5</td><td>d6 Hiveymen*</td><td>Gruesome Black Hive</td><td>Single Sable Bee Crawls on Ground</td></tr>
-<tr><td>6</td><td>d6 Lizard Lions*</td><td>Sun-kissed Basking Rock</td><td>Discover a Shed Skin</td></tr>
-<tr><td>7</td><td>d6 Battle Boars*</td><td>Shaded Dustbath</td><td>Boulders With Tusk-Marks</td></tr>
+<tr><td>4</td><td>Chromavore</td><td>Colourless Cactus Grove</td><td>Colourless Husks of Faa Family</td></tr>
+<tr><td>5</td><td>d6 Hiveymen</td><td>Gruesome Black Hive</td><td>Single Sable Bee Crawls on Ground</td></tr>
+<tr><td>6</td><td>d6 Lizard Lions</td><td>Sun-kissed Basking Rock</td><td>Discover a Shed Skin</td></tr>
+<tr><td>7</td><td>d6 Battle Boars</td><td>Shaded Dustbath</td><td>Boulders With Tusk-Marks</td></tr>
 <tr><td>8</td><td>Alzabo*</td><td>Deep Cave</td><td>Hear A Child’s Voice, Which Echoes Oddly</td></tr>
-<tr><td>9</td><td>3d6 Pthalo-Jackals*</td><td>Shallow Dens</td><td>Hear Howling on the Wind</td></tr>
-<tr><td>10</td><td>d4 Pseudo-Giants*</td><td>Crude Brick Huts</td><td>Remains of a Hegemony Skiff, Stomped to Pieces</td></tr>
+<tr><td>9</td><td>3d6 Pthalo-Jackals</td><td>Shallow Dens</td><td>Hear Howling on the Wind</td></tr>
+<tr><td>10</td><td>d4 Pseudo-Giants</td><td>Crude Brick Huts</td><td>Remains of a Hegemony Skiff, Stomped to Pieces</td></tr>
 <tr><td>11</td><td>d6 Lambent Lynx</td><td>Den High in the Cliffs</td><td>Electrical Taste in the Air, As If Before A Storm</td></tr>
-<tr><td>12</td><td>3d6 Blue Baboons*</td><td>Rocky Outcrop</td><td>Excrement Heaped Everywhere</td></tr>
-<tr><td>13</td><td>d6 Walking Wombs*</td><td>Foul-smelling Sinkhole</td><td>Wide Dragging Tracks In the Sand</td></tr>
-<tr><td>14</td><td>3d6 Tiger Flies*</td><td>Tall Papery Nest</td><td>Tell-tale Buzzing</td></tr>
-<tr><td>15</td><td>d4 Regenerators*</td><td>Human-skin Tents</td><td>Crude Idols Made of Bones</td></tr>
-<tr><td>16</td><td>Thunderstrike Bird*</td><td>Roosts on Mesa</td><td>Huge Tar-black Feather Caught on Cactus</td></tr>
-<tr><td>17</td><td>d4 Glass Tigers*</td><td>Lurk On Salt Flats</td><td>Corpse with Tell-tale Bite Marks</td></tr>
-<tr><td>18</td><td>Amaranthine Death-Worm*</td><td>Poisoned Tree</td><td>Huge Sinuous Tracks in the Dirt</td></tr>
-<tr><td>19</td><td>Xanthous Mycomorph*</td><td>Fungal Thicket</td><td>Yellow Spores on the Wind</td></tr>
-<tr><td>20</td><td>d12 Greenguard*</td><td>Abandoned Fortifications</td><td>Enamel Bullets Embedded in Rocks</td></tr>
+<tr><td>12</td><td>3d6 Blue Baboons</td><td>Rocky Outcrop</td><td>Excrement Heaped Everywhere</td></tr>
+<tr><td>13</td><td>d6 Walking Wombs</td><td>Foul-smelling Sinkhole</td><td>Wide Dragging Tracks In the Sand</td></tr>
+<tr><td>14</td><td>3d6 Tiger Flies</td><td>Tall Papery Nest</td><td>Tell-tale Buzzing</td></tr>
+<tr><td>15</td><td>d4 Regenerators</td><td>Human-skin Tents</td><td>Crude Idols Made of Bones</td></tr>
+<tr><td>16</td><td>Thunderstrike Bird</td><td>Roosts on Mesa</td><td>Huge Tar-black Feather Caught on Cactus</td></tr>
+<tr><td>17</td><td>d4 Glass Tigers</td><td>Lurk On Salt Flats</td><td>Corpse with Tell-tale Bite Marks</td></tr>
+<tr><td>18</td><td>Amaranthine Death-Worm</td><td>Poisoned Tree</td><td>Huge Sinuous Tracks in the Dirt</td></tr>
+<tr><td>19</td><td>Xanthous Mycomorph</td><td>Fungal Thicket</td><td>Yellow Spores on the Wind</td></tr>
+<tr><td>20</td><td>d12 Greenguard</td><td>Abandoned Fortifications</td><td>Enamel Bullets Embedded in Rocks</td></tr>
 </table>
-
-* For stats see Vaults of Vaarn #1
 
 ## Archive
 
@@ -724,7 +722,7 @@ _Vaarn is above all else a land heavy with endings, and tombs punctuate the deso
 <table>
 <thead><th>d20</th><th>Location</th><th>Grave For</th><th>Burial Method</th><th>Grave Quirk</th></thead>
 <tr><td>1</td><td>Ruined Village</td><td>Autarchy Soldiers</td><td>Upside Down</td><td>Has Been Desecrated</td></tr>
-<tr><td>2</td><td>Large Cave</td><td>Titan-era Programmers</td><tdIn Salted Earth></td><td>Believed Cursed</td></tr>
+<tr><td>2</td><td>Large Cave</td><td>Titan-era Programmers</td><td>In Salted Earth</td><td>Believed Cursed</td></tr>
 <tr><td>3</td><td>Secret Cave</td><td>Autarchy Nobles</td><td>In Decorated Urn</td><td>Has Been Robbed</td></tr>
 <tr><td>4</td><td>Below Floating Crystal</td><td>Autarch’s Consort</td><td>Mummified</td><td>Visited by Ghouls</td></tr>
 <tr><td>5</td><td>Lonely Hilltop</td><td>Newbeasts</td><td>Laminated</td><td>Home to Rare Animal</td></tr>
@@ -906,7 +904,7 @@ _Vaarn is considered one of the least desirable postings a Hegemony soldier can 
 _The dens of the Cacklemaw are not difficult to locate - one must simply follow the sound of uproarious merriment, of weapons being discharged wildly, of discordant and rowdy music played fast and poorly, and of vehicles being driven in circles with no apparent destination._
 
 <table>
-<thead><th>d20</th><th></th><th></th><th></th><th></th></thead>
+<thead><th>d20</th><th>Sworn To</th><th>Weapons</th><th>Activity</th><th>They Want</th></thead>
 <tr><td>1</td><td rowspan="5">Mama Hecklehaw</td><td>Bowcasters</td><td>Sleeping</td><td rowspan="4">Meat</td></tr>
 <tr><td>2</td><td>Rusted Blades</td><td>Fleeing</td></tr>
 <tr><td>3</td><td>Ornate Razorwhips</td><td>In-Fighting</td></tr>
