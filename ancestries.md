@@ -273,7 +273,7 @@ _Newbeasts are humanoid animals, produced through intensive nanotech enhancement
 
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
-|1|New-Aardvark|New-Coyote|New-Axotl|New-Anenome|
+|1|New-Aardvark|New-Coyote|New-Axotl|New-Anemone|
 |2|New-Addax|New-Skink|New-Cat|New-Centipede|
 |3|New-Leopard|New-Gazelle|New-Panther|New-Python|
 |4|New-Lion|New-Porcupine|New-Hyena|New-Tiger|
@@ -482,7 +482,7 @@ _Try to imagine, then, how badly behaved a Cacklemaw must be before the other Ca
 <tr><td>16</td><td>Snoutrout</td><td>Extravagant</td><td>Explosions</td></tr>
 <tr><td>17</td><td>Sweetmeat</td><td>Volatile</td><td rowspan="2">Shared Clan Secret</td><td>Throttling</td></tr>
 <tr><td>18</td><td>Vileglory</td><td>Gullible</td><td>Biting People</td></tr>
-<tr><td>19</td><td>Wetshriek</td><td>Fickle</td><td rowspan="2">Rediculous Petty Reason</td><td>Chemical Warfare</td></tr>
+<tr><td>19</td><td>Wetshriek</td><td>Fickle</td><td rowspan="2">Ridiculous Petty Reason</td><td>Chemical Warfare</td></tr>
 <tr><td>20</td><td>Zef</td><td>Calculating</td><td>Puns</td></tr>
 </table>
 
@@ -602,4 +602,4 @@ _Planeyfolk are the descendants of such unfortunates, a race fathered by men who
 
 ### Special Rules
 __Flat__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
-__Attune with Matter__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentraion, you can attune yourself with an item, and add it to your inventory.
+__Attune with Matter__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
