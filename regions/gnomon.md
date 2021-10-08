@@ -673,7 +673,7 @@ _Common Sights in the Tomblands_:
 <tr><td>13</td><td>Prison</td><td>Weapon Dealer’s Abode</td><td>Music Hall</td></tr>
 <tr><td>14</td><td>Architects’ Guildhall</td><td>Shrine to the Titans</td><td>Puppet Theatre</td></tr>
 <tr><td>15</td><td>Sawmill</td><td>Dry-Goods Store</td><td>Fighting Pit</td></tr>
-<tr><td>16</td><td>Mask-Maker's Workshop</td><td>Grocer’s Shop</td><td>Bakery</td></tr>
+<tr><td>16</td><td>Maskmaker's Workshop</td><td>Grocer’s Shop</td><td>Bakery</td></tr>
 <tr><td>17</td><td>Matchmaker's Abode</td><td>Butcher’s Shop</td><td>Pet Shop</td></tr>
 <tr><td>18</td><td>Shrine to Amun-Oh</td><td>Owned by a Madman</td><td>Glassmaker’s Workshop</td></tr>
 <tr><td>19</td><td>Library</td><td>Armourer’s Forge</td><td>Florist’s Shop</td></tr>
@@ -1425,26 +1425,26 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 
 <table>
 <thead><th colspan="5">Careers</th></thead>
-<tr><td>Alchemist</td><td>Butcher</td><td>Exorcist</td><td>Mask Maker</td><td>Rope-maker</td></tr>
+<tr><td>Alchemist</td><td>Butcher</td><td>Exorcist</td><td>Maskmaker</td><td>Ropemaker</td></tr>
 <tr><td>Apothecary</td><td>Card Cheat</td><td>Falconer</td><td>Mason</td><td>Scullion</td></tr>
 <tr><td>Architect</td><td>Carpenter</td><td>Farrier</td><td>Mercenary</td><td>Sculptor</td></tr>
 <tr><td>Armourer</td><td>Cartwright</td><td>Felt-maker</td><td>Midwife</td><td>Slave (Domestic)</td></tr>
 <tr><td>Astrologer</td><td>Chandler</td><td>Gambler</td><td>Miner</td><td>Slave (Military)</td></tr>
 <tr><td>Bag-maker</td><td>Charcoal Burner</td><td>Gladiator</td><td>Minstrel</td><td>Shepherd</td></tr>
 <tr><td>Baker</td><td>Charioteer</td><td>Glassblower</td><td>Miracle Healer</td><td>Sin Eater</td></tr>
-<tr><td>Bandit</td><td>Cheese-maker</td><td>Goatherd</td><td>Monk (Temple)</td><td>Stonecutter</td></tr>
+<tr><td>Bandit</td><td>Cheesemaker</td><td>Goatherd</td><td>Monk (Temple)</td><td>Stonecutter</td></tr>
 <tr><td>Banker</td><td>Chirurgeon</td><td>Goldsmith</td><td>Monk (Beggar)</td><td>Storyteller</td></tr>
-<tr><td>Barber</td><td>Clerk</td><td>Gravedigger</td><td>Needle-maker</td><td>Swineherd</td></tr>
-<tr><td>Basket-maker</td><td>Clock-maker</td><td>Hangman</td><td>Pack Handler</td><td>Tailor</td></tr>
+<tr><td>Barber</td><td>Clerk</td><td>Gravedigger</td><td>Needlemaker</td><td>Swineherd</td></tr>
+<tr><td>Basketmaker</td><td>Clockmaker</td><td>Hangman</td><td>Pack Handler</td><td>Tailor</td></tr>
 <tr><td>Bastard Farmer</td><td>Clone Catcher</td><td>Herbalist</td><td>Painter</td><td>Tanner</td></tr>
 <tr><td>Belt-maker</td><td>Cobbler</td><td>Hunter</td><td>Parchment-maker</td><td>Tax Collector</td></tr>
 <tr><td>Blacksmith</td><td>Cook</td><td>Illustrator</td><td>Preacher</td><td>Thatcher</td></tr>
 <tr><td>Bookbinder</td><td>Con Artist</td><td>Inquisitor</td><td>Plasterer</td><td>Thug</td></tr>
-<tr><td>Brass-worker</td><td>Cutpurse</td><td>Jailer</td><td>Poet</td><td>Trumpeter</td></tr>
+<tr><td>Brassworker</td><td>Cutpurse</td><td>Jailer</td><td>Poet</td><td>Trumpeter</td></tr>
 <tr><td>Brewer</td><td>Drunkard</td><td>Jeweller</td><td>Porter</td><td>Watermonger</td></tr>
-<tr><td>Bridle-maker</td><td>Dyer</td><td>Leadworker</td><td>Potter</td><td>Wet Nurse</td></tr>
-<tr><td>Broom-maker</td><td>Embroiderer</td><td>Leatherworker</td><td>Prostitute</td><td>Woodcarver</td></tr>
-<tr><td>Bureaucrat</td><td>Engineer</td><td>Locksmith</td><td>Rag Gatherer</td><td>Wool-winder</td></tr>
+<tr><td>Bridlemaker</td><td>Dyer</td><td>Leadworker</td><td>Potter</td><td>Wet Nurse</td></tr>
+<tr><td>Broommaker</td><td>Embroiderer</td><td>Leatherworker</td><td>Prostitute</td><td>Woodcarver</td></tr>
+<tr><td>Bureaucrat</td><td>Engineer</td><td>Locksmith</td><td>Rag Gatherer</td><td>Woolwinder</td></tr>
 </table>
 
 # Random Drama
