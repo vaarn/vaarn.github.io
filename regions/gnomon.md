@@ -1198,7 +1198,7 @@ _Those who cannot buy and sell must either steal or starve. Little wonder that t
 <tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
 <tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>Robbery</td><td rowspan="2">Head of Rival Gang</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Charming Con-artist</td><td>Adultery</td><td rowspan="2">Killer for Hire</td></tr>
+<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>Adultery</td><td rowspan="2">Killer for Hire</td></tr>
 <tr><td>12</td><td>Conspiracy</td></tr>
 <tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>Gluttony</td><td rowspan="2">Owner of a Passion-House</td></tr>
 <tr><td>14</td><td>Mistaken Identity</td></tr>
@@ -1461,12 +1461,12 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>8</td><td>Gladiator</td><td>Luckless Charioteer</td></tr>
 <tr><td>9</td><td>Natural Philosopher</td><td rowspan="2">Impress</td><td>Rare Book Dealer</td></tr>
 <tr><td>10</td><td>Alchemist</td><td>Opium Farmer</td></tr>
-<tr><td>11</td><td>Fungus-monger</td><td rowspan="2">Arrange the Death Of</td><td>Fortune Teller</td></tr>
+<tr><td>11</td><td>Fungusmonger</td><td rowspan="2">Arrange the Death Of</td><td>Fortune Teller</td></tr>
 <tr><td>12</td><td>Dancer</td><td>Travelling Singer</td></tr>
 <tr><td>13</td><td>Street Sweeper</td><td rowspan="2">Collect Debt From</td><td>Hired Killer</td></tr>
 <tr><td>14</td><td>Cartel Enforcer</td><td>Fraudulent Psychic</td></tr>
 <tr><td>15</td><td>Goat Herder</td><td rowspan="2">Renege on a Deal With</td><td>Nomad Leader</td></tr>
-<tr><td>16</td><td>Olive-oil Seller</td><td>Hegemony Soldier</td></tr>
+<tr><td>16</td><td>Olive Oil Seller</td><td>Hegemony Soldier</td></tr>
 <tr><td>17</td><td>Highborn Layabout</td><td rowspan="2">Locate</td><td>Hegemony Tax Collector</td></tr>
 <tr><td>18</td><td>Famous Duelist</td><td>Bounty Hunter</td></tr>
 <tr><td>19</td><td>Caravan Guard</td><td rowspan="2">Cure the Sickness Of</td><td>Retired Boxer</td></tr>
@@ -1477,10 +1477,10 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 
 _No city stands still, and certainly no city as chaotic and vibrant as Gnomon. If the players leave town for a while and come back, here are some things that might have changed while they were gone._
 
-- **An Inspector Calls**. The distant Hegemon, May Their Reign Last One Thousand Years, is displeased with the tax-flow from Gnomon, and feels a firmer hand is needed. A cabal of Hegemony Inquisitors have arrived, and they have established a new branch of the House of Questions atop the Apex of Gnomon. Even Consul Lonrot and Commander Loonflower are not immune to the attention of the Hegemon’s Inquisition. The white-robed Brides of Truth walk through the city like ghosts, followed by groups of mute, black-robed Grooms, their dangling proboscises itching to suck the lies out of someone’s skull. People are vanishing from their homes at night. Nobody knows who may be an informant. And what exactly is the Grand Inquisitor doing, up there in his windowless tower?
+- **An Inspector Calls**. The distant Hegemon, May Their Reign Last One Thousand Years, is displeased with the tax flow from Gnomon, and feels a firmer hand is needed. A cabal of Hegemony Inquisitors have arrived, and they have established a new branch of the House of Questions atop the Apex of Gnomon. Even Consul Lonrot and Commander Loonflower are not immune to the attention of the Hegemon’s Inquisition. The white-robed Brides of Truth walk through the city like ghosts, followed by groups of mute, black-robed Grooms, their dangling proboscises itching to suck the lies out of someone’s skull. People are vanishing from their homes at night. Nobody knows who may be an informant. And what exactly is the Grand Inquisitor doing, up there in his windowless tower?
 - **Rain Will Come**. How much longer must the good people of Gnomon suffer under the Water Baron’s yoke? How many more outrages must they endure? A new voice promises liberation from the Baron’s rule. This preacher stirs the populace with their tales: myths of free water for all, falling from the Vaarnish sky as it did long ago. They call this preacher the Rainmaker. Mobs of their followers gather in the public squares, wailing and lamenting and imploring the sky to bless them. The great and good of Gnomon are, understandably, less than keen on this preacher riling up the masses. Someone really ought to do something about that fanatic.
 - **The Legions Return**. The Hegemon, May Their Blade Cut Down the Unforgiven, has urgent need of all their Legions in the heartlands of the Hegemony. Nobody’s quite sure when the soldiers will come back. House Lonrot are left in charge of the city, with only their modest household guard to enforce the Consul’s will. If anyone was ever going to make a play for Gnomonian independence, this is their chance.
-- **Language Plague**. A reckless vault-raider brought some awful relic of the Age of Titans into the city, and a rapidly-spreading language virus is threatening the populace. The disease compels sufferers to endlessly repeat a strange mantra, and all those who hear the words of the chant run risk of infection themselves. Citizens have stuffed their ears with wax and are ringing every bell they can find to drown out the chants of the infected. The Hegemony Legion struggles to keep order as the Philosopher’s Guilds compete to find a cure.
+- **Language Plague**. A reckless vault-raider brought some awful relic of the Age of Titans into the city, and a rapidly spreading language virus is threatening the populace. The disease compels sufferers to endlessly repeat a strange mantra, and all those who hear the words of the chant run risk of infection themselves. Citizens have stuffed their ears with wax and are ringing every bell they can find to drown out the chants of the infected. The Hegemony Legion struggles to keep order as the Philosopher’s Guilds compete to find a cure.
 - **Great Fire**. Nobody is sure how it started, but a fire is either currently raging or has devastated a great swathe of the city’s crowded townhouses. Choose one of the NPCs the party has grown closest to during the course of the campaign: they have either lost their home or are in imminent danger of doing so. How did the fire start? Was it deliberate? The streets are surely full of gossip.
 - **Gathering of the Nomads**. The disparate clans of the Faa nomads have gathered outside the walls of Gnomon for their once in a decade Great Moot. A tent-metropolis has appeared overnight, dwarfing the aged, rigid construct of stone that calls itself Gnomon. The streets throng with the roaming people of Vaarn’s endless deserts. Toasts are drunk, marriages between clans are arranged, ritual duels end with both participants dead in the ring, and the souks are filled with the bounty of the deepest azure sands.
 
