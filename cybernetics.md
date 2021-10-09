@@ -4,7 +4,7 @@ PCs may begin with a cybernetic implant instead of a mystic Gift at the GM’s d
 |d20|IMPLANT|ABILITY|EFFECT|
 |---|-------|-------|------|
 |1|Air Current Microsensor|PSY|You suffer no navigation or combat penalties from blindness or darkness.|
-|2|Alluring Fakeface|ECO|You are extraordinarily beautiful. +2 to EGO.|
+|2|Alluring Fakeface|EGO|You are extraordinarily beautiful. +2 to EGO.|
 |3|Autoglot HeadBank|INT|+2 to INT. You understand all languages.|
 |4|Backup Heart|CON|+2 to CON. +5 max HP.|
 |5|Carbide Knucklebones|STR|Your bare fists deal d8+2 damage.|
@@ -22,4 +22,4 @@ PCs may begin with a cybernetic implant instead of a mystic Gift at the GM’s d
 |17|Sub-dermal Insulation|CON|Immunity to all damage from flames, cold, and electricity. Cannot be removed.|
 |18|Tactical Bioscanner|PSY|You know the Armour, Hit Points, and Morale of any Biological creature.|
 |19|Tactical Technoscanner|INT|You know the Armour, Hit Points, and Morale of any Synthetic creature.|
-|20|Trauma-Response Rig|CON|Make a CON save to ignore the results of Wound rolls.|
+|20|Trauma-Response Rig|CON|Make a CON save to ignore the results of Wound rolls. Works once per day.|
