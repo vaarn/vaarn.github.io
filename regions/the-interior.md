@@ -260,7 +260,7 @@ The Referee can generate regions of Vaarn using the following method. This techn
 5. Travel routes that connect two even-numbered locations, or an odd and an even-numbered location, are (relatively) safe. Travel routes between two odd-numbered locations, however, have a hazard associated with them. Consult the table below for inspiration.
 6. Now that the broad shape of the region has been created, return to each location and use the tables provided in this zine to generate more specific details about each one. Write down your ideas for each location inside the circles. You are not obliged to abide by the results of the tables if they don’t fit your concept for the region.
 7. If you need more details about the region as a whole, roll on the Landscape Type table below to get an idea of the general terrain. You can also roll to find out the origin of the region’s name.
-8. Build a region-specific encounter table using the bestiary in these zines. There are more Vaarnish monsters in VOV #1, as well as a sample encounter table. The character of the region you have generated should inform the encounters you seed it with. A region that contains the ruins of a synth factory will likely have malfunctioning synths lurking around, whereas a region with lots of settlements may have an abundance of trading caravans.
+8. Build a region-specific encounter table using the <a href="#/bestiary">bestiary</a>. There sample encounter table in VOV #1 if you need inspiration. The character of the region you have generated should inform the encounters you seed it with. A region that contains the ruins of a synth factory will likely have malfunctioning synths lurking around, whereas a region with lots of settlements may have an abundance of trading caravans.
 9. Last but by no means least, think of a few NPCs who might be found in the region, and what they might want from the party. Use the [Story Seeds](regions/the-interior.md?id=story-seeds) table if you are stuck.
 
 <table>
@@ -323,21 +323,21 @@ _Vaarn is studded with the fractured remnants of the works of the ancients; the 
 <tr><td>2</td><td>Cryogenic Chambers</td><td>Criminal's Hideout</td><td>Fragmented</td><td>Arch</td><td>Choked with Synthetic Vines</td></tr>
 <tr><td>3</td><td>Orbital Defence Turret</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
 <tr><td>4</td><td>Cyborg Construction</td><td>Ossuary</td><td>Crumbling</td><td>Orb</td><td>Has Abundant Food Source</td></tr>
-<tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Campsite</a></td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Food Source</td></tr>
+<tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Campsite</a></td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Drugs</td></tr>
 <tr><td>6</td><td>Cloning Facility</td><td>Barracks</td><td>Gigantic</td><td>Knife</td><td>Contains Exotica</td></tr>
 <tr><td>7</td><td>University</td><td>Brothel</td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td><td>Translucent</td><td>Bottle</td><td>Secret Weapons Cache</td></tr>
 <tr><td>8</td><td>Nanotech Forge</td><td>Inn</td><td>Bat-Infested</td><td>Flower</td><td>Contain Wild Animal Nest</td></tr>
 <tr><td>9</td><td>Power Generator</td><td>Theatre</td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Sunbleached</td><td>Hand</td><td>Used for Sacrifices</td></tr>
 <tr><td>10</td><td>Noble's Residence</td><td>Gladiator Pit</td><td>Half-Collapsed</td><td>Eye</td><td>Ancient Defense Systems Active</td></tr>
-<tr><td>11</td><td>Autarch's Tomb</td><td>Madhouse</td><td rowspan="2">Hegemony Outpost</td><td>Threatening</td><td>Head</td><td>Upsetting Decorations</td></tr>
+<tr><td>11</td><td>Autarch's Tomb</td><td>Madhouse</td><td rowspan="2"><a href="#/regions/the-interior.md?id=hegemony-outpost">Hegemony Outpost</a></td><td>Threatening</td><td>Head</td><td>Upsetting Decorations</td></tr>
 <tr><td>12</td><td>Chemical Plant</td><td>Observatory</td><td>Crooked</td><td>Pyramid</td><td>Swallowed by the Sands</td></tr>
-<tr><td>13</td><td>Psychic Training Facility</td><td>Mystic's Abode</td><td rowspan="2">Monster Lair</td><td>Towering</td><td>Slab</td><td>Fire Damaged</td></tr>
+<tr><td>13</td><td>Psychic Training Facility</td><td>Mystic's Abode</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td><td>Towering</td><td>Slab</td><td>Fire Damaged</td></tr>
 <tr><td>14</td><td>Pleasure Garden</td><td>Titan Cult Shrine</td><td>Monolithic</td><td>Prism</td><td>Radiation Poisoned</td></tr>
-<tr><td>15</td><td>Transit Hub</td><td>Hydroponic Garden</td><td rowspan="2">Science-Mystic's Abode</td><td>Dazzling</td><td>Cube</td><td>Servitor Synths Still Function</td></tr>
+<tr><td>15</td><td>Transit Hub</td><td>Hydroponic Garden</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td><td>Dazzling</td><td>Cube</td><td>Servitor Synths Still Function</td></tr>
 <tr><td>16</td><td>Farm Array</td><td>Battle Site</td><td>Decrepit</td><td>Wheel</td><td>Crashed Vehicle Present</td></tr>
-<tr><td>17</td><td>Bioengineering Facility</td><td>Quantum Daemon Shrine</td><td rowspan="2">Grave Site</td><td>Sand-scoured</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
+<tr><td>17</td><td>Bioengineering Facility</td><td>Quantum Daemon Shrine</td><td rowspan="2"><a href="#/regions/the-interior.md?id=grave">Grave Site</a></td><td>Sand-scoured</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
 <tr><td>18</td><td>Medical Facility</td><td>Trading Post</td><td>Ill-Omened</td><td>Needle</td><td>Overgrown with Fungus</td></tr>
-<tr><td>19</td><td>Communications Array</td><td>Slaughterhouse</td><td rowspan="2">Holy Place</td><td>Beautiful</td><td>Bowl</td><td>Hypergeometric Portal Inside</td></tr>
+<tr><td>19</td><td>Communications Array</td><td>Slaughterhouse</td><td rowspan="2"><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td><td>Beautiful</td><td>Bowl</td><td>Hypergeometric Portal Inside</td></tr>
 <tr><td>20</td><td>Space Port</td><td>Prison</td><td>Molten</td><td>Ziggurat</td><td>Conceals Long-Burried Threat</td></tr>
 </table>
 
@@ -425,20 +425,20 @@ _The land parches and withers beneath a wine-red sun, yet even here one may glim
 <tr><td>2</td><td>Leaks from Machinery</td><td>Flamingos</td><td>No Bloodshed</td></tr>
 <tr><td>3</td><td>Incredibly Clear</td><td>Towering Rock</td><td>Moonlit Sacrifices</td></tr>
 <tr><td>4</td><td>Umber and Silty</td><td>Rusted War Machine</td><td>No Bathing</td></tr>
-<tr><td>5</td><td>Still and Glassy</td><td>Autarch Statue</td><td rowspan="3">Faa Nomads</td><td>Ritual Combat</td></tr>
+<tr><td>5</td><td>Still and Glassy</td><td>Autarch Statue</td><td rowspan="3"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomads</a></td><td>Ritual Combat</td></tr>
 <tr><td>6</td><td>Black and Muddy</td><td>Flowering Bushes</td><td>Vow of Silence</td></tr>
 <tr><td>7</td><td>Almost Gone</td><td>Ibis</td><td>Ruled by Chance</td></tr>
 <tr><td>8</td><td>Full of Fish</td><td>Lurking Crocodiles</td><td>Hegemony Scouts</td><td>Sacred to Men</td></tr>
-<tr><td>9</td><td>Tastes Sour</td><td>Black Obelisks</td><td>Bounty Hunters</td><td>Sacred to Women</td></tr>
+<tr><td>9</td><td>Tastes Sour</td><td>Black Obelisks</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">Bounty Hunters</a></td><td>Sacred to Women</td></tr>
 <tr><td>10</td><td>Algae-choked</td><td>Decaying Buildings</td><td>Titan Cultists</td><td>Consult Computer</td></tr>
 <tr><td>11</td><td>Fetid</td><td>Addax Herd</td><td>Wandering Mystics</td><td>Consult Oracle</td></tr>
 <tr><td>12</td><td>Full of Plastic</td><td>Solar Panels</td><td>Travelling Circus</td><td>Must be Naked</td></tr>
-<tr><td>13</td><td>Rusty Red</td><td>Arcology Dome</td><td>Mendicant Warror</td><td>Must be Veiled</td></tr>
+<tr><td>13</td><td>Rusty Red</td><td><a href="#/regions/the-interior.md?id=arcology">Arcology Dome</a></td><td>Mendicant Warror</td><td>Must be Veiled</td></tr>
 <tr><td>14</td><td>Warm and Bubbling</td><td>Crystalline Growths</td><td>Escaped Slaves</td><td>An Animal Is Holy</td></tr>
 <tr><td>15</td><td>Champagne Coloured</td><td>Fungal Growths</td><td>Sunburnt Exiles</td><td>An Animal Is Profane</td></tr>
 <tr><td>16</td><td>Deep and Silent</td><td>Broken Pillar</td><td>Pilgrim Monks</td><td>Laughter is Prohibited</td></tr>
-<tr><td>17</td><td>Inside a Cave</td><td>Grave</td><td>Synths</td><td>Sacred to Petty God</td></tr>
-<tr><td>18</td><td>Healing Properties</td><td>Wrecked Synths</td><td>Cacklemaw Warband</td><td>Drug Ritual</td></tr>
+<tr><td>17</td><td>Inside a Cave</td><td><a href="#/regions/the-interior.md?id=grave">Grave</a></td><td>Synths</td><td>Sacred to Petty God</td></tr>
+<tr><td>18</td><td>Healing Properties</td><td>Wrecked Synths</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Warband</a></td><td>Drug Ritual</td></tr>
 <tr><td>19</td><td>Sugary Sweet</td><td>Mud Holes</td><td>Exultant in Disguise</td><td>Water Ritual</td></tr>
 <tr><td>20</td><td>Mildly Psychedelic</td><td>Sacred Caves</td><td>Famous Musician</td><td>Fasting</td></tr>
 </table>
@@ -505,7 +505,7 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 
 <table>
 <thead><th>d20</th><th>Entrance</th><th>Tunnels</th><th>Original Function</th><th>Other Feature</th></thead>
-<tr><td>1</td><td>Steel Blast Doors</td><td>Half-Flooded</td><td>Fallout Shelter</td><td>Bandit Hideout</td></tr>
+<tr><td>1</td><td>Steel Blast Doors</td><td>Half-Flooded</td><td>Fallout Shelter</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Bandit Hideout</a></td></tr>
 <tr><td>2</td><td>Back of Tiny Cave</td><td>Filled with Sand</td><td>Transport Tunnels</td><td>Haunted (Planeyfolk)</td></tr>
 <tr><td>3</td><td>Enormous Crater</td><td>Dusty and Silent</td><td>Bioweapon Research</td><td>Haunted (Chromavore)</td></tr>
 <tr><td>4</td><td>Narrow Fissure in Cliff</td><td>Crystal-encrusted</td><td>Time Paradox Research</td><td>Ancient Defence Cannons</td></tr>
@@ -637,26 +637,26 @@ _The wild places of Vaarn are well-stocked with monstrosities of all stripes. Th
 
 <table>
 <thead><th>d20</th><th>Inhabitant</th><th>Appearance</th><th>Warning Omen</th></thead>
-<tr><td>1</td><td>Argent Shepherd</td><td>Ruined Chapel</td><td>Madmen Affixed With Argent Halos Beg Party To Turn Back</td></tr>
-<tr><td>2</td><td>Chrome-Feathered Sailback</td><td>Flat Basking Plain</td><td>Chrome Feathers Float on the Wind</td></tr>
-<tr><td>3</td><td>d6 Quill-Spiders</td><td>Burrows in Earth</td><td>An Antelope, Limping, Leg Full of Quills</td></tr>
-<tr><td>4</td><td>Chromavore</td><td>Colourless Cactus Grove</td><td>Colourless Husks of Faa Family</td></tr>
-<tr><td>5</td><td>d6 Hiveymen</td><td>Gruesome Black Hive</td><td>Single Sable Bee Crawls on Ground</td></tr>
-<tr><td>6</td><td>d6 Lizard Lions</td><td>Sun-kissed Basking Rock</td><td>Discover a Shed Skin</td></tr>
-<tr><td>7</td><td>d6 Battle Boars</td><td>Shaded Dustbath</td><td>Boulders With Tusk-Marks</td></tr>
-<tr><td>8</td><td>Alzabo*</td><td>Deep Cave</td><td>Hear A Child’s Voice, Which Echoes Oddly</td></tr>
-<tr><td>9</td><td>3d6 Pthalo-Jackals</td><td>Shallow Dens</td><td>Hear Howling on the Wind</td></tr>
-<tr><td>10</td><td>d4 Pseudo-Giants</td><td>Crude Brick Huts</td><td>Remains of a Hegemony Skiff, Stomped to Pieces</td></tr>
-<tr><td>11</td><td>d6 Lambent Lynx</td><td>Den High in the Cliffs</td><td>Electrical Taste in the Air, As If Before A Storm</td></tr>
-<tr><td>12</td><td>3d6 Blue Baboons</td><td>Rocky Outcrop</td><td>Excrement Heaped Everywhere</td></tr>
-<tr><td>13</td><td>d6 Walking Wombs</td><td>Foul-smelling Sinkhole</td><td>Wide Dragging Tracks In the Sand</td></tr>
-<tr><td>14</td><td>3d6 Tiger Flies</td><td>Tall Papery Nest</td><td>Tell-tale Buzzing</td></tr>
-<tr><td>15</td><td>d4 Regenerators</td><td>Human-skin Tents</td><td>Crude Idols Made of Bones</td></tr>
-<tr><td>16</td><td>Thunderstrike Bird</td><td>Roosts on Mesa</td><td>Huge Tar-black Feather Caught on Cactus</td></tr>
-<tr><td>17</td><td>d4 Glass Tigers</td><td>Lurk On Salt Flats</td><td>Corpse with Tell-tale Bite Marks</td></tr>
-<tr><td>18</td><td>Amaranthine Death-Worm</td><td>Poisoned Tree</td><td>Huge Sinuous Tracks in the Dirt</td></tr>
-<tr><td>19</td><td>Xanthous Mycomorph</td><td>Fungal Thicket</td><td>Yellow Spores on the Wind</td></tr>
-<tr><td>20</td><td>d12 Greenguard</td><td>Abandoned Fortifications</td><td>Enamel Bullets Embedded in Rocks</td></tr>
+<tr><td>1</td><td><a href="#/bestiary?id=argent-shepherd">Argent Shepherd</a></td><td>Ruined Chapel</td><td>Madmen Affixed With Argent Halos Beg Party To Turn Back</td></tr>
+<tr><td>2</td><td><a href="#/bestiary?id=chrome-feathered-sailback">Chrome-Feathered Sailback</a></td><td>Flat Basking Plain</td><td>Chrome Feathers Float on the Wind</td></tr>
+<tr><td>3</td><td>d6 <a href="#/bestiary?id=quill-spider">Quill-Spiders</a></td><td>Burrows in Earth</td><td>An Antelope, Limping, Leg Full of Quills</td></tr>
+<tr><td>4</td><td><a href="#/bestiary?id=chromavore">Chromavore</a></td><td>Colourless Cactus Grove</td><td>Colourless Husks of Faa Family</td></tr>
+<tr><td>5</td><td>d6 <a href="#/bestiary?id=hiveyman">Hiveymen</a></td><td>Gruesome Black Hive</td><td>Single Sable Bee Crawls on Ground</td></tr>
+<tr><td>6</td><td>d6 <a href="#/bestiary?id=lizard-lion">Lizard Lions</a></td><td>Sun-kissed Basking Rock</td><td>Discover a Shed Skin</td></tr>
+<tr><td>7</td><td>d6 <a href="#/bestiary?id=battle-boar">Battle Boars</a></td><td>Shaded Dustbath</td><td>Boulders With Tusk-Marks</td></tr>
+<tr><td>8</td><td><a href="#/bestiary?id=alzabo">Alzabo</a></td><td>Deep Cave</td><td>Hear A Child’s Voice, Which Echoes Oddly</td></tr>
+<tr><td>9</td><td>3d6 <a href="#/bestiary?id=pthalo-jackal">Pthalo-Jackals</a></td><td>Shallow Dens</td><td>Hear Howling on the Wind</td></tr>
+<tr><td>10</td><td>d4 <a href="#/bestiary?id=pseudo-giant">Pseudo-Giants</a></td><td>Crude Brick Huts</td><td>Remains of a Hegemony Skiff, Stomped to Pieces</td></tr>
+<tr><td>11</td><td>d6 <a href="#/bestiary?id=lambent-lynx">Lambent Lynx</a></td><td>Den High in the Cliffs</td><td>Electrical Taste in the Air, As If Before A Storm</td></tr>
+<tr><td>12</td><td>3d6 <a href="#/bestiary?id=blue-baboon">Blue Baboons</a></td><td>Rocky Outcrop</td><td>Excrement Heaped Everywhere</td></tr>
+<tr><td>13</td><td>d6 <a href="#/bestiary?id=walking-womb">Walking Wombs</a></td><td>Foul-smelling Sinkhole</td><td>Wide Dragging Tracks In the Sand</td></tr>
+<tr><td>14</td><td>3d6 <a href="#/bestiary?id=tiger-fly">Tiger Flies</a></td><td>Tall Papery Nest</td><td>Tell-tale Buzzing</td></tr>
+<tr><td>15</td><td>d4 <a href="#/bestiary?id=regenerator">Regenerators</a></td><td>Human-skin Tents</td><td>Crude Idols Made of Bones</td></tr>
+<tr><td>16</td><td><a href="#/bestiary?id=thunderstrike-bird">Thunderstrike Bird</a></td><td>Roosts on Mesa</td><td>Huge Tar-black Feather Caught on Cactus</td></tr>
+<tr><td>17</td><td>d4 <a href="#/bestiary?id=glass-tiger">Glass Tigers</a></td><td>Lurk On Salt Flats</td><td>Corpse with Tell-tale Bite Marks</td></tr>
+<tr><td>18</td><td><a href="#/bestiary?id=amaranthine-death-worm">Amaranthine Death-Worm</a></td><td>Poisoned Tree</td><td>Huge Sinuous Tracks in the Dirt</td></tr>
+<tr><td>19</td><td><a href="#/bestiary?id=xanthous-mycomorph">Xanthous Mycomorph</a></td><td>Fungal Thicket</td><td>Yellow Spores on the Wind</td></tr>
+<tr><td>20</td><td>d12 <a href="#/bestiary?id=greenguard">Greenguard</a></td><td>Abandoned Fortifications</td><td>Enamel Bullets Embedded in Rocks</td></tr>
 </table>
 
 ## Archive
