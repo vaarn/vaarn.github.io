@@ -1,3 +1,5 @@
+# Creating Vaults
+
 The Vaults of Vaarn are subterranean ruins that riddle the blue desert. Crucially, these Vaults will always contain Exotica, the far-future treasures the PCs are searching for; therefore, the GM is advised to create one such location before the campaign begins. 
 
 Follow these steps to begin drafting a Vault.
