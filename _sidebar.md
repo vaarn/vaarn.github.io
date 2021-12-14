@@ -13,6 +13,7 @@
 - [Regions of Vaarn]()
   - [Gnomon](regions/gnomon.md)
   - [The Interior](regions/the-interior.md)
+- [Creating Vaults](VaultsGenerator.md)
 - [Bestiary](bestiary.md)
 - [Tongues of Vaarn](tongues-of-vaarn.md)
 - [Titans of a Faded Age](titans.md)
