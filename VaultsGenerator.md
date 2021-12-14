@@ -11,7 +11,7 @@ Follow these steps to begin drafting a Vault.
 1. Write up an encounter table. This is a list of d8 active creatures or phenomena that may be found as you move around the Vault. Think about the encounters that would emerge logically from the details you have created so far; one of them could be the NPC you created in step 6. Use the [Bestiary](https://vaarn.github.io/#/bestiary) for ideas if you are stuck. As the PCs explore, roll a d6 each time they enter a location or make a loud noise. If you roll a 1, roll on the encounter table. You can find some generic, unthemed encounter tables below.
 1. With a map, an encounter table, and a reward for the PCs, you are now ready to play! If you want a larger Vault, return to step 2 and begin adding more ideas for rooms. Make sure to keep adding Exotica as the Vault grows in size. A party of four PCs will need to find four Exotica to reach level 2 and eight to reach level 3, so ensure it is possible for your players to advance if they are bold and clever.
 
-##Vault Basics
+## Vault Basics
 | d20 | Entrance | The Tunnels | Original Function |
 |:---:|:---:|:---:|:---:|
 | 1 | Steel Blast Doors | Half-Flooded | Fallout Shelter |
@@ -35,7 +35,7 @@ Follow these steps to begin drafting a Vault.
 | 19 | Below a [Settlement](https://vaarn.github.io/#/regions/the-interior?id=settlement) | White and Sterile | Hidden Reservoir |
 | 20 | Below a [Ruin](https://vaarn.github.io/#/regions/the-interior?id=ruin) | Filled with Garbage | Autarch’s Hideout |
 
-##Room Features and Hazards
+## Room Features and Hazards
 | d20 | Room Feature A | Room Feature B | Sample Hazards |
 |:---:|:---:|:---:|:---:|
 | 1 | Banks of syntax engines | Corpses in hazmat suits | Carnivorous Fungus |
@@ -59,7 +59,7 @@ Follow these steps to begin drafting a Vault.
 | 19 | Choked with dead vines | Hovering polychrome spheres | Vault is [Lair for Monster](https://vaarn.github.io/#/regions/the-interior?id=lair)  |
 | 20 | Sentient, immobile machine | Humming teleportation gate | Vault is [Bandit Hideout](https://vaarn.github.io/#/regions/the-interior?id=bandit-camp) |
 
-##Generic Vault Encounter Tables
+## Generic Vault Encounter Tables
 | d8 | Depth 1 | Depth 2 | Depth 3 | Depth 4 | Depth 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | 3d6 [Blue Baboons](https://vaarn.github.io/#/bestiary?id=blue-baboon) | [Battle Boar](https://vaarn.github.io/#/bestiary?id=battle-boar) | d6 [Battle Boars](https://vaarn.github.io/#/bestiary?id=battle-boar) | d4 [Cacogen Pseudo-giants](https://vaarn.github.io/#/bestiary?id=cacogen-psuedo-giant) | d8 [Cacogen Pseudo-giants](https://vaarn.github.io/#/bestiary?id=cacogen-psuedo-giant) |
