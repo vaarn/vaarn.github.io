@@ -150,8 +150,7 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: 2d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. 
-Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. <br />&nbsp; Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
 </table>
 
 ## Faa Nomad
@@ -169,7 +168,7 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Copy-Claws (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. <br />&nbsp; Copy-claws: A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
 </table>
 
 ## Giant Azure Scorpion
@@ -232,7 +231,7 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: d4</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Special Grab</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out. Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out.<br />&nbsp; Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
 </table>
 
 ## Indigo Servitor
@@ -250,7 +249,7 @@ _Synthetic_
 <tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 22</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Crush (d12)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire and in so doing it makes them part of its ever-roving axis.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets, but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire, and in so doing make them one with its ever-roving axis.</td></tr>
 </table>
 
 ## Lambent Lynx
@@ -313,8 +312,7 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6) / Despair Gas (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. 
-Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. <br />&nbsp; Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
 </table>
 
 ## Nerve Crawler
@@ -341,7 +339,7 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: STR drain (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time. Planeyfolk ignore all even-numbered damage rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time.<br />&nbsp; Planeyfolk ignore all even-numbered damage rolls.</td></tr>
 </table>
 
 ## Quicksilver Exterminator
