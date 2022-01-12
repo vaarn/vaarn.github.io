@@ -162,6 +162,24 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
 </table>
 
+## Fractalisk
+_Hypergeometric / Outsider_
+<table>
+<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) + Recursive Gaze (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.<br />&nbsp; Recursive Gaze: Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.<br />&nbsp; Self Similar: Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
+</table>
+
+## Gamma Ray
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1/2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Sting (d6 + d12 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: These rays are found in the shallows of the Sea of Songs, feeding on crabs, squid, and small fish. The creature is known for its unusual method of defense: it filters heavy metals and toxic waste from the Vaarnish seawater, and concentrates them into a highly radioactive venom, which it injects into predators.</td></tr>
+</table>
+
 ## Gene Thief
 _Biological_
 <table>
@@ -188,6 +206,15 @@ _Biological_
 <tr><td colspan="2"><b>Attacks</b>: Claw (d4) + Claw (d4) + Maul (d10) if both claws hit same target</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Translucent extraterrestrial hunters, transported to Urth during the reign of the Autarchs. Body like a tiger with a head like an orchid. Very difficult to spot when they're not moving.</td></tr>
 </table>
+
+## Glider Spider
+_Biological_
+<table>
+<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Venomous Bite (d8 + d8 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes.</td></tr>
+  </table>
 
 ## Greenguard
 _Synthetic_
@@ -342,6 +369,15 @@ _Hypergeometric_
 <tr><td colspan="2"><b>Notes</b>: Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time.<br />&nbsp; Planeyfolk ignore all even-numbered damage rolls.</td></tr>
 </table>
 
+## Pontiff Scorpion
+_Biological_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claw (d4) + Claw (d4) + Sting (d10 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Named for its colouring, which resembles the red armour worn by the battle-crazed Pontiffs of the Church of the Everbleeding Wound. These scorpions are nocturnal predators, usually encountered in Vaarn’s southern badlands and the foothills of the Mooncradle Mountains. Adults have been seen to grow to four feet in length, smaller than the Giant Azure Scorpions of the Interior, but still perfectly capable of overpowering a goat or its herdsman.</td></tr>
+</table>
+
 ## Quicksilver Exterminator
 _Synthetic_
 <table>
@@ -457,6 +493,15 @@ _Fungal_
 <tr><td><b>Morale</b>: 15 (3)</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Slam (d8) + Spore Spray (d8 area)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make Morale Save at Morale 3 if burned.</td></tr>
+</table>
+
+## Yuckhog
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Gore (d6) / Yuckspray (d6 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Small, highly toxic wild pigs that root around in the garbage wastes of Ikor Quag. Their pelts are a delicate yellow in colour. When threatened, the Yuckhog spews out a foul-smelling corrosive gas which can severely damage the respiratory system.</td></tr>
 </table>
 
 ## Yurling
