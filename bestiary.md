@@ -117,6 +117,24 @@ _Outsider_
 <tr><td colspan="2"><b>Notes</b>: Living shrouds of impossible colour from a dimension adjacent to ours. They take no damage from conventional weapons. They take d10 damage per round if they are exposed to sunlight, or artificial light that mimics the sun's rays. When they attack successfully they drain d8 CON per round until the victim is a colourless husk.</td></tr>
 </table>
 
+## Cliff Ghul
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Festering Bite (d6 + d6 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
+</table>
+
+## Daggertrunk
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: Always Flees</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Siphon (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Dwarf vampire elephants. It is unclear if these pests were gene-sculpted for a purpose or simply as a jest, but they escaped into the wild and have become a viable Vaarnish species. Roughly the size of a goat, they feed on blood which their razor-tipped trunks drain from sleeping animals and the folk of Vaarn alike. Daggertrunks are highly intelligent, surprisingly stealthy, and very cowardly. They will approach sleeping PCs at night and attempt to siphon blood from their ankles or necks.</td></tr>
+</table>
+
 ## Doppelgeller
 _Biological_  
 <table>
@@ -126,6 +144,16 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Biotech blob. When it successfully scores a hit, it will begin spawning jelly-clones of the PC to hit. It does so once per round. The clones are naked, insane, and homicidally attack the PC they were copied from. They have 5 HP, Armour 10, and the ability scores of the PC they cloned.</td></tr>
 </table>
 
+## Eyeless Dog
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: 2d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. 
+Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
+</table>
+
 ## Faa Nomad
 _Biological_
 <table>
@@ -133,6 +161,15 @@ _Biological_
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Rifle (d8) / Curved Blade (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
+</table>
+
+## Genethief
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Copy-Claws (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
 </table>
 
 ## Giant Azure Scorpion
@@ -268,6 +305,25 @@ _Synthetic_
 <tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Special Grab</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Biomechanical memory vampire. Like a giant mosquito cast from living steel. Cranial-bore proboscis drains d6 INT from target per round.</td></tr>
+</table>
+
+## Mournfrog
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6) / Despair Gas (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. 
+Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+</table>
+
+## Nerve Crawler
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Nerve-lash (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Victims of an insidious nanotech infestation, Nerve Crawlers are decaying human corpses whose neural pathways have been supplanted by a virulent nexus of silvery nano-nerves. These revenants crawl on their hands and knees, stiffly and slowly, seeking new hosts for the infection. When in range of prey, whips of silver nano-nerve burst from their spinal cord, lacerating anything in reach.</td></tr>
 </table>
 
 ## Phthalo-Jackal
