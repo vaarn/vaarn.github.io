@@ -163,7 +163,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
 </table>
 
-## Genethief
+## Gene Thief
 _Biological_
 <table>
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
