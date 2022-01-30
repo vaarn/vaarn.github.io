@@ -9,7 +9,7 @@ Vaults of Vaarn is compatible with the game Knave; however the material should w
 The PDF version is available for free on [itch.io](https://graculusdroog.itch.io).  
 The full text is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
-If you would like printed physical copies of the zine, they're available for purchase at the Vaults of Vaarn [Big Cartel store](https://vaultsofvaarn.bigcartel.com/products).  
+If you would like printed physical copies of the zine, they're available for purchase at [Antipode Zines](https://antipodezines.com/collections/zines).  
 Alternatively, available from selected stores:  
 
 <table>
