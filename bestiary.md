@@ -177,7 +177,7 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Notes: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion. <br />&nbsp; <b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion. <br />&nbsp; <b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
 </table>
 
 ## Fractalisk
