@@ -243,6 +243,15 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Green plastic-fleshed homunculi. They attack from the wastes without warning, seemingly following ancient orders. They take and hold settlements at random, apparently waiting for reinforcements that never arrive.</td></tr>
 </table>
 
+## Greenwaif
+_Biological_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Pollen-borne Empathogens (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The sages of the long-vanished world worked many wonders. One of their quixotic tasks was the breaching of the boundaries between the animal and vegetable kingdoms, which has resulted in several abhuman lineages that exist in present-day Vaarn. Greenwaifs are slender humanoids with symbiotic algae and plant species growing within their flesh. They take all their energy from photosynthesis, requiring only water, and claim to enjoy long lifespans as a result.<br />&nbsp; <b>Empathogens:</b> These abhumans produce a weaponised pollen, which causes hallucinations, delirium, serotonin overproduction, and sometimes death. Each combat round, all biological creatures around the Greenwaif are exposed to a dose of the pollen. They must make an EGO save to remember what they are supposed to be doing, or else fall into a blissful, honeyed stupor. PCs under the effect of the pollen are more open to sharing their secrets and buried emotions, experience instant connections with strangers, and have no desire to harm the Greenwaif.</td></tr>
+</table>
+
 ## Grey Cricket
 _Biological_
 <table>
@@ -457,6 +466,15 @@ _Synthetic_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Slash (d8) + Slash (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Sadistic mantis-shaped synth. Permanently cloaked; always surprises unless opponents have infrared vision. If the cloaking field is disrupted, the Stalker’s Armour Defense drops to 11.</td></tr>
+</table>
+
+## Thermasaur
+_Biological_
+<table>
+<tr><td><b>HD</b>: 12</td><td><b>Armour</b>: 16 </td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 4 x Claws (d6) + Bite (2d6) + Aura (d8 unblockable, Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an armoured vehicle. It attacks from ambush and rapidly raises the temperature of its flesh to furnace-like levels, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption.<br />&nbsp; <b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering.</td></tr>
 </table>
 
 ## Thunderstrike Bird
