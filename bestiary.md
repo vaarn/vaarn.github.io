@@ -1,5 +1,14 @@
 # Vaarnish Bestiary
 
+## Albino Ape
+_Biological_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claw (d4) + Claw (d4) / Shit Fling (d6 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Deficient in pigmentation and in manners, these primates dwell in caves, bunkers, and other sheltered places. When the sun sets, they venture out in search of meat. They are highly intelligent, excellent climbers, and punishingly accurate with the putrid white turds they hurl at intruders.</td></tr>
+</table>
+
 ## Alzabo
 _Biological_
 <table>
@@ -160,6 +169,15 @@ _Biological_
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Rifle (d8) / Curved Blade (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
+</table>
+
+## Flashhound
+_Hypergeometric_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Notes: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion. <br />&nbsp; <b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
 </table>
 
 ## Fractalisk
