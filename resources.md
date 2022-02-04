@@ -2,7 +2,9 @@
 
 [Character Sheets](https://drive.google.com/drive/folders/1Exq2dq0bUgPiwBy4PDvj1sSRHO7SIQB1)  
 [Travel in Vaarn](https://perchance.org/travelinvaarn)  
-[Vaarn Character Generator](https://perchance.org/vaarnpcgen) 
+[Vaarn Character Generator](https://perchance.org/vaarnpcgen)   
+[Urth Simulacrum](https://gulluthgulch.itch.io/urth-simulacrum): automated region generators.   
+[Vaarn Character and Region Generators](https://vaarn-generators-bxth8z1sp-omniczech.vercel.app/)
 
 # Blogs <!-- {docsify-ignore} -->
 
