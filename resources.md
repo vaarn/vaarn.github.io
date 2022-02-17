@@ -5,7 +5,7 @@
 [Travel in Vaarn Generator](https://perchance.org/travelinvaarn)  
 [Vaarn Character Generator](https://perchance.org/vaarnpcgen)   
 [Urth Simulacrum](https://gulluthgulch.itch.io/urth-simulacrum): automated region generators.   
-[Vaarn Character and Region Generators](https://vaarn-generators-bxth8z1sp-omniczech.vercel.app/)
+[Vaarn Character and Region Generators](https://vaarn-generators.vercel.app/)
 
 # Blogs <!-- {docsify-ignore} -->
 
