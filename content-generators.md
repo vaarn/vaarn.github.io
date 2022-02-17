@@ -260,7 +260,7 @@ Vaarn is the graveyard of faiths, some older than the very stars that shine over
 |---|---------|------|------------|
 |1|Actor|All Dead|Out of Water|
 |2|Musician|Wounded|Totally Lost|
-|3|Forger|Secretly Bandits|Pursued buy Bandits|
+|3|Forger|Secretly Bandits|Pursued by Bandits|
 |4|Artist|Ran Away|Pursued by Creature|
 |5|Priest|Badly Armed|Disease|
 |6|Mystic|Mutinous|Spoiled Cargo|
