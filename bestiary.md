@@ -32,7 +32,7 @@ _Synthetic_
 <table>
 <tr><td><b>HD</b>: 7</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Special _(Argent Halo Implant)_</td></tr>
+  <tr><td colspan="2"><b>Attacks</b>: Special <i>(Argent Halo Implant)</i></td></tr>
 <tr><td colspan="2"><b>Notes</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.<br />&nbsp; The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
 </table>
 
@@ -186,7 +186,7 @@ _Hypergeometric / Outsider_
 <tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d8) + Recursive Gaze (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.<br />&nbsp; Recursive Gaze: Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.<br />&nbsp; Self Similar: Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.<br />&nbsp; <b>Recursive Gaze:</b> Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.<br />&nbsp; <b>Self Similar:</b> Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
 </table>
 
 ## Gamma Ray
@@ -499,7 +499,7 @@ _Biological_
 _Synthetic_
 <table>
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 16</td></tr>
-<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1d6</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Kick (d6) + Kick (d6) + Kick (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Pinwheel of synthetic legs that tumbles through the blue wastelands kicking everything it can find. Utterly inexplicable and widely hated.</td></tr>
 </table>
@@ -537,7 +537,7 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Motile, carnivorous plants. Adapted to a low moisture environment. Blindness from their spit imposes disadvantage on all attack rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Walking, carnivorous plants. Adapted to a low moisture environment. Blindness from their spit imposes disadvantage on all attack rolls.</td></tr>
 </table>
 
 ## Yuckhog
