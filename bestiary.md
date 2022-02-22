@@ -531,6 +531,15 @@ _Fungal_
 <tr><td colspan="2"><b>Notes</b>: Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make Morale Save at Morale 3 if burned.</td></tr>
 </table>
 
+## Xeric Triffid
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d10</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Motile, carnivorous plants. Adapted to a low moisture environment. Blindness from their spit imposes disadvantage on all attack rolls.</td></tr>
+</table>
+
 ## Yuckhog
 _Biological_
 <table>
