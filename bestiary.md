@@ -135,6 +135,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
 </table>
 
+## Cosseting Chrysalid
+_Biological_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1 / d6 in lair</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Sting (CON save vs Sleep) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: Flying, moth-like surgeons. Driven to abduct human beings and subject them to dubious medical interventions. Their sting forces biological creatures make a CON save: failure results in the creature falling into a deep, dreamless sleep for several hours. The Chrysalid will then wrap them inside a cocoon, where they will sleep for d6 days. Upon awakening, patients of the Chrysalid will find their HP restored to maximum, all Wounds or other ailments healed, and must roll on the <a href="vaarn.github.io/#/ancestries?id=mutations">mutations</a> table to discover how the Chrysalid’s imperfect medical knowledge has impacted them.</td></tr>
+</table>
+
 ## Daggertrunk
 _Biological_
 <table>
