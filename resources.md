@@ -10,5 +10,5 @@
 # Blogs <!-- {docsify-ignore} -->
 
 [Vaults of Vaarn](https://vaultsofvaarn.com/): The original Vaults of Vaarn blog.  
-[Buccolia](https://bucoliablog.wordpress.com/): Solo play updates, random tables, and Vaarn music.   
+[Bucolia](https://bucoliablog.wordpress.com/): Solo play updates, random tables, and Vaarn music.   
 [Finder's Trail](https://finderstrails.tumblr.com/): A campaign record with some additional lore posts. 
