@@ -15,10 +15,15 @@
   <script>
     window.$docsify = {
       name: 'VAULTS OF VAARN',
+      auto2top: true,
       loadFooter: '_footer.md',
       loadSidebar: true,
       subMaxLevel: 2,
       sidebarDisplayLevel: 1,
+      pagination: {
+        crossChapter: true,
+        crossChapterText: true
+      },
       search: 'auto',
     }
   </script>
@@ -27,5 +32,6 @@
   <!-- plugins -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
