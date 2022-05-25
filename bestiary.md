@@ -222,7 +222,16 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Copy-Claws (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. <br />&nbsp; Copy-claws: A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. <br />&nbsp; <b>Copy-claws:</b> A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
+</table>
+
+ ## Ghoul
+_Biological_
+<table>
+<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Agonising Claws (d6 + CON save vs Agony)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: On moonless nights, a certain breed of furtive autodidact visits battlefields and plague pits and tombs. It is not about the taste. It never has been. It is about knowledge. And where some see a graveyard, others see a library. <br />&nbsp; <b>Agony:</b> Biological characters inflicted with Agony take d6 damage for each combat action they make. Lying still neutralises the venom.</td></tr>
 </table>
 
 ## Giant Azure Scorpion
