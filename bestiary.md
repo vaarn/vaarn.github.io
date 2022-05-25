@@ -36,12 +36,21 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.<br />&nbsp; The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
 </table>
 
+## Bacterial Gestalt Colony
+_Biological / Psychic_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 10</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Absorb (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Sentient, slow-moving ooze. Psychic, can communicate in staccato bursts of telepathic imagery. Targets absorbed take d8 damage each round until they make an opposed STR save. The colony takes minimum damage from kinetic attacks, but is vulnerable to fungal spores or other sources of antibiotics.</td></tr>
+</table>
+
 ## Bandit
 _Biological_
 <table>
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d20</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: As weapon</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Shabby Weapon (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Ragged desperate robbers that plague the Blue Ruins.</td></tr>
 </table>
 
@@ -270,6 +279,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Creepy gangly giant insects. Normally scavengers, but will attack humans if they think they can get away with it. Their spit forces a CON save. Failure results in disadvantage on all saves for one round due to vomiting.</td></tr>
 </table>
 
+## Hagfluke
+_Biological_
+<table>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Siphon (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Sinuous parasites with the faces of fanged crones. With each successful attack on a Biological target they gain 1 HD and heal d6 HP.</td></tr>
+</table>
+
 ## Harlequin Serpent
 _Biological_
 <table>
@@ -304,6 +322,15 @@ _Biological_
 <tr><td><b>Morale</b>: n/a</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bludgeon (d4) or As Weapon</td></tr>
 <tr><td colspan="2"><b>Notes</b>: An indigo-robed corpse, re-animated by the necrotech implants of the College of Indigo Tigers. Obeys the wearer of a Dominion Ring without question. Mute, obedient, fearless.</td></tr>
+</table>
+
+## Iridium Vulture
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Silvery synthetic carrion eaters that ride the air currents above the blue sands, scent-sensors attuned for the slightest hint of decay. They are not interested in living beings, but will attack to defend a carcass.</td></tr>
 </table>
 
 ## Juggernaut
