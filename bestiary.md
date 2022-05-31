@@ -198,6 +198,15 @@ _Hypergeometric_
 <tr><td colspan="2"><b>Notes</b>: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion. <br />&nbsp; <b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
 </table>
 
+## Fleshwarp
+_Biological_
+<table>
+<tr><td><b>HD</b>: #Limbs</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: #Limbs</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Fists (#Limbs x d4) / Graft (STR Save vs Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Fleshwarps are cacogenic abhumans, consisting of an atrophied, vestigal head and torso, and a multitude of powerful questing limbs. The creatures are blessed with rapid cellular regeneration, and can heal even mortal wounds within minutes. As they grow, more and more biomass is extruded into their limbs, creating skittering spiderlike abominations.<br />&nbsp; <b>Limbs:</b> Roll 2d6 to determine the Fleshwarp’s number of limbs (#Limbs). The creature’s HD is equal to this number.<br />&nbsp; <b>Regeneration:</b> The Fleshwarp regains 4hp per combat round, unless burned or dipped in acid.<br />&nbsp; <b>Grafting:</b>If the Fleshwarp has a biological target to attack, it will pounce. If the victim fails an opposed STR save, the Fleshwarp attaches one of its limbs to the victim’s torso. The Fleshwarp’s #Limbs and corresponding HD are lowered by 1. The victim must fill an item slots with a special Wound: <b>Grafted Arm.</b> The Grafted Arm has 1 HD and the Armour score of its host. Damage dealt to the Grafted Arm is shared between the host and the limb.</td></tr>
+</table>
+
 ## Fractalisk
 _Hypergeometric / Outsider_
 <table>
@@ -405,6 +414,24 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Biomechanical memory vampire. Like a giant mosquito cast from living steel. Cranial-bore proboscis drains d6 INT from target per round.</td></tr>
 </table>
 
+## Moonbeast (Imago)
+_Outsider / Psychic_
+<table>
+<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4 (+d6 Nymphs in Lair)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lunatic Gaze (EGO Save vs d6 EGO damage) / Radioactive Vomit (Blast, d8 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Luna, once the stepping stone to the stars, was lost to the Autarchs and is no longer under the dominion of man. The squamous pallid monstrosities known as ‘Moonbeasts’ may be the cause of this defeat or merely a symptom of it; in either case the creatures are inimical to humanity, hated interlopers that dwell in flooded caverns below Luna’s surface. They are somewhat like a toad and somewhat like an insect, although such phrases only capture a fragment of their extra-dimensional morphology.</td></tr>
+</table>
+
+## Moonbeast (Nymph)
+_Outsider / Psychic_
+<table>
+<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6 </td></tr>
+<tr><td colspan="2"><b>Attacks</b>: LLashing Tendrils (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The immature form of a Moonbeast. Lacking limbs or the projectile vomiting of their parents, they instead swarm over their prey and drain the life from their bodies with questing tendrils.</td></tr>
+</table>
+
 ## Mournfrog
 _Biological_
 <table>
@@ -558,6 +585,15 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.<br />&nbsp; After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.<br />&nbsp; Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
 </table>
 
+## Voidmaw
+_Biological / Synthetic_
+<table>
+<tr><td><b>HD</b>: 10</td><td><b>Armour</b>: 20</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d12) + Swallow Whole (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and synthetic void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.<br />&nbsp; <b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s Armour score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
+</table>
+
 ## Walking Womb
 _Biological_
 <table>
@@ -597,7 +633,7 @@ _Biological_
 ## Yurling
 _Biological / Fungal_
 <table>
-<tr><td><b>HD</b>: 1/4</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: 2d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Tiny mischievous monkey-like mutants. Covered in symbiotic white fungus. Exclusively eat metal. If a Yurling scores a critical hit, instead of dealing damage it will steal and devour a metal object from the target's inventory.</td></tr>
