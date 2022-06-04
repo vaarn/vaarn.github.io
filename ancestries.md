@@ -291,7 +291,7 @@ _Newbeasts are humanoid animals, produced through intensive nanotech enhancement
 |16|New-Goat|New-Hippo|New-Crow|New-Rat|
 |17|New-Wren|New-Elephant|New-Ox|New-Ferret|
 |18|New-Mouse|New-Jackal|New-Bull|New-Orangutan|
-|19|New-Hare|New-Ibis|New-Mole|New-Cobra|
+|19|New-Ant|New-Ibis|New-Mole|New-Cobra|
 |20|New-Toad|New-Flamingo|New-Bison|New-Scarab|
 
 |d20|NAME|HUE|MASK|ODDITY|
