@@ -63,6 +63,24 @@ _Biological_ / _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Cyborg war-boars infested with nanomachinery. Their flamethrower snouts target everyone in range.</td></tr>
 </table>
 
+## Behemoth Toad
+_Biological_
+<table>
+<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bellyflop (d10) / Tongue Grab (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Enormous flabby toads that lurk near Vaarnish water-sources. If hit with a tongue attack, PCs must STR save or be drawn into the toad's mouth and take d8 damage per round.</td></tr>
+</table>
+
+## Blightbeast
+_Biological_ / _Synthetic_
+<table>
+<tr><td><b>HD</b>: 10</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d10) + Bite (2d6) / Blight Breath (d12 TOX, blast)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal cacogenic Gila Monsters, imbued with nanomachinery and armoured with thick black scales. Keratin bristles sprout from their backs in burnt-looking clumps. Their eyes and throats gleam with a sickly green radiance. If threatened they will breathe out a noxious cloud of radioactive gas before lunging to attack with their powerful jaws. <br />&nbsp;The creatures seek out radioactive blightstone and gain sustenance from basking near it, although they supplement this nourishment with a more conventional diet of raw meat. Blightbeasts are immune to damage caused by energy weapons or radiation, and heal d8 HP per round when in the presence of radioactive material. Blightbeasts have no natural predators, their flesh and blood being thoroughly poisonous. Their corpses cannot be used as a source of rations.</td></tr>
+</table>
+
 ## Blightstone Knight
 _Synthetic_
 <table>
@@ -81,13 +99,13 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Predatory blue apes of the Vaarnish wastes. Intelligent and carnivorous, hunt in packs. Morale drops when outnumbered.</td></tr>
 </table>
 
-## Behemoth Toad
+## Brood Mother
 _Biological_
 <table>
-<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Bellyflop (d10) / Tongue Grab (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Enormous flabby toads that lurk near Vaarnish water-sources. If hit with a tongue attack, PCs must STR save or be drawn into the toad's mouth and take d8 damage per round.</td></tr>
+<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Grapple (DEX save vs Webbed)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A mother’s first duty is to her children, and she is no exception. In fungal forests and wind-swept canyons she hunts, nurturing her brood inside her swollen abdomen. She approaches sleeping travellers from above, swaddling them in blankets tight enough to hush their cries before her sons and daughters emerge to feast.<br />&nbsp;<b>The Brood:</b> a Brood Mother births d6 Broodlings [<b>HD</b> 0 (1 hp), <b>Armour</b> 12, <b>Bite</b> (d4)] per combat round, and 2d6 Broodlings on death. Fire or explosive attacks prevent this.<br />&nbsp;<b>Webbed:</b> Webbed characters are hit automatically by enemy attacks. They must make a successful DEX save to break free.</td></tr>
 </table>
 
 ## Cacklemaw
@@ -538,6 +556,15 @@ _Synthetic_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Slash (d8) + Slash (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Sadistic mantis-shaped synth. Permanently cloaked; always surprises unless opponents have infrared vision. If the cloaking field is disrupted, the Stalker’s Armour Defense drops to 11.</td></tr>
+</table>
+
+## Sycthesliver
+_Synthetic_
+<table>
+<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Blades (d10) + Blades (d10)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.<br />&nbsp; <b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Sycthesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
 </table>
 
 ## Thermasaur
