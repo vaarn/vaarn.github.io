@@ -446,7 +446,7 @@ _Outsider / Psychic_
 <table>
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6 </td></tr>
-<tr><td colspan="2"><b>Attacks</b>: LLashing Tendrils (d8)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lashing Tendrils (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: The immature form of a Moonbeast. Lacking limbs or the projectile vomiting of their parents, they instead swarm over their prey and drain the life from their bodies with questing tendrils.</td></tr>
 </table>
 
@@ -559,7 +559,7 @@ _Synthetic_
 </table>
 
 ## Sycthesliver
-_Synthetic_
+_Hypergeometric / Synthetic_
 <table>
 <tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
