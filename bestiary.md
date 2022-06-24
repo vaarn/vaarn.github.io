@@ -33,7 +33,9 @@ _Synthetic_
 <tr><td><b>HD</b>: 7</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
   <tr><td colspan="2"><b>Attacks</b>: Special <i>(Argent Halo Implant)</i></td></tr>
-<tr><td colspan="2"><b>Notes</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.<br />&nbsp; The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
+<tr><td colspan="2"><b>Notes</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.
+<br />
+The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
 </table>
 
 ## Bacterial Gestalt Colony
@@ -78,7 +80,9 @@ _Biological_ / _Synthetic_
 <tr><td><b>HD</b>: 10</td><td><b>Armour</b>: 18</td></tr>
 <tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: d3</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d10) + Bite (2d6) / Blight Breath (d12 TOX, blast)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Colossal cacogenic Gila Monsters, imbued with nanomachinery and armoured with thick black scales. Keratin bristles sprout from their backs in burnt-looking clumps. Their eyes and throats gleam with a sickly green radiance. If threatened they will breathe out a noxious cloud of radioactive gas before lunging to attack with their powerful jaws. <br />&nbsp;The creatures seek out radioactive blightstone and gain sustenance from basking near it, although they supplement this nourishment with a more conventional diet of raw meat. Blightbeasts are immune to damage caused by energy weapons or radiation, and heal d8 HP per round when in the presence of radioactive material. Blightbeasts have no natural predators, their flesh and blood being thoroughly poisonous. Their corpses cannot be used as a source of rations.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal cacogenic Gila Monsters, imbued with nanomachinery and armoured with thick black scales. Keratin bristles sprout from their backs in burnt-looking clumps. Their eyes and throats gleam with a sickly green radiance. If threatened they will breathe out a noxious cloud of radioactive gas before lunging to attack with their powerful jaws.  
+<br />
+The creatures seek out radioactive blightstone and gain sustenance from basking near it, although they supplement this nourishment with a more conventional diet of raw meat. Blightbeasts are immune to damage caused by energy weapons or radiation, and heal d8 HP per round when in the presence of radioactive material. Blightbeasts have no natural predators, their flesh and blood being thoroughly poisonous. Their corpses cannot be used as a source of rations.</td></tr>
 </table>
 
 ## Blightstone Knight
@@ -105,7 +109,11 @@ _Biological_
 <tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Grapple (DEX save vs Webbed)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: A mother’s first duty is to her children, and she is no exception. In fungal forests and wind-swept canyons she hunts, nurturing her brood inside her swollen abdomen. She approaches sleeping travellers from above, swaddling them in blankets tight enough to hush their cries before her sons and daughters emerge to feast.<br />&nbsp;<b>The Brood:</b> a Brood Mother births d6 Broodlings [<b>HD</b> 0 (1 hp), <b>Armour</b> 12, <b>Bite</b> (d4)] per combat round, and 2d6 Broodlings on death. Fire or explosive attacks prevent this.<br />&nbsp;<b>Webbed:</b> Webbed characters are hit automatically by enemy attacks. They must make a successful DEX save to break free.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A mother’s first duty is to her children, and she is no exception. In fungal forests and wind-swept canyons she hunts, nurturing her brood inside her swollen abdomen. She approaches sleeping travellers from above, swaddling them in blankets tight enough to hush their cries before her sons and daughters emerge to feast.
+<br />
+<b>The Brood:</b> a Brood Mother births d6 Broodlings [<b>HD</b> 0 (1 hp), <b>Armour</b> 12, <b>Bite</b> (d4)] per combat round, and 2d6 Broodlings on death. Fire or explosive attacks prevent this.
+<br />
+<b>Webbed:</b> Webbed characters are hit automatically by enemy attacks. They must make a successful DEX save to break free.</td></tr>
 </table>
 
 ## Cacklemaw
@@ -195,7 +203,9 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: 2d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. <br />&nbsp; Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. 
+<br />
+Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
 </table>
 
 ## Faa Nomad
@@ -213,7 +223,9 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion. <br />&nbsp; <b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion.  
+<br />
+<b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
 </table>
 
 ## Fleshwarp
@@ -222,7 +234,13 @@ _Biological_
 <tr><td><b>HD</b>: #Limbs</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: #Limbs</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Fists (#Limbs x d4) / Graft (STR Save vs Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Fleshwarps are cacogenic abhumans, consisting of an atrophied, vestigal head and torso, and a multitude of powerful questing limbs. The creatures are blessed with rapid cellular regeneration, and can heal even mortal wounds within minutes. As they grow, more and more biomass is extruded into their limbs, creating skittering spiderlike abominations.<br />&nbsp; <b>Limbs:</b> Roll 2d6 to determine the Fleshwarp’s number of limbs (#Limbs). The creature’s HD is equal to this number.<br />&nbsp; <b>Regeneration:</b> The Fleshwarp regains 4hp per combat round, unless burned or dipped in acid.<br />&nbsp; <b>Grafting:</b>If the Fleshwarp has a biological target to attack, it will pounce. If the victim fails an opposed STR save, the Fleshwarp attaches one of its limbs to the victim’s torso. The Fleshwarp’s #Limbs and corresponding HD are lowered by 1. The victim must fill an item slots with a special Wound: <b>Grafted Arm.</b> The Grafted Arm has 1 HD and the Armour score of its host. Damage dealt to the Grafted Arm is shared between the host and the limb.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Fleshwarps are cacogenic abhumans, consisting of an atrophied, vestigal head and torso, and a multitude of powerful questing limbs. The creatures are blessed with rapid cellular regeneration, and can heal even mortal wounds within minutes. As they grow, more and more biomass is extruded into their limbs, creating skittering spiderlike abominations.
+<br />
+<b>Limbs:</b> Roll 2d6 to determine the Fleshwarp’s number of limbs (#Limbs). The creature’s HD is equal to this number.
+<br />
+<b>Regeneration:</b> The Fleshwarp regains 4hp per combat round, unless burned or dipped in acid.
+<br />
+<b>Grafting:</b>If the Fleshwarp has a biological target to attack, it will pounce. If the victim fails an opposed STR save, the Fleshwarp attaches one of its limbs to the victim’s torso. The Fleshwarp’s #Limbs and corresponding HD are lowered by 1. The victim must fill an item slots with a special Wound: <b>Grafted Arm.</b> The Grafted Arm has 1 HD and the Armour score of its host. Damage dealt to the Grafted Arm is shared between the host and the limb.</td></tr>
 </table>
 
 ## Fractalisk
@@ -231,7 +249,11 @@ _Hypergeometric / Outsider_
 <tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d8) + Recursive Gaze (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.<br />&nbsp; <b>Recursive Gaze:</b> Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.<br />&nbsp; <b>Self Similar:</b> Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.
+<br />
+<b>Recursive Gaze:</b> Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.
+<br />
+<b>Self Similar:</b> Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
 </table>
 
 ## Gamma Ray
@@ -249,7 +271,9 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Copy-Claws (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. <br />&nbsp; <b>Copy-claws:</b> A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. 
+<br />
+<b>Copy-claws:</b> A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
 </table>
 
  ## Ghoul
@@ -258,7 +282,9 @@ _Biological_
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Agonising Claws (d6 + CON save vs Agony)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: On moonless nights, a certain breed of furtive autodidact visits battlefields and plague pits and tombs. It is not about the taste. It never has been. It is about knowledge. And where some see a graveyard, others see a library. <br />&nbsp; <b>Agony:</b> Biological characters inflicted with Agony take d6 damage for each combat action they make. Lying still neutralises the venom.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: On moonless nights, a certain breed of furtive autodidact visits battlefields and plague pits and tombs. It is not about the taste. It never has been. It is about knowledge. And where some see a graveyard, others see a library. 
+<br />
+<b>Agony:</b> Biological characters inflicted with Agony take d6 damage for each combat action they make. Lying still neutralises the venom.</td></tr>
 </table>
 
 ## Giant Azure Scorpion
@@ -303,7 +329,9 @@ _Biological_
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Pollen-borne Empathogens (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The sages of the long-vanished world worked many wonders. One of their quixotic tasks was the breaching of the boundaries between the animal and vegetable kingdoms, which has resulted in several abhuman lineages that exist in present-day Vaarn. Greenwaifs are slender humanoids with symbiotic algae and plant species growing within their flesh. They take all their energy from photosynthesis, requiring only water, and claim to enjoy long lifespans as a result.<br />&nbsp; <b>Empathogens:</b> These abhumans produce a weaponised pollen, which causes hallucinations, delirium, serotonin overproduction, and sometimes death. Each combat round, all biological creatures around the Greenwaif are exposed to a dose of the pollen. They must make an EGO save to remember what they are supposed to be doing, or else fall into a blissful, honeyed stupor. PCs under the effect of the pollen are more open to sharing their secrets and buried emotions, experience instant connections with strangers, and have no desire to harm the Greenwaif.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The sages of the long-vanished world worked many wonders. One of their quixotic tasks was the breaching of the boundaries between the animal and vegetable kingdoms, which has resulted in several abhuman lineages that exist in present-day Vaarn. Greenwaifs are slender humanoids with symbiotic algae and plant species growing within their flesh. They take all their energy from photosynthesis, requiring only water, and claim to enjoy long lifespans as a result.
+<br />
+<b>Empathogens:</b> These abhumans produce a weaponised pollen, which causes hallucinations, delirium, serotonin overproduction, and sometimes death. Each combat round, all biological creatures around the Greenwaif are exposed to a dose of the pollen. They must make an EGO save to remember what they are supposed to be doing, or else fall into a blissful, honeyed stupor. PCs under the effect of the pollen are more open to sharing their secrets and buried emotions, experience instant connections with strangers, and have no desire to harm the Greenwaif.</td></tr>
 </table>
 
 ## Grey Cricket
@@ -348,7 +376,9 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: d4</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Special Grab</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out.<br />&nbsp; Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out.
+<br />
+Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
 </table>
 
 ## Indigo Servitor
@@ -456,7 +486,9 @@ _Biological_
 <tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6) / Despair Gas (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. <br />&nbsp; Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. 
+<br />
+Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
 </table>
 
 ## Nerve Crawler
@@ -483,7 +515,9 @@ _Hypergeometric_
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: STR drain (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time.<br />&nbsp; Planeyfolk ignore all even-numbered damage rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time.
+<br />
+Planeyfolk ignore all even-numbered damage rolls.</td></tr>
 </table>
 
 ## Pontiff Scorpion
@@ -510,7 +544,9 @@ _Biological_
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6) + Quill Spray (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Loathsome arachnid, with a bloated body that bristles with hollow quills like those of a porcupine. When threatened it will rapidly brush its back legs across its back, showering the surrounding area with quills.<br />&nbsp; Quill-spiders are not venomous and rely on brute strength to subdue their prey, breaking the necks of addax and phthalo-jackals and dragging them into sheltered burrows to be devoured. These creatures are a menace to travellers in the Interior: they are inquisitive, fast-moving, aggressive, and will devour anything that fails to outrun them or fight them off.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Loathsome arachnid, with a bloated body that bristles with hollow quills like those of a porcupine. When threatened it will rapidly brush its back legs across its back, showering the surrounding area with quills.
+<br />
+Quill-spiders are not venomous and rely on brute strength to subdue their prey, breaking the necks of addax and phthalo-jackals and dragging them into sheltered burrows to be devoured. These creatures are a menace to travellers in the Interior: they are inquisitive, fast-moving, aggressive, and will devour anything that fails to outrun them or fight them off.</td></tr>
 </table>
 
 ## Regenerator
@@ -564,7 +600,9 @@ _Hypergeometric / Synthetic_
 <tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Blades (d10) + Blades (d10)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.<br />&nbsp; <b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Sycthesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
+<br />
+<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Sycthesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
 </table>
 
 ## Thermasaur
@@ -573,7 +611,9 @@ _Biological_
 <tr><td><b>HD</b>: 12</td><td><b>Armour</b>: 16 </td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: 4 x Claws (d6) + Bite (2d6) + Aura (d8 unblockable, Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an armoured vehicle. It attacks from ambush and rapidly raises the temperature of its flesh to furnace-like levels, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption.<br />&nbsp; <b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an armoured vehicle. It attacks from ambush and rapidly raises the temperature of its flesh to furnace-like levels, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption.
+<br />
+<b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering.</td></tr>
 </table>
 
 ## Thunderstrike Bird
@@ -609,7 +649,11 @@ _Synthetic_
 <tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: Always Flees</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Grab (followed by rolling damage)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.<br />&nbsp; After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.<br />&nbsp; Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.
+<br />
+After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.
+<br />
+Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
 </table>
 
 ## Voidmaw
@@ -618,7 +662,9 @@ _Biological / Synthetic_
 <tr><td><b>HD</b>: 10</td><td><b>Armour</b>: 20</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d12) + Swallow Whole (Special)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and synthetic void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.<br />&nbsp; <b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s Armour score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and synthetic void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.
+<br />
+<b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s Armour score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
 </table>
 
 ## Walking Womb
