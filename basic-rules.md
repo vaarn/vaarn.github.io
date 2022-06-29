@@ -13,7 +13,7 @@ Each of the six abilities is used in different circumstances.
 ## Saving Throws
 If a character attempts something where the outcome is uncertain and failure has consequences, they make a saving throw, or "save". To make a save, add the bonus of the relevant ability to a d20 roll. If the total __exceeds 15__, the character succeeds. If not, they fail.  
 
-If the save is opposed by another character, then instead of aiming to equal or exceed 15, the side doing the rolling must get a total greater than the opposing character's relevant defence score in order to succeed. If they fail, the opposing side succeeds. This type of save is called an opposed save. Note that it doesn't matter which side does the rolling, since the odds of success remain the same.  
+If the save is opposed by another character, then instead of aiming to exceed 15, the side doing the rolling must get a total greater than the opposing character's relevant defence score in order to succeed. If they fail, the opposing side succeeds. This type of save is called an opposed save. Note that it doesn't matter which side does the rolling, since the odds of success remain the same.  
 
 If there are situational factors that make a save significantly easier or harder, the referee may grant the roll __advantage__ or __disadvantage__. If a roll has advantage, roll 2d20 and use the better of the two dice. If it has disadvantage, roll 2d20 and use the worse of the two dice.
 
