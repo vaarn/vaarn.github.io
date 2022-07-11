@@ -128,7 +128,7 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 ### Ancamulla, The Water Baron of Gnomon
 _Synthetic_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 24 (Ancient Warding Field)</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 24 (Ancient Warding Field)</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Attacks</b>: Feeble Swipe (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Ancamulla does not expect to fight; he has mercenaries for that. If in mortal danger he will likely flee or try to bargain using his wealth. His chassis is fitted with an ancient Warding Field, which renders most kinetic attacks against his person harmless. A well-timed EMP would disrupt the warding field, reducing him to his natural Armour of 11.</td></tr>
 </table>
@@ -150,7 +150,7 @@ _Synthetic_
 ### Militiaman
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Cheap Blade (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Swaggering bullies who will only attack if they outnumber their opponents.</td></tr>
@@ -159,7 +159,7 @@ _Biological_
 ### Militia Captain
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Assault Laser (d8 beam)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Commands a group of militiamen; will always be found guarding a public fountain.</td></tr>
@@ -181,7 +181,7 @@ _Biological_
 ### Hegemony Consul, Larke Xan Lonrot
 _Biological_
 <table>
-<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 16 (Adamant Linen Robes)</td></tr>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 16 (Adamant Linen Robes)</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Attacks</b>: Monofilament Sword (2d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Always accompanied by Lictors. Lonrot is a competent enough duelist, but will not have any interest in risking his life in battle. If cornered he will use the active camouflage rig inside his robes to become invisible and attempt to escape.</td></tr>
 </table>
@@ -203,7 +203,7 @@ _Biological_
 ### Household Guard
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Pulse Rifle (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Well-equipped and trained, but not as numerous as the Legionaries or the Baron’s militiamen.</td></tr>
@@ -212,7 +212,7 @@ _Biological_
 ### Consul's Lictor
 _Biological_
 <table>
-<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 18</td></tr>
 <tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Anbaric Pike (d10 electrical)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: When Consul Larke would take lethal damage, a Lictor can choose to die instead.</td></tr>
@@ -235,7 +235,7 @@ _Biological_
 ### Hegemony Commander, Eldwall Loonflower
 _Biological_
 <table>
-<tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 16 (Hegemony Ferro-Plate)</td></tr>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 16 (Hegemony Ferro-Plate)</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Hegemony Sidearm (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Unlikely to fight alone; he will be accompanied by four Hegemony Centurions. Hegemony troops will never fail Morale checks while Loonflower is alive and fighting with them.</td></tr>
 </table>
@@ -258,7 +258,7 @@ _Biological_
 ### Hegemony Legionary
 _Biological_
 <table>
-<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: When fought in streets of Gnomon, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
@@ -267,7 +267,7 @@ _Biological_
 ### Hegemony Centurion
 _Biological_
 <table>
-<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) + Rapier (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Legionaries in presence of Centurion use the Centurion’s morale score.</td></tr>
@@ -289,7 +289,7 @@ _Biological_
 ### Abbess Faunia, Apostle Of The Promised Sun
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 11 (Golden Robes)</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11 (Golden Robes)</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Attacks</b>: Fists (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Faunia is no warrior, but her ambient psychic powers mean that she is impossible to surprise. If attacked, she will activate her most precious artefact: a hard-light projector that creates seven solid-state holograms of her, which will scatter in all directions. In the confusion she will attempt to escape. Note these holograms are physical objects, and can be restrained by the PCs.</td></tr>
 </table>
@@ -312,7 +312,7 @@ _Biological_
 ### Priest Of The Promised Sun
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 10</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 10</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Staff (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Carry doses of Summerbalm (heals for d8 HP).</td></tr>
@@ -321,7 +321,7 @@ _Biological_
 ### Temple Guard
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Heavy Club (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Will do everything they can to avoid spilling red blood inside the Temple.</td></tr>
@@ -343,7 +343,7 @@ _Biological_
 ### Prieval Prise
 _Biological_
 <table>
-<tr><td><b>HD</b>: 5</td><td><b>Armour</b>: 13 (Gaudy Robes)</td></tr>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 13 (Gaudy Robes)</td></tr>
 <tr><td><b>Morale</b>: See Below</td><td><b>Attacks</b>: Pistol (d8) + Bite (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: If combat breaks out, the referee should roll to determine which drug Prieval is high on. Even numbers designate amphetamines; Prieval is twitchy and fast, and will always act twice before the PCs do. However, he will bug out and run as soon as the fight goes against him. Odd numbers designate opiates; Prieval is disassociating and will always attack last. However, he has no concept of the danger he is in, cannot feel pain, and will never run away.</td></tr>
 </table>
@@ -368,7 +368,7 @@ laugh at his jokes.
 ### Smuggler
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d12</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Club (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: The gang’s runners are lightly-armed layabouts, more used to vandalism and intimidation than pitched battle with competent adversaries.</td></tr>
@@ -377,7 +377,7 @@ _Biological_
 ### Hired Killer
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Knife (d6) + Plasma Grenade (d8 blast)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Assassination technique involves bombing targets’ homes with ancient plasma grenades.</td></tr>
@@ -399,7 +399,7 @@ _Biological_
 ### Nyxia, The Wall-Shadow
 _Hypergeometric_
 <table>
-<tr><td><b>HD</b>: 8</td><td><b>Armour</b>: 11</td></tr>
+<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 11</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: d8 CON drain</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Nyxia cannot be injured by regular weapons or by psychic Gifts. Only hypergeometric weapons have any hope of harming her. She attacks by latching onto an opponent and draining the energy from their body. When their CON defence is reduced to 0, they are dead.</td></tr>
 </table>
@@ -422,7 +422,7 @@ _Hypergeometric_
 ### Bailiff
 _Biological_
 <table>
-<tr><td><b>HD</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Shock Baton (d6, electrical)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Dressed in dark red armour and featureless shadow-helms.</td></tr>
@@ -431,7 +431,7 @@ _Biological_
 ### Advocate
 _Biological_
 <table>
-<tr><td><b>HD</b>: 7</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Level</b>: 7</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Spear (d8) + Net (DEX save or your Armor drops to 9)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Each Advocate uses unique fighting styles and weaponry. This stat-block should be considered a starting point.</td></tr>
@@ -454,7 +454,7 @@ _Biological_
 ### Longtooth Jak
 _Biological_
 <table>
-<tr><td><b>HD</b>: 6</td><td><b>Armour</b>: 15 (Thick hide)</td></tr>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 15 (Thick hide)</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: If both of Jak’s claws hit the same target, she will follow up with a bite attack that deals 2d6 damage, with no to-hit roll required. She will deal another automatic 2d6 damage to the target she has grabbed each turn, unless they pass a STR save to wrestle her off.</td></tr>
 </table>
@@ -478,7 +478,7 @@ _Biological_
 ### Cultist
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Dagger (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Robed and hooded when it is time to gather. They use Jak’s morale score if she is present.</td></tr>
@@ -487,7 +487,7 @@ _Biological_
 ### Exalted Ghoul
 _Biological_
 <table>
-<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: The advanced stages of the transformation brought about by Jak’s rituals elongate the limbs and teeth.</td></tr>
@@ -785,7 +785,7 @@ _Should the party wish to engage the services of hired swords, Gnomon’s tavern
 ### Inferior Mercenary
 _Biological_
 <table>
-<tr><td><b>HD</b>: 1</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Crude Weapon (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Will work for meals and water.</td></tr>
@@ -794,7 +794,7 @@ _Biological_
 ### Skilled Mercenary
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Well-Kept Weapon (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
@@ -1483,4 +1483,3 @@ _No city stands still, and certainly no city as chaotic and vibrant as Gnomon. I
 - **Language Plague**. A reckless vault-raider brought some awful relic of the Age of Titans into the city, and a rapidly spreading language virus is threatening the populace. The disease compels sufferers to endlessly repeat a strange mantra, and all those who hear the words of the chant run risk of infection themselves. Citizens have stuffed their ears with wax and are ringing every bell they can find to drown out the chants of the infected. The Hegemony Legion struggles to keep order as the Philosopher’s Guilds compete to find a cure.
 - **Great Fire**. Nobody is sure how it started, but a fire is either currently raging or has devastated a great swathe of the city’s crowded townhouses. Choose one of the NPCs the party has grown closest to during the course of the campaign: they have either lost their home or are in imminent danger of doing so. How did the fire start? Was it deliberate? The streets are surely full of gossip.
 - **Gathering of the Nomads**. The disparate clans of the Faa nomads have gathered outside the walls of Gnomon for their once in a decade Great Moot. A tent-metropolis has appeared overnight, dwarfing the aged, rigid construct of stone that calls itself Gnomon. The streets throng with the roaming people of Vaarn’s endless deserts. Toasts are drunk, marriages between clans are arranged, ritual duels end with both participants dead in the ring, and the souks are filled with the bounty of the deepest azure sands.
-
