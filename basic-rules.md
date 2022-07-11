@@ -76,11 +76,11 @@ Vaarn is a world where religion, science, and magic are indistinguishable. Devou
 - Using a Gift costs HP, determined by the Referee once the player describes what they want to accomplish. The baseline cost for using a Gift is **d6 HP.**
 - Combat Gifts always hit their target, dealing damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. (Example: paying d6 HP results in a damage roll of d8 + PSY bonus).
 - The same ratio applies when healing an ally using a Gift. Gifts like mind control or force barriers can be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
- 
+
 Mystic Gifts are not earned by gaining Levels; they must be hunted for. Sources of new Gifts include consuming psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, or meditating in front of a hypergeometric obelisk. The Referee can decide. 
 
 ### Psyche Slots
-Psyche slots are an alternative method of tracking gifts. A PC has psyche slots equal to their PSY bonus. Each Gift occupies one psyche slot. If using this method, do not add the PC's PSY bonus to damage or healing caused by Gifts.
+Psyche slots are an alternative method of tracking Gifts. A PC has psyche slots **equal to their PSY bonus.** Each Gift occupies one psyche slot. If using this method, do not add the PC's PSY bonus to damage or healing caused by their Gifts.
 
 ## Exotica
 Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds.
