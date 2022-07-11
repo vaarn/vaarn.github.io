@@ -137,7 +137,7 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |79|Tech Wand|Miraculous silver wand. Three charges. Use to re-activate or deactivate a piece of arcane technology.|
 |80|Mirror Shield|+1 Armour. DEX Save to reflect energy weapon shots back at their source.|
 |81|Hard Light Glove|Project a fist-sized cube of hard light.|
-|82|Grey Goo Grenade|Release a clump of ravenous nano-goo. D6 damage per turn. Gains 1HD for each creature it eats.|
+|82|Grey Goo Grenade|Release a clump of ravenous nano-goo. D6 damage per turn. Gains 1 Level for each creature it eats.|
 |83|Omni-Key|Key that can fit itself to any lock.|
 |84|Canned Nectar|Crimson-canned nectar of a long-lost era. Unhealthy but tasty.|
 |85|Blue Rust|Alchemical compound that turns any metal into rust within moments.|
