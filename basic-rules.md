@@ -70,24 +70,34 @@ Biological PCs must drink one ration of water every day. Synthetic PCs must imbi
 Merchants will usually trade an item slots’ worth of goods for similar, putting a premium on rations of water and items of Exotica. There is no set list of prices for goods in Vaarn. The deals characters can strike will depend upon context, the merchant’s disposition, and how persuasive they are. 
 
 ## Mystic Gifts
-Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are collectively referred to as __Gifts__.  Each Mystic Gift uses one item slot; this represents the burden these unnatural powers exert on the body of the wielder.
+Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fun- gus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are referred to as **Gifts**.
+- Each Mystic Gift uses **one item slot**; this represents the burden these unnatural powers exert on the body of the wielder.
+- Using a Gift costs HP, determined by the Referee once the player describes what they want to accomplish. The baseline cost for using a Gift is **d6 HP.**
+- Combat Gifts always hit their target, dealing damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. (Example: paying d6 HP results in a damage roll of d8 + PSY bonus).
+- The same ratio applies when healing an ally using a Gift. Gifts like mind control or force barriers can be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
+ 
+Mystic Gifts are not earned by gaining Levels; they must be hunted for. Sources of new Gifts include consuming psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, or meditating in front of a hypergeometric obelisk. The Referee can decide. 
 
-Note that Gifts are only lightly defined by their name, and the players and referee must collectively agree on the specific effect of a Mystic Gift. Using a Gift always costs HP; a precise cost will be determined by the referee once the player describes what they want to accomplish. The baseline cost for using a Gift is __d6 HP__. 
- 
-Gifts always hit in combat without rolling against armour defence values, and deal damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. Therefore, paying d6 HP will result in a damage roll of **d8 + PSY bonus;** the same ratio applies if trying to heal an ally using a Gift. Some Gifts, such as mind control or force barriers, could be used for extended durations. In such cases the character must pay d6 HP for each ten-minute period that the Gift is active.
- 
-Mystic Gifts are not earned merely by gaining levels; they must be actively hunted for. Sources of new Gifts could include imbibing psychoactive drugs, brain surgery, training with another psychic, eating another psychic’s brain, meditating in front of a hypergeometric obelisk, and so on. It is up to the Referee how exactly new Gifts can be obtained. 
+### Psyche Slots
+Psyche slots are an alternative method of tracking gifts. A PC has psyche slots equal to their PSY bonus. Each Gift occupies one psyche slot. If using this method, do not add the PC's PSY bonus to damage or healing caused by Gifts.
 
 ## Exotica
-Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds. It is presumed that the PCs are vault-raiders, on the hunt for such items of Exotica.
-When a new item of Exotica is found, the GM may ask for an INT save in order to puzzle out what the device does. If the save is failed, it is assumed that the PCs cannot understand the device. They can either have the item appraised at a settlement or use it and hope for the best. 
+Exotica are the strange relics of the many extinct civilizations that preceded your own. Exotica may take the form of weaponry, clothing, tools, or bizarre constructions that are beyond the understanding of mortal minds.
+
+When a new item of Exotica is found, the Referee may ask for an INT save in order to puzzle out what the device does. If the save is failed, it is assumed that the PCs cannot understand the device. They can either have the item appraised at a settlement or use it and hope for the best. 
 
 ## Advancement
-As you adventure in Vaarn, your character will grow from a relative novice into a more seasoned explorer. This is represented by your **Level.** All new characters start at Level 1 and advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will gain you one **experience point** or **XP.** When your XP tally equals your current Level, increase your Level by one and erase your current XP tally.
+As PCs adventure in Vaarn, they will grow from novices into seasoned explorers. All new characters start at Level 1. A PC’s maximum Level is 10. When a PC's Level increases:
+- They get three points to allocate to any Abilities of their choosing. Abilities may never be raised higher than 20 /+10.
+- They roll a d8 and add the result to the maximum HP.
 
-When your Level increases, you receive 3 points which you may use to increase your Abilities. Abilities may never be raised higher than 20 /+10. You must also roll a d8 and add the result to your maximum HP. 
+There are different triggers for Advancement which the Referee may consider using. It is reccomended that a group settles on one of these options before the campaign begins.
 
-Once a character has reached Level 10, they are considered complete. Each subsequent level will grant only one extra HP, and they cannot increase their Abilities further. It is recommended that they recruit a Level 1 apprentice to accompany them on expeditions. In time, this apprentice can become the player’s new main character.
+### Exotica for XP
+PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica grants 1 XP to the PC who traded it in. When a PC's XP tally equals their current Level, they advance by one Level and erase their current XP tally.
 
-_**Note:** Each item of Exotica traded in counts for one XP in total, not one XP per player. A group of four Level 1 PCs would need to trade in four items of Exotica in order for all characters to reach Level 2._
+### Exotica for Levels
+PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will automatically raise a PC to their next Level. A single Exotica can only be used to raise the Level of one PC, not the entire party. This will create important decisions for the party, as most likely only one PC will be able to level up at a time. If the Referee wants a faster campaign, have all PCs level up for each one Exotica traded, excluding that of the starting equipment.
 
+### Expeditions for XP
+PCs advance by completing Expeditions. The precise nature of a single Expedition will be defined by the Referee, but they usually involve extended journeys during which the characters solve problems, negotiate with or battle opponents, and discover more about the world of Vaarn. Completing an Expedition will gain you one experience point or XP. When your XP equals your current Level, increase your Level by one and erase all XP tallies.
