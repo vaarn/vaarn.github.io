@@ -58,8 +58,10 @@ When a character reaches 0 HP, their HP remains at 0 until they take a Rest or a
 |20|FATALITY| - |You are dead.|
 
 HP is replenished via Short and Long Rests.  
-- Short Rest: quick sit-down, with a ration of water or meal. Replenishes d8 + CON bonus HP.
-- Long Rest: full night’s sleep, with both a ration of water and a meal. This either replenishes all HP or heals one Wound. Ability defenses that have been depleted by enemy attacks replenish at the rate of one point per day.  
+
+**Short Rest:** quick sit-down, with a ration of water or meal. Replenishes d8 + CON bonus HP.
+
+**Long Rest:** full night’s sleep, with both a ration of water and a meal. This either replenishes all HP or heals one Wound. Ability defenses that have been depleted by enemy attacks replenish at the rate of one point per day.  
 
 If your character is __Deprived__ they cannot benefit from Short or Long Rests. Deprivation can be incurred through many means, but the most common are starvation or thirst.
 
@@ -98,7 +100,7 @@ There are different triggers for Advancement which the Referee may consider usin
 PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica grants 1 XP to the PC who traded it in. When a PC's XP tally equals their current Level, they advance by one Level and erase their current XP tally.
 
 ### Exotica for Levels
-PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will automatically raise a PC to their next Level. A single Exotica can only be used to raise the Level of one PC, not the entire party. This will create important decisions for the party, as most likely only one PC will be able to level up at a time. If the Referee wants a faster campaign, have all PCs level up for each one Exotica traded, excluding that of the starting equipment.
+PCs advance by trading in Exotica at settlements or oases. Trading in an item of Exotica will automatically raise a PC to their next Level. A single Exotica can only be used to raise the Level of one PC, not the entire party. This will create important decisions for the party, as most likely only one PC will be able to level up at a time. If the Referee wants an even faster campaign, have all PCs level up for each one Exotica traded, excluding that of the starting equipment.
 
 ### Expeditions for XP
 PCs advance by completing Expeditions. The precise nature of a single Expedition will be defined by the Referee, but they usually involve extended journeys during which the characters solve problems, negotiate with or battle opponents, and discover more about the world of Vaarn. Completing an Expedition will gain you one experience point or XP. When your XP equals your current Level, increase your Level by one and erase all XP tallies.
