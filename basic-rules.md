@@ -32,8 +32,7 @@ Alternatively, an attack roll can also be resolved by the defender rolling a d20
 On a hit, the attacker rolls their weapon's damage die to determine how many __Hit Points__ (__HP__) the defender loses. A bonus damage die of the weapon's type may be added to the roll if the ideal weapon was used against an enemy type.
 
 ## Wounds and Healing
-When a character reaches 0 HP, every subsequent point of damage causes them to acquire __wounds__, which fill item slots and incur penalties (see table below). If a character fills 10 item slots with wounds they will die. If one of a character’s ability defenses reaches zero, they will die.
-
+When a character reaches 0 HP, their HP remains at 0 until they take a Rest or are healed by someone. From that moment on, all subsequent damage causes them to acquire **Wounds**, which fill item slots and incur penalties until healed. The amount of damage taken determines which wound they get. If ten item slots are marked with Wounds, the character dies. The same applies if any ability defense drops to zero.
 
 |DAMAGE PAST 0HP|WOUND|SLOTS|DESCRIPTION|
 |---------------|-----|-----|-----------|
@@ -58,7 +57,9 @@ When a character reaches 0 HP, every subsequent point of damage causes them to a
 |19|Bloody Mess| 3 |Roll 3 random wounds. You pass out.|
 |20|FATALITY| - |You are dead.|
 
-HP is replenished via Short and Long Rests. A __Short Rest__ is a quick sit-down, with a ration of water or a meal. This replenishes d8 + Constitution bonus HP. A __Long Rest__ is a ration of water and a meal, followed by a full night’s sleep in a safe place. This will either replenish all lost HP or heal one item slot’s worth of wounds. Ability scores that have been depleted by enemy attacks replenish at the rate of one point per day.  
+HP is replenished via Short and Long Rests.  
+- Short Rest: quick sit-down, with a ration of water or meal. Replenishes d8 + CON bonus HP.
+- Long Rest: full night’s sleep, with both a ration of water and a meal. This either replenishes all HP or heals one Wound. Ability defenses that have been depleted by enemy attacks replenish at the rate of one point per day.  
 
 If your character is __Deprived__ they cannot benefit from Short or Long Rests. Deprivation can be incurred through many means, but the most common are starvation or thirst.
 
