@@ -1,5 +1,5 @@
 # Transport in Vaarn
-Note that ‘Hull Points’ represent a vehicle’s resilience to harm. Hull Points map to weapon damage at a ratio of 1 to 10. Damage incurred in amounts less than 10 can never reduce a vehicle’s Hull Points. Multiple sources of damage in a single combat round do not stack. A dune skuggy that takes 6, 7, and 8 points of damage from separate attacks will not lose any Hull Points, despite the combined total damage being 21. A dune skuggy that takes 19 points of damage from a single source will lose one Hull Point. This means that only the heaviest weapons and largest creatures can meaningfully damage vehicles. For pack-beasts with Hit Dice, calculate HP as normal.
+Note that ‘Hull Points’ represent a vehicle’s resilience to harm. Hull Points map to weapon damage at a ratio of 1 to 10. Damage incurred in amounts less than 10 can never reduce a vehicle’s Hull Points. Multiple sources of damage in a single combat round do not stack. A dune skuggy that takes 6, 7, and 8 points of damage from separate attacks will not lose any Hull Points, despite the combined total damage being 21. A dune skuggy that takes 19 points of damage from a single source will lose one Hull Point. This means that only the heaviest weapons and largest creatures can meaningfully damage vehicles. For pack-beasts with a Level, calculate HP as normal.
 
 ## Auto-Chariot
 _Synthetic_
@@ -67,7 +67,7 @@ _Mechanical_
 ## War Camel
 _Biological_
 <table>
-<tr><td><b>HD</b>: 4</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 15</td></tr>
 <tr><td><b>Speed</b>: Moderate</td><td><b>Value</b>: Moderate</td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Hump-mounted flechette cannon (d10) + Kick (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Camels are still considered an excellent choice of desert mount, even in this late red era of Urth. War camels, fitted with mirror-armor and implanted flechette cannons, are used by Faa nomad raiders and Hegemony troops alike, and camel trains are one of the cheapest ventures a Vaarnish merchant can finance.</td></tr>
@@ -76,7 +76,7 @@ _Biological_
 ## Weeping Lizard
 _Biological_
 <table>
-<tr><td><b>HD</b>: 3</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Speed</b>: Fast once blood is warm</td><td><b>Value</b>: Low</td></tr>
 <tr><td colspan="2"><b>Armaments</b>: Bite (d8) + Toxic tears (CON save vs temporary blindness)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: For journeys in the northern mountains of Vaarn, where flickering lattices of hard light make flight untenable, and frequent earthquakes demolish roads and bridges, the Weeping Lizard is favoured as a steed. Named for the toxin it extrudes from its tear ducts when enraged, these truculent black pseudo-geckos can carry their passengers up surfaces as sheer as glass, and can leap across nauseating gaps with their powerful back legs.</td></tr>
