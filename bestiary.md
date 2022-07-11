@@ -361,6 +361,24 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Large desert snakes, with colouration on their heads that resembles the makeup worn by sacred fools. Their venom forces a CON save; failure results in a convulsive laughter-like reaction to the serpent’s neurotoxins. Afflicted creatures laugh for d6 hours; they cannot speak until the venom wears off.</td></tr>
 </table>
 
+## Hegemony Centurion
+_Biological_
+<table>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) + Rapier (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Hegemony's officer caste are famed for their extravagant facial hair, their gaudy epaulettes, and their contempt for weakness. Legionaries in presence of Centurion use the Centurion’s morale score.</td></tr>
+</table>
+
+## Hegemony Legionary
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Red armoured true-kin soldiers. The backbone of the Hegemon's occupying forces in Vaarn. If outnumbered, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
+</table>
+
 ## Hiveyman
 _Biological_
 <table>
