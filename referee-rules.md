@@ -6,25 +6,25 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 |d20|Reaction|
 |---|--------|
 |1-3|Attacks Immediately|
-|4-7|Hostile|
-|8-12|Indifferent|
-|13-17|Talkative|
-|18-20|Actively Helpful|
+|4-6|Hostile, Can't Be Swayed|
+|7-9|Hostile, Could Be Swayed|
+|10-13|Wary, Defensive|
+|14-16|Uninterested|
+|17-19|Curious, Approachable|
+|20+|Actively Helpful|
 
-## Monsters
-**Hit Dice / Hit Points:** All monster hit dice (**HD**) are d8s unless otherwise specified. To get the monster's hit points, just multiply the number of hit dice they have by 4 (or 5 if you're feeling mean.)  
+## Adversary Stats
+**Level:** A measure of the adversary’s power, used to determine its Hit Points (HP) and bonuses. To calculate HP, multiply the level by 4 (or 5 if you’re feeling mean).
 
-**Armour:** A monster's Armour score gives the number a PC's attack roll must exceed to damage them.  
+**Armour:** The Armour score gives the number a PC’s attack roll must exceed to damage them.
 
-**Attack Bonus / Saves:** Assume that monsters have ability bonuses equal to their HD, with the corresponding ability defences.
+**Abilities:** Adversaries have ability bonuses equal to their level, with the corresponding defenses. (**Example**: a Level 4 adversary has an attack bonus of +4 and a defense of 14 in all of its abilities, unless modified by the Referee.)
 
-?> **Example:** A typical 4 HD monster would have an attack bonus of +4 and a defence of 14 in all of its abilities by default, unless modified by the referee.  
+**Attacks:** Number of attacks an adversary can make per round, and the damage dice rolled for each. Attacks separated by a / symbol are mutually exclusive, the adversary must use one or the other. Attacks joined by a + symbol are multi-attacks, the adversary can use all in the same round.
 
-**Attacks:** This indicates the number of attacks a monster can make per round, and the damage dice rolled for each.  
+**Morale:** When adversaries face more danger than expected, the Referee can make a Morale roll by rolling d20 and adding the respective bonus. If the result is less than 15, the adversary flees, hides or attempts to parley. Morale rolls can be triggered by defeating half of an enemy group, their leader or similar.
 
-**Morale:** Monsters and NPCs all have a morale bonus, usually between 1 and 10. When they face more danger than they were expecting, the referee will make a **morale roll** by rolling d20 and adding the NPC's morale bonus. If the result **does not exceed 15**, the NPC will attempt to flee, hide, or parley. Morale rolls can be triggered by defeating half of an enemy group, defeating a group's leader, or reducing a lone enemy to half HP. Other effects may trigger a morale roll at the referee's discretion.
-
-## Monster Types
+## Adversary Types
 **Biological:** A living creature, made from flesh and blood. No unusual resistances or weaknesses.
 
 **Fungal:** A creature formed from motile fungus. Takes half damage from kinetic attacks such as bludgeoning, stabbing, etc. Takes double damage from fire or fungicide bombs.
