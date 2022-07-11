@@ -71,7 +71,7 @@ Biological PCs must drink one ration of water every day. Synthetic PCs must imbi
 Merchants will usually trade an item slots’ worth of goods for similar, putting a premium on rations of water and items of Exotica. There is no set list of prices for goods in Vaarn. The deals characters can strike will depend upon context, the merchant’s disposition, and how persuasive they are. 
 
 ## Mystic Gifts
-Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fun- gus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are referred to as **Gifts**.
+Vaarn is a world where religion, science, and magic are indistinguishable. Devout faith, mastery of arcane nano-machines, abuse of psychoactive fungus, or mental mutation can grant the mind uncanny influence over the material world. All such powers, abilities, and boons are referred to as **Gifts**.
 - Each Mystic Gift uses **one item slot**; this represents the burden these unnatural powers exert on the body of the wielder.
 - Using a Gift costs HP, determined by the Referee once the player describes what they want to accomplish. The baseline cost for using a Gift is **d6 HP.**
 - Combat Gifts always hit their target, dealing damage of one dice size higher than the user paid in HP, plus the character’s PSY bonus. (Example: paying d6 HP results in a damage roll of d8 + PSY bonus).
