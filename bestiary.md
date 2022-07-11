@@ -97,7 +97,7 @@ _Synthetic_
 ## Blue Baboon
 _Biological_
 <table>
-<tr><td><b>Level</b>: 1/2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4 (2)</td><td><b>Appearing</b>: 3d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Claws (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Predatory blue apes of the Vaarnish wastes. Intelligent and carnivorous, hunt in packs. Morale drops when outnumbered.</td></tr>
@@ -503,7 +503,7 @@ _Synthetic_
 ## Phthalo-Jackal
 _Biological_
 <table>
-<tr><td><b>Level</b>: 1/2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 4 (1)</td><td><b>Appearing</b>: 3d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d4)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Cautious, clever, cerulean-coated pack hunters. Morale drops when outnumbered.</td></tr>
