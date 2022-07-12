@@ -709,7 +709,9 @@ _Biological_
 <tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d10</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Walking, carnivorous plants. Adapted to a low moisture environment. Blindness from their spit imposes disadvantage on all attack rolls.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Walking, carnivorous plants, descended from a larger and more virulent species that was brought to Urth from the stars in a forgotten era. Xeric Triffids are adapted to a low moisture environment, with tough, thick skin and small waxy leaves. They remain rooted during the heat of the day, but become mobile at dawn and twilight, stalking on three large roots in search of prey.
+<br>
+Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
 </table>
 
 ## Yuckhog
@@ -727,5 +729,5 @@ _Biological / Fungal_
 <tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: 2d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Tiny mischievous monkey-like mutants. Covered in symbiotic white fungus. Exclusively eat metal. If a Yurling scores a critical hit, instead of dealing damage it will steal and devour a metal object from the target's inventory.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Tiny mischievous monkey-like mutants. Covered in symbiotic white fungus. Exclusively eat metal. If a Yurling scores a hit, instead of dealing damage it can choose to steal and devour a metal object from the target's inventory.</td></tr>
 </table>
