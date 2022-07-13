@@ -3,6 +3,10 @@ Faith, mastery of arcane nano-tech, abuse of psychoactive fungus, or mutation ha
 
 If you are not satisfied with the sample Gifts on offer, you may roll a completely random Gift. Simply roll once on the [Quality table](mystic-gifts.md#quality) and once on the [Form table](mystic-gifts.md#form) below to generate the name of your Gift. You may decide, along with the GM and the other players, what exactly this Gift does.
 
+## Psychic Gleam
+There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
+
+## Standard Gifts <!-- {docsify-ignore} -->
 |d20|SOURCE OF POWER|YOUR GIFT|
 |---|---------------|---------|
 |1|Mystical Crystal|Telekinesis|
@@ -75,6 +79,3 @@ If you are not satisfied with the sample Gifts on offer, you may roll a complete
 |18|Roots|Fog|Helix|Parasite
 |19|Beam|Mist|Web|Paradox
 |20|Cascade|Fragrance|Wound|Entropy
-
-## Psychic Gleam
-There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
