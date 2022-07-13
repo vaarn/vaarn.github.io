@@ -38,9 +38,6 @@ When the PCs encounter an NPC or creature whose reaction to the party is not obv
 **Psychic:** A creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
 
 **Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 
- 
-## Psychic Gleam
-There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
 
 ## Referee Principles
 
