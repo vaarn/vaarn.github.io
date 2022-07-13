@@ -36,6 +36,34 @@ The ingredients of an Elixir are **one Component**, which must be directly relat
 ## Antidotes
 Antidotes to the venom of toxic creatures can be brewed using the creature's venom as a Component. The Potency of the antidote is decided by the strength of the toxin: a d6 TOX attack requires a Potency 1 antidote, a d8 TOX attack requires a Potency 2 antidote, and so on. Ingesting an antidote prior to battle renders that character immune to the Toxin Dice inflicted by that creature. 
 
+## Sample Elixirs
+While the intent of the system is to allow the PCs to be creative in what they brew up, and to incentivise them to seek out unusual monsters in order to steal their powers, here are a few examples of Elixirs that might be brewed.
+
+### Babel Beer
+**Potency:** 1  
+**Component:** A tongue  
+**Effect:** Allows drinker to temporarily speak the languages known by the tongue’s owner. However, they will do so in the slurring, incoherent manner of one intoxicated.
+
+### Doppeldraught
+**Potency:** 2  
+**Component:** Pickled flesh of a [Doppelgeller](https://vaarn.github.io/#/bestiary?id=doppelgeller)  
+**Effect:** Drinker vomits up a jelly-clone of themselves. It resembles them but is translucent and mute. It will follow instructions, but dissolves after an hour.
+
+### Skulk Salve
+**Potency:** 3  
+**Component:** The synth-skin of a [Subtle Stalker](https://vaarn.github.io/#/bestiary?id=subtle-stalker)  
+**Effect:** Apply to flesh to become invisible for the next hour.
+
+### Geneshock Tonic
+**Potency:** 4  
+**Component:** A cacogen's heart  
+**Effect:** Drinker gains a new, permanent [mutation](https://vaarn.github.io/#/ancestries?id=mutations), matching that of the heart’s owner.
+
+### Immortality Injector
+**Potency:** 5  
+**Component:** The mercurial war-flesh of a [Quicksilver Exterminator](https://vaarn.github.io/#/bestiary?id=quicksilver-exterminator)  
+**Effect:** A biological creature injected with this fizzing froth of nanomachinery cannot die. It can be damaged beyond recognition, but the life will not leave its frame. This effect lasts for one day.
+
 # Toxin Dice
 While adventuring in Vaarn, characters may be exposed to poison, venom, radiation, or other toxins. The Toxin dice (TD) system is a way to track the harmful, lingering effects of such exposures. 
 
