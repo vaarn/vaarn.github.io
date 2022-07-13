@@ -786,7 +786,7 @@ _Biological_
 <tr><td colspan="2"><b>Attacks</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Walking, carnivorous plants, descended from a larger and more virulent species that was brought to Urth from the stars in a forgotten era. Xeric Triffids are adapted to a low moisture environment, with tough, thick skin and small waxy leaves. They remain rooted during the heat of the day, but become mobile at dawn and twilight, stalking on three large roots in search of prey.
 <br>
-<b>Blindness:</b>Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
+<b>Blindness:</b> Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
 </table>
 
 ## Yuckhog
