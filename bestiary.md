@@ -336,7 +336,7 @@ _Biological_
 <b>Beguiled:</b> Characters who have been Beguiled cannot harm the Gorgon, believing her to be the most beautiful creature they have ever seen. They may make an EGO save each round to attempt to fight off this insidious devotion. While Beguiled, they grovel and compete with one another for the Gorgon’s favour.
 <br />
 <b>Harem:</b> The Gorgon is accompanied by d10 personages of exceptional charm and comeliness; these are her favoured suitors, who have so far been spared the Gorgon’s appetites and make every attempt possible to please her. Stats as Bandits.</td></tr>
-  </table>
+</table>
 
 ## Greenguard
 _Synthetic_
