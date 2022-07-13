@@ -325,7 +325,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes.</td></tr>
   </table>
   
- ## Gorgon
+## Gorgon
 _Biological_
 <table>
 <tr><td><b>Level</b>: 9</td><td><b>Armour</b>: 16</td></tr>
