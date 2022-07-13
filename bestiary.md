@@ -170,6 +170,17 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and witLevelraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
 </table>
 
+## Copy Cat
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) / Clone Cough (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Pink-furred carnivore that reproduces exponentially, coughing up new copies like hairballs. Used as a biological weapon in a long-lost era.
+<br>  
+  <b>Clone Cough:</b> The Copy Cat coughs up a perfect copy of itself, with full HP.</td></tr>
+</table>
+
 ## Cosseting Chrysalid
 _Biological_
 <table>
@@ -205,7 +216,7 @@ _Biological_
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. 
 <br />
-Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
+  <b>Pack Attack:</b> Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
 </table>
 
 ## Faa Nomad
@@ -312,6 +323,19 @@ _Biological_
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Venomous Bite (d8 + d8 TOX)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes.</td></tr>
+  </table>
+  
+ ## Gorgon
+_Biological_
+<table>
+<tr><td><b>Level</b>: 9</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: Unique</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Constrict (d10) + 2 x Venom Spit (d8 TOX) / Captivating Gaze (All foes EGO save vs Beguiled)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A monstrous creature with the head of a ferociously beautiful woman and the body of a writhing mass of snakes. She is believed to be a pursuant of the Path Renewed, who sought eternal youth in the image of the Ouroboros, the world-serpent without end or beginning. She achieved the long-sought apotheosis, but at terrible cost, having shed her humanity like a rough and discarded skin, and lives her eternal life as a voracious chimera of odalisque and viper.
+<br />
+<b>Beguiled:</b> Characters who have been Beguiled cannot harm the Gorgon, believing her to be the most beautiful creature they have ever seen. They may make an EGO save each round to attempt to fight off this insidious devotion. While Beguiled, they grovel and compete with one another for the Gorgon’s favour.
+<br />
+<b>Harem:</b> The Gorgon is accompanied by d10 personages of exceptional charm and comeliness; these are her favoured suitors, who have so far been spared the Gorgon’s appetites and make every attempt possible to please her. Stats as Bandits.</td></tr>
   </table>
 
 ## Greenguard
@@ -444,6 +468,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Great pallid crocodilian coated in a symbiotic layer of living plastic. Following a successful bite, the Lamigator will deathroll its prey if it is in water. This deals d10 damage per turn with no to-hit roll needed. Victim must make an opposed STR save to break free.</td></tr>
 </table>
 
+## Laser Shrimp
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 10</td></tr>
+<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lasers (d4 beam)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Small synthetic shrimp that fire lasers. They are often used as guard animals.</td></tr>
+</table>
+
 ## Leopard Worm
 _Biological_
 <table>
@@ -469,6 +502,26 @@ _Biological_
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Frill-necked reptiles. Ill-tempered, territorial, like a crocodile that can sprint. Their skin is highly prized as a material for boots.</td></tr>
+</table>
+
+## Luxfoe Beetle
+_Biological_
+<table>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d4)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A nocturnal insect, enraged by artificial light. The beetle has a hard dark carapace and long, sharp mandibles. It will relentlessly attack any lantern or torch-bearing hand it comes across. Sometimes called helldiver bugs, due to their ill-fated penchant for assaulting the embers of a campfire.</td></tr>
+</table>
+
+## Mandrake
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d6) + Parasite Seeds (CON save vs Incubation)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Small, humanoid creatures, half-plant and half-crazed child. Hated due to their parasitic reproductive cycle. Mandrakes rest underground by day, before emerging from the desert soil by night to go hunting. Their aim is to cause humans to ingest their seeds, which will germinate into new Mandrakes.
+<br>
+  <b>Incubation:</b> The afflicted character fills an item slot with a Wound: ‘Incubating Mandrake’. Each day the Wound goes untreated, a new item slot is filled by an Incubating Mandrake. After seven days, the Mandrakes burrow out of the character, causing d6 damage per item slot occupied.</td></tr>
 </table>
 
 ## Memory Eater
@@ -516,6 +569,28 @@ _Synthetic_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Nerve-lash (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Victims of an insidious nanotech infestation, Nerve Crawlers are decaying human corpses whose neural pathways have been supplanted by a virulent nexus of silvery nano-nerves. These revenants crawl on their hands and knees, stiffly and slowly, seeking new hosts for the infection. When in range of prey, whips of silver nano-nerve burst from their spinal cord, lacerating anything in reach.</td></tr>
+</table>
+
+## Parched Man's Snare
+_Biological_
+<table>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: Rooted, Cannot Flee</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Snare (d6), followed by drowning (STR save vs d6 damage per round)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A giant, carnivorous plant that lurks in pools and oases, waiting to devour unwary travellers. The fleshy body of the Snare roots at the bottom of a pool, while its thorny vines trail in the water, moving towards any disturbances. The Snare hunts by grabbing animals while they drink and dragging them to the bottom of the lake or river, there to be drowned and absorbed into the Snare’s root structure. Cautious travellers know to test the water’s surface with a long pole before drinking, but those who have lost their wits from thirst find themselves easy prey to these plants.</td></tr>
+</table>
+
+## Phase Panther
+_Hypergeometric_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 11</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d10 hypergeometric) / Pounce</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Creatures woven from predatory hypergeometry, summoned by the mystics of lost eras to guard their mansions. They resemble great cats made of swirling colours, and can phase in and out of existence at will.
+  <br>
+<b>Phase:</b> At the start of each combat round, the Phase Panther may choose to phase out of reality. While phased, the panther can be seen but cannot be touched or damaged; it likewise cannot touch or harm any non-phased creature.
+  <br>
+<b>Pounce:</b> Targets of the Panther’s pounce must make an opposed DEX save; failure means that the target is pinned and will take 2d6 damage per round until the Panther can be dissuaded from mauling them.</td></tr>
 </table>
 
 ## Phthalo-Jackal
@@ -711,7 +786,7 @@ _Biological_
 <tr><td colspan="2"><b>Attacks</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Walking, carnivorous plants, descended from a larger and more virulent species that was brought to Urth from the stars in a forgotten era. Xeric Triffids are adapted to a low moisture environment, with tough, thick skin and small waxy leaves. They remain rooted during the heat of the day, but become mobile at dawn and twilight, stalking on three large roots in search of prey.
 <br>
-Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
+<b>Blindness:</b>Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
 </table>
 
 ## Yuckhog
