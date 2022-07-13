@@ -323,7 +323,7 @@ _Biological_
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Venomous Bite (d8 + d8 TOX)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes.</td></tr>
-  </table>
+</table>
   
 ## Gorgon
 _Biological_
