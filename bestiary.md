@@ -228,6 +228,17 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable.</td></tr>
 </table>
 
+## Feastbeast
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 10</td></tr>
+<tr><td><b>Morale</b>: Always Flees</td><td><b>Appearing</b>: d12</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Trample (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Placid, genesculpted herd animals. Somewhat like a pig and somewhat like a cow, with a hint of human in their eyes and ears.  
+<br />
+  <b>Organ Donor:</b> Feastbeasts have spare internal organs, all of which can be transplanted into a human. True-kin will always accept the transplant; cacogen must roll 1d6 for each mutation. If any die shows a 1, the transplant is rejected.</td></tr>
+</table>
+
 ## Flashhound
 _Hypergeometric_
 <table>
