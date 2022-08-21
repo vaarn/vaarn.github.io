@@ -167,7 +167,7 @@ _Biological_
 <tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
 <tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d8</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Festering Bite (d6 + d6 TOX)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and witLevelraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
 </table>
 
 ## Copy Cat
