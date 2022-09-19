@@ -429,9 +429,9 @@ _The Faa usually travel in family groups or larger clans, but others are solitar
 <tr><td>20</td><td>Yudhi</td><td>Volatile</td><td>Notorious Amongst Faa</td></tr>
 </table>
 
-### Special Rules
-__Desert Metabolism__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
-__Worm Wise__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
+### Special
+__DESERT METABOLISM__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
+__WORM WISE__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
 
 ## Cacklemaw Exile
 _The Cacklemaw are known throughout Vaarn as the most irritating, destructive, argumentative, vicious, foul-smelling, and fundamentally nasty creatures that walk the surface of the Urth._  
@@ -486,9 +486,9 @@ _Try to imagine, then, how badly behaved a Cacklemaw must be before the other Ca
 <tr><td>20</td><td>Zef</td><td>Calculating</td><td>Puns</td></tr>
 </table>
 
-### Special Rules
-__No Quarter__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
-__Biter__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
+### Special
+__NO QUARTER__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
+__BITER__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
 
 ## Lithling
 _Strange beings even by the standards of Vaarn, the Lithling are a slow, solemn species with a silicon-based biology that surely originates in a solar system far away from Urth. They are solitary by nature, concerned mainly with the opinions of other Lithling and the esoteric academic studies they devote their long lives to._  
@@ -543,9 +543,9 @@ _Adult lithling cannot repair their bodies when they have been injured, and so, 
 <tr><td>20</td><td>Ziest</td><td>Stern</td><td>Silence</td><td>Face Rotates</td></tr>
 </table>
 
-### Special Rules
-__Crystalline Flesh__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
-__Inevitable__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
+### Special
+__CRYSTALLINE FLESH__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
+__INEVITABLE__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
 
 ## Planeyfolk
 _The study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
@@ -600,6 +600,6 @@ _Planeyfolk are the descendants of such unfortunates, a race fathered by men who
 <tr><td>20</td><td>Trout</td><td>Volatile</td><td>You Never Match the Ambient Light</td></tr>
 </table>
 
-### Special Rules
-__Flat__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
-__Attune with Matter__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
+### Special
+__FLAT__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
+__ATTUNE WITH MATTER__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
