@@ -557,7 +557,7 @@ _Planeyfolk are the descendants of such unfortunates, a race fathered by men who
 <tr><td>1</td><td>Fractured</td><td>Impressionistic</td><td>Flickering</td><td>Dark</td></tr>
 <tr><td>2</td><td>Cloven</td><td>Broken</td><td>Insubstantial</td><td>Unruly</td></tr>
 <tr><td>3</td><td>Flimsy</td><td>Lantern-like</td><td>Curved</td><td>Scholarly</td></tr>
-<tr><td>4</td><td><Willowy/td><td>Crescent Moon</td><td>Voluminous</td><td>Masked</td></tr>
+<tr><td>4</td><td>Willowy</td><td>Crescent Moon</td><td>Voluminous</td><td>Masked</td></tr>
 <tr><td>5</td><td>Curved</td><td>Full Moon</td><td>Opalescent</td><td>Wild</td></tr>
 <tr><td>6</td><td>Elongated</td><td>Luminous</td><td>Shaven</td><td>Polychromic</td></tr>
 <tr><td>7</td><td>Staccato</td><td>Angular</td><td>Iridescent</td><td>Fractal</td></tr>
