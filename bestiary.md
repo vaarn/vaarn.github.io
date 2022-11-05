@@ -298,7 +298,7 @@ _Biological_
 <b>Copy-claws:</b> A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
 </table>
 
- ## Ghoul
+##  Ghoul
 _Biological_
 <table>
 <tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
@@ -434,6 +434,35 @@ _Hypergeometric_
 Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
 </table>
 
+## Hydra Colony
+_Biological_
+<table>
+<tr><td><b>Level</b>: 20</td><td><b>Armour</b>: 09</td></tr>
+<tr><td><b>Morale</b>: Immobile; Cannot Flee</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: via d3 <b>Hydra Tentacles</b> + Fresh Growth (special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A vast immobile colony of semi-intelligent hydrozoa. A mature Hydra is a mass of translucent blue jelly, roughly the size and weight of an adult elephant. The colony takes root in an aquatic environment and exudes hunting tentacles to ensnare prey, destined to be absorbed by the bulk of the colony. The Hydra Colony regenerates 10 hp per round unless burnt or doused in acid.
+<br>
+<b>Fresh Growth:</b> the colony spends 20 hp to produce a new Hydra Tentacle. This may be performed once per round.</td></tr>
+</table>
+
+## Hydra Polyp
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d8 per Colony</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Engulf (d6 ongoing, STR save to break free)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The slow-moving offshoot of a Hydra colony. Lurid blue, translucent jelly-flesh. The Polyp seeks to absorb enough biomass to root and establish a fully-fledged colony. Hydra Polyps regenerate 2 hp per round unless burnt or doused in acid.</td></tr>
+</table>
+
+## Hydra Tentacle
+_Biological_
+<table>
+<tr><td><b>Level</b>: 7</td><td><b>Armour</b>: 17</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d3 per Colony</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Strangle (d10 ongoing, STR save to break free)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The hunting appendage of a Hydra colony. Lurid blue, translucent jelly-flesh. Hydra tentacles are fast-moving, strong, and fearless. The tentacles are blind but have acute hearing, and attempt to throttle their prey, and draw them down into the main body of the colony to be devoured. Hydra Tentacles regenerate 4 hp per round unless burnt or doused in acid. If severed they reanimate within an hour.</td></tr>
+</table>
+
 ## Indigo Servitor
 _Biological_
 <table>
@@ -513,6 +542,17 @@ _Biological_
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d8)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Frill-necked reptiles. Ill-tempered, territorial, like a crocodile that can sprint. Their skin is highly prized as a material for boots.</td></tr>
+</table>
+
+## Lurid Lobster
+_Biological_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claw (d8) + Claw (d8) / Lurid Spray (blast, CON save vs d6 rounds of Blindness)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An enormous, ill-tempered lobster with an abdomen filled with luminous toxins. The creature ambushes prey from underwater, spewing incandescent ink everywhere before attempting to grab a single group member and escape with the living prize. 
+<br>
+<b>Blindness:</b> Characters blinded by the Lobster’s spit make melee attacks with Disadvantage. They cannot use ranged weapons.</td></tr>
 </table>
 
 ## Luxfoe Beetle
@@ -662,6 +702,19 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Towering tumorous mutant. Will regenerate d8 HP per round unless burned or covered in acid.</td></tr>
 </table>
 
+## Rustacean
+_Biological / Synthetic_
+<table>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Big Claw (d10, corrosive) + Small Claw (d6, corrosive)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A crab-like amalgam of chitinous shell and rampant nanotech. The Rustacean feeds on metal corroded by its unusual biology. It is highly territorial and will attack non-metallic creatures as part of a dominance display. 
+<br>
+<b>Corrosion:</b> a hit from the Rustacean’s claws will corrode a metal item in the target’s inventory, rendering it useless. Armour corroded in this fashion loses -1 Defence per hit. Synthetic PCs damaged by corrosive claws also suffer d4 CON loss. 
+<br>
+If there is debate about which item should be corroded by a hit, flip a coin. On heads the players choose, on tails the Rustacean does. </td></tr>
+</table>
+
 ## Sandworm (Adult)
 _Biological_
 <table>
@@ -689,6 +742,17 @@ _Hypergeometric / Synthetic_
 <tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
 <br />
 <b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
+</table>
+
+## Shriekman
+_Biological_
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) + Claws (d8) / Hypersonic Scream (d6 + DEX save vs Deafened)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Abhuman troglodytes, blind and cunning. Their protruding ears and fanged maws give them a grotesque bat-like aspect. They are excellent climbers and can attack from any angle within the depths they inhabit. 
+<br />
+<b>Deafened:</b> PCs who have been deafened by a hypersonic scream gain the Wound ‘Deafened’. They cannot hear the speech of other PCs. When the party rests, Deafened PCs must EGO save to ignore the ringing in their ears and fall asleep. If they fail they do not benefit from a Long Rest.
 </table>
 
 ## Stumbling Drone
