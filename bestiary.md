@@ -477,8 +477,10 @@ _Synthetic_
 <table>
 <tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 16</td></tr>
 <tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Claws (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Silvery synthetic carrion eaters that ride the air currents above the blue sands, scent-sensors attuned for the slightest hint of decay. They are not interested in living beings, but will attack to defend a carcass.</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d6) / Corpseshuck (takes one round, instant death when target at 0 HP)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Silvery synthetic carrion eaters that ride the air currents above the blue sands, scent-sensors attuned for the slightest hint of decay. They are not interested in living beings, but will attack to defend a carcass. 
+<br>
+<b>Corpseshuck:</b> Iridium Vultures fanatically attack biological PCs who fall to 0 HP or less, attempting to break their body open and drain out the innards. This lethal attack takes a whole combat round to execute and can be interrupted by other PCs</td></tr>
 </table>
 
 ## Juggernaut
