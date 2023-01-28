@@ -143,6 +143,30 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Severely mutated humans that resemble enormous ambulatory torsos. They have a primitive, furious face on their chest, and tiny vestigial arms. They are unintelligent but ferocious and will pursue prey for miles.</td></tr>
 </table>
 
+## Chernobog
+_Biological_
+<table>
+<tr><td><b>Level</b>: 12</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claw (d10) + Bite (d12) + Black Cloud (2 damage, aura, doubles each round)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A dread creature from beyond the stars, brought to Urth in the hold of an Aurum Barge. The Chernobog is a colossal, black-furred beast, described as 'a child of mongoose and serpent, two foes united under one foul banner'. The creature is an apex predator on the benighted sphere it hails from, hunting by ambush in dark and forgotten places. It prefers caves and the labyrinthine basements of ruined structures as lairs, rarely venturing above ground.
+<br> 
+If this were not terrible enough, the beast emits a noxious gas from facial glands when enraged, choking and blinding its victims. The Chernobog uses these black clouds to corral prey or cover its escape.
+<br>
+<b>Black Cloud:</b> each round the Chernobog emits a cocktail of corrosive and hazardous fumes, dealing 2 damage to every character in the room. The cloud's strength doubles with each subsequent combat round. After three rounds all PCs are fighting as if blinded. 
+<br>
+<b>Cave Fighter:</b> the Chernobog strikes with Advantage in enclosed spaces or against blinded creatures.</td></tr>
+</table>
+
+## Chimera
+_Biological_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Fire Breath (d12 blast) + Goat Horns (d10) + Snake Spit (d8 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Monstrous hybrids, birthed from a marriage of cybernetics and sorcerous gene-sculpting. The Chimera is a combination of three animals: traditionally the bodies of a lion, a goat, and a snake were used, but sometimes other animals were substituted instead. Trained Chimera were utilised as weapons of war during the fallen Autarchy, implanted with flamethrowers and other devices.</td></tr>
+</table>
+
 ## Chrome-Feathered Sailback
 _Biological_ / _Synthetic_
 <table>
@@ -170,6 +194,15 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
 </table>
 
+## Cobra-Moth
+_Biological_
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 11</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d6) + Sting (d8 TOX)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A strange hybrid of a cobra and a moth. Its body is a mix of scales and white fur, with a long, segmented tail. It has four wings and two large fangs, and a curved stinger at the end of its tail. The beast is nocturnal, but unfortunately is drawn to investigate torchlight and campfires. </td></tr>
+</table>
+
 ## Copy Cat
 _Biological_
 <table>
@@ -186,8 +219,8 @@ _Biological_
 <table>
 <tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1 / d6 in lair</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Sting (CON save vs Sleep) </td></tr>
-<tr><td colspan="2"><b>Notes</b>: Flying, moth-like surgeons. Driven to abduct human beings and subject them to dubious medical interventions. Their sting forces biological creatures make a CON save: failure results in the creature falling into a deep, dreamless sleep for several hours. The Chrysalid will then wrap them inside a cocoon, where they will sleep for d6 days. Upon awakening, patients of the Chrysalid will find their HP restored to maximum, all Wounds or other ailments healed, and must roll on the <a href="vaarn.github.io/#/ancestries?id=mutations">mutations</a> table to discover how the Chrysalid’s imperfect medical knowledge has impacted them.</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Sting (CON save vs Sleep) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: Flying, moth-like surgeons. Driven to abduct human beings and subject them to dubious medical interventions. Their sting forces biological creatures make a CON save: failure results in the creature falling into a deep, dreamless sleep for several hours. The Chrysalid will then wrap them inside a cocoon, where they will sleep for d6 days. Upon awakening, patients of the Chrysalid will find their HP restored to maximum, all Wounds or other ailments healed, and must roll on the <a href="vaarn.github.io/#/ancestries?id=mutations">mutations</a> table to discover how the Chrysalid’s imperfect medical knowledge has impacted them.</td></tr>
 </table>
 
 ## Daggertrunk
@@ -378,6 +411,39 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Creepy gangly giant insects. Normally scavengers, but will attack humans if they think they can get away with it. Their spit forces a CON save. Failure results in disadvantage on all saves for one round due to vomiting.</td></tr>
 </table>
 
+## Grimpet
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d10 (+ d3 Grimweavers)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Stab (d6) followed by Latch (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Grimpet drones are small, spider-like robots with a thick plasteel shell on their backs. They are usually found within ancient ruins, and have a simple goal: to guard their designated area and capture any intruders. They attempt to do this by swarming over their enemies, before latching onto their bodies and emitting a piercing shriek to alert other security drones. Grimpets will not pursue beyond the boundaries of the ruin they guard.
+<br>
+<b>Latch:</b> a latched Grimpet has burrowed its clawed legs deep into the flesh of its foe, and will cling on indefinitely. Afflicted PCs must fill one item slot with a Wound: 'Grimpet'. While latched to an intruder, the Grimpet emits a horrid wail, which attracts the attention of all monsters within earshot. The Grimpet will resist attempts to prise it off, and requires surgical attention.</td></tr>
+</table>
+
+## Grimweaver
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d3 (+ d10 Grimpets)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d8) / Web Shot (Entangled + d4 STR drain)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A larger, more powerful cousin of the Grimpet, Grimweavers were created as sentinels for ancient sites. They spit a nanofibre web that can ensnare even the strongest of creatures, immobilising an intruder and draining their strength. They are rarely encountered alone, instead leading swarms of Grimpet drones. Grimweavers will not pursue beyond the boundaries of the ruin they guard.
+<br>
+<b>Entangled:</b> an Entangled creature has an Armour Defence of 09, and cannot move freely. The target must make a DEX save to break free.</td></tr>
+</table>
+
+## Gruk
+_Biological_
+<table>
+<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 0</td><td><b>Appearing</b>: 2d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d4)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Diminutive abhumans, which resemble bipedal mole-rats. They dress in hooded robes to shield their  hairless scalps from the sun. Gruks are eusocial creatures, dwelling in underground hives of 8d10 individuals. A single fertile Queen bears litters of sterile, short-lived children, who shoulder the work of the hive: digging tunnels, farming fungus, and keeping their mother safe from attack. When the reigning Queen dies the hive splits, the suitors of each newly-fertile Princess striking out across the desert in search of a new home.
+<br>
+Gruks are intelligent, although not very imaginative. They utilise scavenged technology, but cannot learn from what they find. They are born knowing how to make standardised furniture and clothing, and grow uneasy when asked to deviate from these forms. A Gruk would prefer to sleep on the floor than in a bed with an unfamiliar shape.</td></tr>
+</table>
+
 ## Hagfluke
 _Biological_
 <table>
@@ -490,6 +556,31 @@ _Synthetic_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Crush (d12)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets, but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire, and in so doing make them one with its ever-roving axis.</td></tr>
+</table>
+
+## Kerberos
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d8)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The platonic ideal of a hound, a faithful companion forged from plasteel and synthskin. The Kerberos is designed to bond with one primary user, and will obey their every command. A Kerberos synth is compassionate, intelligent, and devoted: once thought the ideal gift for a nobleborn child.
+<br>
+Sadly the designers of this machine did not consider the effect upon the Kerberos unit when its bonded user died of old age. Grief-stricken packs of synth-hounds wander the blue ruins, howling to the ailing sun and praying for the day their undying bodies fail them. Sometimes the beasts mistake a traveller for their lost master, although the inevitable discovery of their error can drive the synth-dogs into mad fits of rage.
+<br>
+<b>Exotica:</b> an inactive Kerberos, still sealed in its factory packing, can serve as an item of Exotica. If a PC places a single drop of blood on the synth-hound's tongue, the Kerberos will awaken and bond with them, becoming the PC's loyal follower for the rest of the campaign.</td></tr>
+</table>
+
+## Kronophage
+_Outsider_ / _Mineral_
+<table>
+<tr><td><b>Level</b>: 7</td><td><b>Armour</b>: 22</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: Unique</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Borrowed Time (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Manifold crystals orbit a nucleus of collapsing space-time. A paradox made sentient, an ulcer on causality that steals the past from those it beholds.
+<br>
+<b>Borrowed Time:</b> the Kronophage drains years from its victim’s past, present, and future. The target loses a Level. They must roll 1d8 and subtract the result from their maximum HP, and subtract three points from their maximum ability defences. The Kronophage gains a Level permanently. PCs reduced below Level 0 by the Kronophage are worse than dead; they never existed at all, and their equipment vanishes with them.
+Slaying the monster restores all lost time to those it fed upon. PCs regain their lost Levels.</td></tr>
 </table>
 
 ## Lambent Lynx
@@ -826,6 +917,19 @@ After a successful grab, the snare will roll away across the dunes with its prey
 Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
 </table>
 
+## Void Dragon
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 15</td><td><b>Armour</b>: 30</td></tr>
+<tr><td><b>Morale</b>: 15</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>:  Annihilation Ray (2d10 + 3d6 blast)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A gigantic flying war-synth, armoured with interlocking plates of void-tempered metal. Its multiple sets of wings are powered by a cold fusion reactor, and it emits a powerful beam of concentrated antimatter that can boil solid rock. The creature is geared to fight in the air, in orbit, beneath the waves, or inside a paradoxical pocket dimension with equal ferocity.
+<br>
+These beings are always found dormant, conserving their energy for the apocalypse of all apocalypses, an extrasolar war that never broke out. Some sleep in high-altitude arbors orbiting the Urth, while others slumber upon great hoards of gleaming superconductors, in the deepest lead-lined warvaults beneath Vaarn. A few fools have sought to rouse these giants: none have returned to speak of it.
+<br>
+<b>Enormous:</b> the Void Dragon is so large that PCs can enter its body through coolant vents, if they are able to attach themselves to its carapace as it flies. Finding the Dragon's core reactor and destroying it will send the creature into a lethal meltdown.</td></tr>
+</table>
+
 ## Voidmaw
 _Biological / Synthetic_
 <table>
@@ -833,7 +937,7 @@ _Biological / Synthetic_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d12) + Swallow Whole (Special)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and synthetic void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.
-<br />
+<br>
 <b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s Armour score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
 </table>
 
