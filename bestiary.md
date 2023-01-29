@@ -706,6 +706,18 @@ _Biological_
 Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
 </table>
 
+## Negativfolk
+_Outsider_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Hug (d6 damage) / Knife (d6 heal)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Inverted, photonegative-hued people who walk and speak backwards. They wander the blue dunes in family groups, receding from their point of origin in strange halting meanders.
+<br>
+<b>Opposite Day:</b> Negativfolk always do the opposite of what you ask them, and make every action in reverse. They eject un-chewed food back onto empty plates, blue negativblood flows back into their wounds, and the less said about other private functions the better. They react poorly to compliments, hugging or shaking the hand of their foes with lethal results. Hurling abuse at a Negativman may earn you a healing bullet between the eyes. Negativfolk can only be harmed with healing items, and will be healed by damage.
+</td></tr>
+</table>
+
 ## Nerve Crawler
 _Synthetic_
 <table>
@@ -848,6 +860,19 @@ _Biological_
 <b>Deafened:</b> PCs who have been deafened by a hypersonic scream gain the Wound ‘Deafened’. They cannot hear the speech of other PCs. When the party rests, Deafened PCs must EGO save to ignore the ringing in their ears and fall asleep. If they fail they do not benefit from a Long Rest.
 </table>
 
+## Spectre of Indifference
+_Outsider_
+<table>
+<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11</td></tr>
+<tr><td><b>Morale</b>: 15</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Envelop (d8 EGO drain)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A living fragment of the void between dimensions. A ghastly, hue-less shroud of antilife that feeds upon conscious thought. Encountered near extra-dimensional rifts. For reasons unknown, they cannot feed on children or be perceived by them.
+<br>
+<b>Incorporeal:</b> a Spectre is immune to damage from conventional sources. Only hypergeometric or anti-paradoxical weapons will harm it.
+<br>
+<b>Indifference:</b> those reduced to 0 EGO by a Spectre’s touch do not die, but are empty of intent and consumed by a terrible blankness. They will not react to any stimuli, and die of thirst without intravenous fluids.</td></tr>
+</table>
+
 ## Stumbling Drone
 _Synthetic_
 <table>
@@ -873,7 +898,7 @@ _Biological_
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: 4 x Claws (d6) + Bite (2d6) + Aura (d8 unblockable, Special)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an armoured vehicle. It attacks from ambush and rapidly raises the temperature of its flesh to furnace-like levels, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption.
-<br />
+<br>
 <b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering.</td></tr>
 </table>
 
