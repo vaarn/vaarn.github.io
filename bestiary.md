@@ -134,7 +134,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: War Mamas are the largest, meanest, and most cunning Cacklemaw in the pack. They lead from the front, and must be seen to savour the violence lest they be challenged by one of their underlings. For this reason War Mamas will never retreat from combat if other Cacklemaw are alive to witness it.</td></tr>
 </table>
 
-## Cacogen Psuedo-Giant
+## Cacogen Pseudo-Giant
 _Biological_
 <table>
 <tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 15</td></tr>
