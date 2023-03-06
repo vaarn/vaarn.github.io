@@ -872,6 +872,19 @@ _Outsider_
 <br>
 <b>Indifference:</b> those reduced to 0 EGO by a Spectre’s touch do not die, but are empty of intent and consumed by a terrible blankness. They will not react to any stimuli, and die of thirst without intravenous fluids.</td></tr>
 </table>
+  
+## Star Vampire
+_Outsider_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 25 (15 Visible)</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Tentacles (d8) / Latch (d4 CON drain)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: To Urth they came, long hungering, riding radiation-waves in the silence like fungal spores roil upon the wind. Our light does not love them as it does terrestrial creatures and so these cosmic vagrants are without shadow or hue possessing only unseen form. Those unfortunates who glimpse them are given mind of a withered tree or an octopus inverted and affixed with needles. In their hunger they offer travellers an embrace and flush sunset red when distended with fluid. 
+<br>
+<b>Invisible:</b> Star Vampires are invisible under conventional light sources. Infrared or ulfire light will reveal their true shapes. Once the Vampire latches and begins feeding the creature is visible, as red blood flows through its occluded body. When visible their Armour Defense drops to 15. Star Vampires always surprise when encountered.
+<br>
+<b>Star Flesh:</b> the Vampire takes minimum damage from kinetic attacks. Hypergeometric and electrified weapons deal damage as normal.</td></tr>
+</table>
 
 ## Stumbling Drone
 _Synthetic_
