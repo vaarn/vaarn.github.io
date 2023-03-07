@@ -32,7 +32,7 @@ Alternatively, an attack roll can also be resolved by the defender rolling a d20
 On a hit, the attacker rolls their weapon's damage die to determine how many __Hit Points__ (__HP__) the defender loses. A bonus damage die of the weapon's type may be added to the roll if the ideal weapon was used against an enemy type.
 
 ## Wounds and Healing
-When a character takes damage and their remaining HP drops below 0, they receive corresponding **Wounds** from the chart below. Wounds occupy item slots. If 10 item slots fill with Wounds, the character dies. A character also dies if any ability defense drops to 0. When a character is healed, their HP recovers as though starting from 0.
+When a character takes damage and their HP drops below 0, they receive a corresponding **Wound** from the chart below. Their HP remains at a negative value until they are healed, with all subsequent damage incurring more severe Wounds. Wounds occupy item slots. If 10 item slots fill with Wounds, the character dies. A character also dies if any ability defense drops to 0. When a character is healed, their HP recovers as though starting from 0.
 
 |DAMAGE PAST 0HP|WOUND|SLOTS|DESCRIPTION|
 |---------------|-----|-----|-----------|
