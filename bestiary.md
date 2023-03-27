@@ -200,7 +200,7 @@ _Biological_
 <tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 11</td></tr>
 <tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: d3</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6) + Sting (d8 TOX)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: A strange hybrid of a cobra and a moth. Its body is a mix of scales and white fur, with a long, segmented tail. It has four wings and two large fangs, and a curved stinger at the end of its tail. The beast is nocturnal, but unfortunately is drawn to investigate torchlight and campfires. </td></tr>
+<tr><td colspan="2"><b>Notes</b>: A strange hybrid of a cobra and a moth. Its body is a mix of scales and white fur, with a long, segmented tail. It has four wings and two large fangs, and a curved stinger at the end of its tail. The beast is nocturnal, but unfortunately is drawn to investigate torchlight and campfires. </td></tr>
 </table>
 
 ## Copy Cat
@@ -838,6 +838,78 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology.</td></tr>
 </table>
 
+## Scullcrab
+_Biological_
+<table>
+<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d10</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: A reviled parasite, somewhat like a flabby shell-less crab, which seeks to latch onto the skull of a human being and chew through it, taking control of their brain. Characters reduced to 0 EGO by the Scullcrab become a Zombie, still conscious but unable to control their body, piloted around by the parasite.
+</table>
+
+## Scullcrab, Fast
+_Biological_
+<table>
+<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d10</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: A lanky, fast-moving variant of the Scullcrab. Likely a weaponised evolution of its slower cousin. Characters reduced to 0 EGO by the Fast Scullcrab become a Fast Zombie, still conscious but unable to control their body, piloted around by the parasite.
+<br>
+<b>Fast:</b> Fast Scullcrabs always win initiative.
+</table>
+
+## Scullcrab, Toxic
+_Biological_
+<table>
+<tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Bite (CON Save vs Neurotoxin) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: A long-legged, black-fleshed variant of the Scullcrab, sporting large poisonous fangs. Likely a weaponised evolution of its non-toxic cousin. Characters reduced to 0 EGO by the Toxic Scullcrab become a Toxic Zombie, still conscious but unable to control their body, piloted around by the parasite.
+<br>
+<b>Neurotoxin:</b> biological creatures inflicted with neurotoxin lose all remaining HP. If inflicted with neurotoxin while in negative HP, the character dies immediately. 
+</table>
+
+## Scullcrab Zombie
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 13</td></tr>
+<tr><td><b>Morale</b>: Never Flees</td><td><b>Appearing</b>: d8</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Claws (d8) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: What was once a human being, now puppeted by a Scullcrab, twisted by its rider into a goresoaked, dagger-clawed husk. A zombie is forced to seek out new victims for the parasites. Slow moving, relentless, and utterly without fear or mercy. 
+<br>
+<b>Abandon Ship:</b> on death, the Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this.
+<br>
+<b>Slow:</b> Zombies always lose initiative.
+</table>
+
+## Scullcrab Zombie, Fast
+_Biological_
+<table>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: Never Flees</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claws (d8)/ Pounce (DEX save vs Pinned, 2d6 damage ongoing) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: Fast Scullcrabs impose a metamorphic horror on their hosts. The zombie’s body sheds skin and fat, becoming a lanky, elongated nightmare of muscle and exposed bone. Razorous claws complete the picture. Fast Zombies are adept climbers and swimmers, unlike their slower relatives. 
+<br>
+<b>Abandon Ship:</b> on death, the Fast Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this.
+<br>
+<b>Fast:</b> Fast Zombies always win initiative.
+</table>
+
+## Scullcrab Zombie, Toxic
+_Biological_
+<table>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: Never Flees</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claws (d8) / Toxic Scullcrab Fling (Special) </td></tr>
+<tr><td colspan="2"><b>Notes</b>: Toxic Scullcrabs inflict monstrous degradations on the human beings they puppet, their host’s body bloating to twice its natural size due to the constant flow of neurotoxins into their flesh. Their swollen frames become nurseries for a new generation of Toxic Scullcrabs, which roost upon their hunched backs. 
+<br>
+<b>Toxic Scullcrab Fling:</b> the Zombie pulls a Toxic Scullcrab from its back and throws it at a target. On a hit, the target is bitten and must CON save vs Neurotoxin (see Toxic Scullcrab).
+<br>
+<b>Abandon Ship:</b> on death, d4 Toxic Scullcrabs eject from the zombie’s bpdy to seek a new host. Explosives or fire prevent this.
+<br>
+<b>Slow:</b> Toxic Zombies always lose initiative.
+</table>
+  
 ## Scythesliver
 _Hypergeometric / Synthetic_
 <table>
@@ -879,7 +951,7 @@ _Outsider_
 <tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 25 (15 Visible)</td></tr>
 <tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d3</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: 2 x Tentacles (d8) / Latch (d4 CON drain)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: To Urth they came, long hungering, riding radiation-waves in the silence like fungal spores roil upon the wind. Our light does not love them as it does terrestrial creatures and so these cosmic vagrants are without shadow or hue possessing only unseen form. Those unfortunates who glimpse them are given mind of a withered tree or an octopus inverted and affixed with needles. In their hunger they offer travellers an embrace and flush sunset red when distended with fluid. 
+<tr><td colspan="2"><b>Notes</b>: To Urth they came, long hungering, riding radiation-waves in the silence like fungal spores roil upon the wind. Our light does not love them as it does terrestrial creatures and so these cosmic vagrants are without shadow or hue possessing only unseen form. Those unfortunates who glimpse them are given mind of a withered tree or an octopus inverted and affixed with needles. In their hunger they offer travellers an embrace and flush sunset red when distended with fluid. 
 <br>
 <b>Invisible:</b> Star Vampires are invisible under conventional light sources. Infrared or ulfire light will reveal their true shapes. Once the Vampire latches and begins feeding the creature is visible, as red blood flows through its occluded body. When visible their Armour Defense drops to 15. Star Vampires always surprise when encountered.
 <br>
