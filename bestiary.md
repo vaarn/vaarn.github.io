@@ -847,7 +847,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: A reviled parasite, somewhat like a flabby shell-less crab, which seeks to latch onto the skull of a human being and chew through it, taking control of their brain. Characters reduced to 0 EGO by the Scullcrab become a Zombie, still conscious but unable to control their body, piloted around by the parasite.
 </table>
 
-## Scullcrab, Fast
+## Scullcrab (Fast)
 _Biological_
 <table>
 <tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 16</td></tr>
@@ -858,7 +858,7 @@ _Biological_
 <b>Fast:</b> Fast Scullcrabs always win initiative.
 </table>
 
-## Scullcrab, Toxic
+## Scullcrab (Toxic)
 _Biological_
 <table>
 <tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 13</td></tr>
@@ -882,7 +882,7 @@ _Biological_
 <b>Slow:</b> Zombies always lose initiative.
 </table>
 
-## Scullcrab Zombie, Fast
+## Scullcrab Zombie (Fast)
 _Biological_
 <table>
 <tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 15</td></tr>
@@ -895,7 +895,7 @@ _Biological_
 <b>Fast:</b> Fast Zombies always win initiative.
 </table>
 
-## Scullcrab Zombie, Toxic
+## Scullcrab Zombie (Toxic)
 _Biological_
 <table>
 <tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
@@ -909,6 +909,7 @@ _Biological_
 <br>
 <b>Slow:</b> Toxic Zombies always lose initiative.
 </table>
+  
   
 ## Scythesliver
 _Hypergeometric / Synthetic_
