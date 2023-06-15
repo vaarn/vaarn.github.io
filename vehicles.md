@@ -87,7 +87,7 @@ _Mechanical_
 <table>
 <tr><td><b>Hull Points</b>: 20</td><td><b>Armour</b>: 22</td></tr>
 <tr><td><b>Speed</b>: Dependant on winds</td><td><b>Value</b>: Very High</td></tr>
-<tr><td colspan="2"><b>Armaments</b>: Traditionally unarmed, but crew will include d6 Level 2 guards.</td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Traditionally unarmed, but crew will include d6 Level 2 guards</td></tr>
 <tr><td colspan="2"><b>Notes</b>: A wooden cargo ship, built around a large sky-seeking stone. These barges are used by the merchant guilds of Vaarn to transport goods across the blue sands. Some are elegant and ornate vessels, while others are heavy and utilitarian. They are usually unarmed by ancient custom, although it would be a foolish merchant who ventured into the wastelands without guards onboard.</td></tr>
 </table>
 
@@ -96,6 +96,6 @@ _Mechanical_
 <table>
 <tr><td><b>Hull Points</b>: 10</td><td><b>Armour</b>: 14</td></tr>
 <tr><td><b>Speed</b>: Relaxed</td><td><b>Value</b>: </td></tr>
-<tr><td colspan="2"><b>Armaments</b>: Bombs (d10 blast).</td></tr>
+<tr><td colspan="2"><b>Armaments</b>: Bombs (d10 blast)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Elegant, refined flying machines. Relics of a more genteel age. Most Vaarnish zeppelins hail from the Great Wall, dispatched on trading sojourns or diplomatic missions by one of the Queens.</td></tr>
 </table>
