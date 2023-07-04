@@ -1024,7 +1024,7 @@ _Outsider_
 <br>
 <b>Indifference:</b> those reduced to 0 EGO by a Spectre’s touch do not die, but are empty of intent and consumed by a terrible blankness. They will not react to any stimuli, and die of thirst without intravenous fluids.</td></tr>
 </table>
-  
+
 ## Star Vampire
 _Outsider_
 <table>
