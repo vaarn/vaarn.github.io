@@ -56,6 +56,22 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Ragged desperate robbers that plague the Blue Ruins.</td></tr>
 </table>
 
+## Banisher
+_Synthetic_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Banish (Special Grab) / Summon (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Titan AIs were charged with preserving human life wherever possible. The Banishers were an attempt at creating non-lethal security synths. They take the shape of enormous six-fingered hands, which grasp intruders and evict them using teleportation loci embedded in their palms.
+<br />
+<b>Non-lethal:</b> Banishers are forbidden from killing sentient life. They will first ask you to leave the vault, and lecture you about trespassing.
+<br />
+<b>Banish:</b> the Banisher grabs an intruder and teleports them to a designated eviction zone. Traditionally this is the entrance to the vault, although sometimes more punitive locations are chosen.
+<br />
+<b>Summon:</b> truly vexed Banishers, when faced with repeat offenders, may teleport in other creatures from the vault to deal with you permanently. Roll on the encounter table for this floor. The summoned creature is not loyal to the Banisher.
+</td></tr>
+</table>
+
 ## Battle Boar
 _Biological_ / _Synthetic_
 <table>
@@ -232,6 +248,19 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Dwarf vampire elephants. It is unclear if these pests were gene-sculpted for a purpose or simply as a jest, but they escaped into the wild and have become a viable Vaarnish species. Roughly the size of a goat, they feed on blood which their razor-tipped trunks drain from sleeping animals and the folk of Vaarn alike. Daggertrunks are highly intelligent, surprisingly stealthy, and very cowardly. They will approach sleeping PCs at night and attempt to siphon blood from their ankles or necks.</td></tr>
 </table>
 
+## Desiccator
+_Biological_  
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: Never Flees</td><td><b>Appearing</b>: d3</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Desiccate (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Slow-moving fibrous colony organism, resembling a tangle of hairy glass ropes. Driven by a mindless unquenchable thirst. The Desiccator assails other living beings with a multitude of tiny needles and extracts their water with merciless efficiency.
+<br />
+<b>Desiccate:</b> a biological target loses the water in their body. After one hit, they are Deprived due to thirst. After two hits, they lose d6 CON as the water in their organs is extracted. A third hit is lethal. Additionally, the Desiccator drinks one ration of water from target’s inventory per hit.
+<br />
+<b>Slow:</b> the Desiccator always loses initiative and cannot surprise.</td></tr>
+</table>
+
 ## Doppelgeller
 _Biological_  
 <table>
@@ -239,6 +268,17 @@ _Biological_
 <tr><td><b>Morale</b>: 12</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Special</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Biotech blob. When it successfully scores a hit, it will begin spawning jelly-clones of the PC to hit. It does so once per round. The clones are naked, insane, and homicidally attack the PC they were copied from. They have 5 HP, Armour 10, and the ability scores of the PC they cloned.</td></tr>
+</table>
+
+## Entropy Wight
+_Hypergeometric / Outsider_
+<table>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Entropic Touch (d3 Max HP reduction + Armour damage)</td></tr>
+<tr><td colspan="2"><b>Notes</b>:Cursed revenants, the remains of those who thought to master entropy and instead became her servants. All things wither at their touch, ageing centuries beneath the Wight’s sour grasp. 
+<br />
+  <b>Entropic Touch:</b> targets struck by the Wight lose d3 maximum HP, and lose d3 points of Armour Defense if they are wearing armour. Hit Points lost in this way are never regained, nor can armour eroded by the Wight be repaired. Melee weapons which strike the Wight lose one dice size of damage permanently.</td></tr>
 </table>
 
 ## Eyeless Dog
@@ -272,7 +312,18 @@ _Biological_
   <b>Organ Donor:</b> Feastbeasts have spare internal organs, all of which can be transplanted into a human. True-kin will always accept the transplant; cacogen must roll 1d6 for each mutation. If any die shows a 1, the transplant is rejected.</td></tr>
 </table>
 
-## Flashhound
+## Flabmonger
+_Biological_
+<table>
+<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lipoinduction (+1 Flab)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Resembles a hairless, fleshy anteater. A Flabmonger’s bite triggers a bizarre overproduction of lipids, causing tumorous bags of malignant fat to sprout from the afflicted creature. Once their prey has become too fat to move, a Flabmonger will slowly begin to feed.  
+<br />
+  <b>Lipoinduction:</b> Biological creatures bitten by a Flabmonger must fill one item slot with Flab. Filling more than ten slots with Flab is fatal. Flab is cured at the rate of one slot per week.</td></tr>
+</table>
+
+## Flashund
 _Hypergeometric_
 <table>
 <tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 14</td></tr>
@@ -280,7 +331,7 @@ _Hypergeometric_
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion.  
 <br />
-<b>Telefrag:</b> If a Flashhound rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashhound dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
+<b>Telefrag:</b> If a Flashund rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashund dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
 </table>
 
 ## Fleshwarp
@@ -380,6 +431,22 @@ _Biological_
 <b>Beguiled:</b> Characters who have been Beguiled cannot harm the Gorgon, believing her to be the most beautiful creature they have ever seen. They may make an EGO save each round to attempt to fight off this insidious devotion. While Beguiled, they grovel and compete with one another for the Gorgon’s favour.
 <br />
 <b>Harem:</b> The Gorgon is accompanied by d10 personages of exceptional charm and comeliness; these are her favoured suitors, who have so far been spared the Gorgon’s appetites and make every attempt possible to please her. Stats as Bandits.</td></tr>
+</table>
+
+## Gravity Tyrant
+_Outsider / Mineral_
+<table>
+<tr><td><b>Level</b>: 9</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Invert Weight (Special) / Weight of Worlds (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An extra-dimensional being. Formed from a spiny kernel of sentient hyperdense matter, which vaguely resembles a crowned head. Stones and other debris orbit the creature’s obscured form.
+<br />
+<b>Accretion:</b> each round, all nearby creatures must DEX save or lose the item in their lowest inventory slot. Lost items are drawn into the Tyrant’s orbit and crushed into their component parts. Each successful Accretion adds +1 to the Tyrant’s Armour defense.
+<br />
+<b>Invert Weight:</b> the Tyrant inverts the weight of an opponent, sending them tumbling into the sky. This effect lasts until the Tyrant is killed; allow 12 combat rounds before the character is considered lost forever in the sky. For each combat round a target spends falling skywards, the victim takes d10 damage when they finally fall to Urth.
+<br />
+<b>Weight of Worlds:</b> the Tyrant doubles the weight of an opponent and all gear they carry. The PC’s maximum Item Slots are halved, and the slot size of each item is doubled. This effect lasts until the Tyrant is killed.
+</td></tr>
 </table>
 
 ## Greenguard
@@ -727,6 +794,19 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Victims of an insidious nanotech infestation, Nerve Crawlers are decaying human corpses whose neural pathways have been supplanted by a virulent nexus of silvery nano-nerves. These revenants crawl on their hands and knees, stiffly and slowly, seeking new hosts for the infection. When in range of prey, whips of silver nano-nerve burst from their spinal cord, lacerating anything in reach.</td></tr>
 </table>
 
+## Occulith
+_Mineral_
+<table>
+<tr><td><b>Level</b>: 12</td><td><b>Armour</b>: 20</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Lithifying Gaze (auto-hit, d6 DEX drain, +2 Armour)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A great grey serpent, cast from innumerable scales of living shale. In the stony hollows of its stalactite-fanged skull, twin baleful lanterns cast a metamorphic gaze upon the tender flesh of the world.
+<br />
+<b>Lithifying Gaze:</b> automatically hits a target in line of sight. Target loses d6 DEX and gains +2 Armour per round; must break line of sight to stop the attack. Both effects fade at the rate of one point per day. An Occulith is immune to its own gaze.
+<br />
+<b>Surprise:</b> the Occulith appears to be inanimate stone until it moves, and always surprises unless the PCs are informed of its exact location.</td></tr>
+</table>
+
 ## Parched Man's Snare
 _Biological_
 <table>
@@ -838,6 +918,17 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology.</td></tr>
 </table>
 
+## Scythesliver
+_Hypergeometric / Synthetic_
+<table>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Blades (d10) + Blades (d10)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
+<br />
+<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
+</table>
+
 ## Scullcrab
 _Biological_
 <table>
@@ -847,7 +938,7 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: A reviled parasite, somewhat like a flabby shell-less crab, which seeks to latch onto the skull of a human being and chew through it, taking control of their brain. Characters reduced to 0 EGO by the Scullcrab become a Zombie, still conscious but unable to control their body, piloted around by the parasite.
 </table>
 
-## Scullcrab (Fast)
+## Scullcrab, Fast
 _Biological_
 <table>
 <tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 16</td></tr>
@@ -858,7 +949,7 @@ _Biological_
 <b>Fast:</b> Fast Scullcrabs always win initiative.
 </table>
 
-## Scullcrab (Toxic)
+## Scullcrab, Toxic
 _Biological_
 <table>
 <tr><td><b>Level</b>: 0 (1 HP)</td><td><b>Armour</b>: 13</td></tr>
@@ -882,7 +973,7 @@ _Biological_
 <b>Slow:</b> Zombies always lose initiative.
 </table>
 
-## Scullcrab Zombie (Fast)
+## Scullcrab Zombie, Fast
 _Biological_
 <table>
 <tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 15</td></tr>
@@ -895,7 +986,7 @@ _Biological_
 <b>Fast:</b> Fast Zombies always win initiative.
 </table>
 
-## Scullcrab Zombie (Toxic)
+## Scullcrab Zombie, Toxic
 _Biological_
 <table>
 <tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
@@ -908,18 +999,6 @@ _Biological_
 <b>Abandon Ship:</b> on death, d4 Toxic Scullcrabs eject from the zombie’s bpdy to seek a new host. Explosives or fire prevent this.
 <br>
 <b>Slow:</b> Toxic Zombies always lose initiative.
-</table>
-  
-  
-## Scythesliver
-_Hypergeometric / Synthetic_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Blades (d10) + Blades (d10)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
-<br />
-<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
 </table>
 
 ## Shriekman
