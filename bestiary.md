@@ -677,6 +677,17 @@ _Synthetic_
 <tr><td colspan="2"><b>Notes</b>: Small synthetic shrimp that fire lasers. They are often used as guard animals.</td></tr>
 </table>
 
+## Lazarus Guard
+_Biological / Synthetic_
+<table>
+<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 14</td></tr>
+<tr><td><b>Morale</b>: Never Flees</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claws (d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A desiccated human corpse, filled with necrotech implants that preserve a sort of life-in-death for the unlucky host. So-called ‘Lazarus Regiments’ were created from the corpses of criminals to guard the tombs of Autarchy nobles. Veins of black gallium pulse beneath parchment-like skin, and their despairing eyes resemble sable stones. 
+<br>
+<b>Resurrection:</b> Lazarus Guards will resurrect after 3 combat rounds if slain, the black cyborg hearts within their breasts unwilling to let their hosts die. These hearts must be cut from the guard’s body and destroyed in order to stop the resurrection. Once the secret is known, players may wish to target the guard’s heart directly. The cyborg organ has 1 HP and Armour 20.</td></tr>
+</table>
+
 ## Leopard Worm
 _Biological_
 <table>
@@ -769,8 +780,21 @@ _Biological_
 <tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d6</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Bite (d6) / Despair Gas (Special)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. 
-<br />
-Despair Gas: Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+<br>
+<b>Despair Gas:</b> Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+</table>
+
+## Mycolossus
+_Fungal_
+<table>
+<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claw (d8) + Body Slam (2d6)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A towering amalgam of necrotic flesh and mycomorphic fungal tissue. Mycolossi are formed from up to a dozen humanoid corpses, crudely fused into a large, brutish mass. They are fast-moving, voracious, and completely insane. Choking clouds of spores portend the giant’s approach.
+<br>
+<b>Spore Shroud:</b> those in melee range of the Mycolossus take d6 automatic choking damage per round.
+<br>
+<b>Sun-fearing:</b> Mycolossi must make a Morale save to fight in sunlight.</td></tr>
 </table>
 
 ## Negativfolk
@@ -858,6 +882,24 @@ _Biological_
 <tr><td colspan="2"><b>Notes</b>: Named for its colouring, which resembles the red armour worn by the battle-crazed Pontiffs of the Church of the Everbleeding Wound. These scorpions are nocturnal predators, usually encountered in Vaarn’s southern badlands and the foothills of the Mooncradle Mountains. Adults have been seen to grow to four feet in length, smaller than the Giant Azure Scorpions of the Interior, but still perfectly capable of overpowering a goat or its herdsman.</td></tr>
 </table>
 
+## Prism Drone
+_Synthetic / Mineral_
+<table>
+<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 16</td></tr>
+<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d3 (with Prism Strider)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Prismatic Ray (d10 beam) / Repair Protocol (+d8 HP to Synthetic target)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Small tripedal servitors that accompany Prism Striders into battle, providing recon and repairs for the towering attack synths. Their repeater ray-emitters are used to aim and supercharge the beams fired from their parent unit.</td></tr>
+</table>
+
+## Prism Strider
+_Synthetic / Mineral_
+<table>
+<tr><td><b>Level</b>: 9</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1 (with d3 Prism Drones)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 3 x Trample (d8) / Prismatic Array (d10 beam, +3 to hit and +d6 damage per active Drone)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Colossal war machines from the Long Ago, built to incinerate entire armies from afar. A tripod of spindle-sharp legs supports a humming cradle of death-ray prisms. These war-synths travel with an entourage of smaller Drones, drawing additional accuracy and power from each servitor.</td></tr>
+</table>
+
 ## Quicksilver Exterminator
 _Synthetic_
 <table>
@@ -916,17 +958,6 @@ _Biological_
 <tr><td><b>Morale</b>: 9</td><td><b>Appearing</b>: 1</td></tr>
 <tr><td colspan="2"><b>Attacks</b>: Slam (2d6)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology.</td></tr>
-</table>
-
-## Scythesliver
-_Hypergeometric / Synthetic_
-<table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Blades (d10) + Blades (d10)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
-<br />
-<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
 </table>
 
 ## Scullcrab
@@ -1001,12 +1032,34 @@ _Biological_
 <b>Slow:</b> Toxic Zombies always lose initiative.
 </table>
 
+## Scylla
+_Biological_
+<table>
+<tr><td><b>Level</b>: 12</td><td><b>Armour</b>: 18</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 8 x Tentacles (d8) / Ink Spray (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: A gigantic hybrid of woman and octopus, with eight writhing tentacles. One of the terrible Brides of Rahab, who luxuriate in the abyssal darks of Vaarn’s oceans and pray for the death of the sun.
+<br>
+<b>Ink Spray:</b> all opponents must DEX save. On failure, they are coated in cloying ink for d4 turns. While coated, they cannot regain HP, and suffer double damage from all sources.</td></tr>
+</table>
+
+## Scythesliver
+_Hypergeometric / Synthetic_
+<table>
+<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 15</td></tr>
+<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: d4</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Blades (d10)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
+<br />
+<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
+</table>
+
 ## Shriekman
 _Biological_
 <table>
 <tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 13</td></tr>
 <tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d8</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Claws (d8) + Claws (d8) / Hypersonic Scream (d6 + DEX save vs Deafened)</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Claws (d8) / Hypersonic Scream (d6 + DEX save vs Deafened)</td></tr>
 <tr><td colspan="2"><b>Notes</b>: Abhuman troglodytes, blind and cunning. Their protruding ears and fanged maws give them a grotesque bat-like aspect. They are excellent climbers and can attack from any angle within the depths they inhabit. 
 <br />
 <b>Deafened:</b> PCs who have been deafened by a hypersonic scream gain the Wound ‘Deafened’. They cannot hear the speech of other PCs. When the party rests, Deafened PCs must EGO save to ignore the ringing in their ears and fall asleep. If they fail they do not benefit from a Long Rest.
@@ -1067,6 +1120,17 @@ _Biological_
 <b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering.</td></tr>
 </table>
 
+## Thornthrower Cactus
+_Biological_
+<table>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d6</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: 2 x Thorn Fling (d4)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: Ferocious ambulatory cactus, covered in hollow spines the size of daggers. Thornthrowers kill by firing spines into the soft tissue of the throat, before taking root in the corpse and draining it of fluid.
+<br>
+<b>Spines:</b> if an opponent misses a melee attack against the Thornthrower cactus, they take d4 damage from the long spines.</td></tr>
+</table>
+
 ## Thunderstrike Bird
 _Biological / Synthetic_
 <table>
@@ -1105,6 +1169,19 @@ _Synthetic_
 After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.
 <br />
 Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
+</table>
+
+## Viridian Ooze
+_Fungal_
+<table>
+<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 12</td></tr>
+<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
+<tr><td colspan="2"><b>Attacks</b>: Engulf (Special)</td></tr>
+<tr><td colspan="2"><b>Notes</b>: An antic colony of green slime, like phlegm coughed from the throat of a ravenous god. The Ooze’s embrace marries digestion with cytokinesis, birthing heirs in seconds from the biomass consumed. 
+<br>
+<b>Engulf:</b> an engulfed biological creature loses d3 CON per round. Each successful engulf attack creates a new Viridian Ooze, with a Level equal to the CON lost. STR save to break free.
+<br>
+<b>Resistance:</b> the Ooze takes half damage from kinetic attacks. It suffers 3d8 damage per round from exposure to extreme heat.</td></tr>
 </table>
 
 ## Void Dragon
