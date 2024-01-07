@@ -14,30 +14,15 @@ Alternatively, available from selected stores:
 
 <table>
   <thead><th>Country</th><th>Store</th><th>Vov 1</th><th>Vov 2</th><th>Vov 3</th></thead>
-  <tr><td rowspan="2">Worldwide</td><td>Lulu Print on Demand</td>
+  <tr><td>Worldwide</td><td>Lulu Print on Demand</td>
     <td><a href="https://www.lulu.com/en/us/shop/leo-hunt-and-leo-hunt/vaults-of-vaarn-1/paperback/product-vqwnjv.html?page=1&pageSize=4">link</a></td>
     <td><a href="https://www.lulu.com/en/us/shop/leo-hunt/vaults-of-vaarn-2/paperback/product-yk4wq7.html?page=1&pageSize=4">link</a></td>
     <td><a href="https://www.lulu.com/en/us/shop/leo-hunt/vaults-of-vaarn-3/paperback/product-eq87gz.html?page=1&pageSize=4">link</a></td>
   </tr>
-  <tr><td>Big Cartel</td>
-    <td><a href="https://vaultsofvaarn.bigcartel.com/product/vaults-of-vaarn-1">link</a></td>
-    <td><a href="https://vaultsofvaarn.bigcartel.com/product/vaults-of-vaarn-2">link</a></td>
-    <td><a href="https://vaultsofvaarn.bigcartel.com/product/vaults-of-vaarn-3">link</a></td>
-  </tr>
-  <tr><td rowspan="2">UK</td><td>Igloo Tree</td>
-    <td><a href="https://iglootree.com/vaults-of-vaarn-1-78-p.asp">link</a></td>
+  <tr><td >UK</td><td>Igloo Tree</td>
+    <td></td>
     <td><a href="https://iglootree.com/vaults-of-vaarn-2-79-p.asp">link</a></td>
     <td><a href="https://iglootree.com/vaults-of-vaarn-3-510-p.asp">link</a></td>
-  </tr>
-  <tr><td>Rook's Press</td>
-    <td><a href="https://www.rookspress.com/products/vaults-of-vaarn-1">link</a></td>
-    <td><a href="https://www.rookspress.com/products/vaults-of-vaarn-2">link</a></td>
-    <td><a href="https://www.rookspress.com/products/vaults-of-vaarn-3">link</a></td>
-  </tr>
-  <tr><td>EU</td><td>All the Problems in This World</td>
-    <td><a href="https://alltheproblemsinthisworld.com/shop/p/leo-hunt-vaults-of-vaarn">link</a></td>
-    <td><a href="https://alltheproblemsinthisworld.com/shop/p/vaultsofvaarn2">link</a></td>
-    <td><a href="https://alltheproblemsinthisworld.com/shop/p/leo-hunt-vaults-of-vaarn-3">link</a></td>
   </tr>
   <tr><td>US</td><td>Exalted Funeral</td>
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-1-pdf">link</a></td>
@@ -45,8 +30,8 @@ Alternatively, available from selected stores:
     <td><a href="https://www.exaltedfuneral.com/products/vaults-of-vaarn-3-pdf">link</a></td>
   </tr>
   <tr><td>CA</td><td>Monkey's Paw Games</td>
-    <td><a href="https://monkeyspawgames.com/products/vaults-of-vaarn">link</a></td>
-    <td><a href="https://monkeyspawgames.com/collections/setting/products/vaults-of-vaarn-2">link</a></td>
+    <td></td>
+    <td></td>
     <td><a href="https://monkeyspawgames.com/collections/new-arrivals/products/vaults-of-vaarn-3">link</a></td>
   </tr>
 </table>
