@@ -25,7 +25,7 @@
       // Translation aliases are defined using the short i18n codes found at https://i18ns.com/languagecode.html
       alias: {
         '/.*/_navbar.md': '/_navbar.md',
-        '/ko/(.*)': 'https://raw.githubusercontent.com/VedminStuden/vaarn-ko/master/$1',
+        '/ko/(.*)': 'https://raw.githubusercontent.com/VedminStuden/vaarn-ko/ko/testing/$1',
       },
       auto2top: true,
       executeScript: true,
@@ -50,12 +50,18 @@
         },
       },
       paths: 'auto',
-      placeholder: {
-        '/ko/': '검색',
-        '/': 'Search',
-      },
       pathNamespaces: ['/ko'],
-      search: 'auto',
+      search: {
+        paths: auto,
+        placeholder: {
+          '/ko/': '검색',
+          '/': 'Type to search',
+        },
+        noData: {
+          '/ko/': '결과 없음',
+          '/': 'No Results',
+        },
+      },
       sidebarDisplayLevel: 1,
       subMaxLevel: 2,
     }
