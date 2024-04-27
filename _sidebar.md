@@ -1,4 +1,3 @@
-- [Home](/)
 - [What is Vaarn?](what-is-vaarn.md)
 - [Creating Characters](creating-characters.md)
   - [Ancestries](ancestries.md)
