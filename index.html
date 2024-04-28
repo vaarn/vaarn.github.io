@@ -13,25 +13,65 @@
 <body>
   <div id="app"></div>
   <script>
+    // Set html "lang" attribute based on URL
+    var lang = location.hash.match(/#\/(ko)\//);
+
+    if (lang) {
+      document.documentElement.setAttribute('lang', lang[1]);
+    }
+
+    // Docsify configuration
+    // Documentation: https://docsify.js.org/#/configuration
     window.$docsify = {
-      name: 'VAULTS OF VAARN',
+      // Translation aliases are defined using the short i18n codes found at https://i18ns.com/languagecode.html
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/ko/(.*)': 'https://raw.githubusercontent.com/VedminStuden/vaarn-ko/ko/testin/$1',
+      },
       auto2top: true,
-      loadFooter: '_footer.md',
+      executeScript: true,
+      loadFooter: true,
       loadSidebar: true,
-      subMaxLevel: 2,
-      sidebarDisplayLevel: 1,
+      loadNavbar: true,
+      mergeNavbar: true,
+      name: 'VAULTS OF VAARN',
+      nameLink: {
+        '/ko/': '#/ko/',
+        '/': '#/',
+      },
       pagination: {
         crossChapter: true,
-        crossChapterText: true
+        crossChapterText: true,
+        nextText: {
+          '/ko/': '다음',
+          '/': 'NEXT',
+        },
+        previousText: {
+          '/ko/': '이전',
+          '/': 'PREVIOUS',
+        },
       },
-      search: 'auto',
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/ko/': '검색',
+          '/': 'Type to search',
+        },
+        noData: {
+          '/ko/': '결과 없음',
+          '/': 'No Results',
+        },
+      },
+      subMaxLevel: 2,
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-  <!-- plugins -->
+  <!-- load docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- load docsify plugins -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
 </body>
 </html>

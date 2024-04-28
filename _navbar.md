@@ -1,0 +1,3 @@
+- Translations
+    - [:uk: English](/)
+    - [:kr: 한국어](/ko/)
