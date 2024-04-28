@@ -21,6 +21,7 @@
     }
 
     // Docsify configuration
+    // Documentation: https://docsify.js.org/#/configuration
     window.$docsify = {
       // Translation aliases are defined using the short i18n codes found at https://i18ns.com/languagecode.html
       alias: {
@@ -32,6 +33,7 @@
       loadFooter: true,
       loadSidebar: true,
       loadNavbar: true,
+      mergeNavbar: true,
       name: 'VAULTS OF VAARN',
       nameLink: {
         '/ko/': '#/ko/',
@@ -49,8 +51,6 @@
           '/': 'PREVIOUS',
         },
       },
-      paths: 'auto',
-      pathNamespaces: ['/ko'],
       search: {
         paths: 'auto',
         placeholder: {
@@ -62,7 +62,6 @@
           '/': 'No Results',
         },
       },
-      sidebarDisplayLevel: 1,
       subMaxLevel: 2,
     }
   </script>
