@@ -118,7 +118,7 @@ Use the generators on the following pages to help bring Vaarn to life. They will
 |60|Gravity Manipulator|Lifts and fires small-to-medium sized objects.|
 |61|Mind Shield|Golden cage worn around head. Protects from psychic intrusion.|
 |62|Basilisk Blade|Strobing anti-synth weapon. Adv to hit synthetic creatures.|
-|63|Mi-Go Carapace|Biomechanical armour from Yuggoth. 2 Burden slots, Armour 18. Once worn, cannot be removed.|
+|63|Mi-Go Carapace|Biomechanical armour from Yuggoth. 2 slots, Armour 18. Once worn, cannot be removed.|
 |64|Phase Grenade|Everything caught in the blast becomes briefly de-synched with reality; can pass through like mist.|
 |65|Universal Ration|Thick white cake containing everything a human body needs. Full heal.|
 |66|Fascinator Helm|When activated, all biological creatures must EGO save or be transfixed by the flickering patterns on this helmet.|
