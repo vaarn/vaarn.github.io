@@ -63,7 +63,13 @@
         },
       },
       subMaxLevel: 2,
-    }
+      mustache: {
+        data: [
+            'data/beasts.json',
+        ]
+      }
+  }
+}
   </script>
 
   <!-- load docsify -->
@@ -72,6 +78,7 @@
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
 
 </body>
 </html>

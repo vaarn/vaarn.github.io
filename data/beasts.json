@@ -1,0 +1,13 @@
+{
+  "beast": [{
+    "name": "Albino Ape",
+    "type": "Biological",
+    "level": 4,
+    "armour": 13,
+    "morale": 5,
+    "appearing": "d6",
+    "attacks": "Claw (d4) + Claw (d4) / Shit Fling (d6 TOX)</td",
+      "notes": "Deficient in pigmentation and in manners, these primates dwell in caves, bunkers, and other sheltered places. When the sun sets, they venture out in search of meat. They are highly intelligent, excellent climbers, and punishingly accurate with the putrid white turds they hurl at intruders."
+  }
+  ]
+}
