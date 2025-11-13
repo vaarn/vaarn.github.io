@@ -1,13 +1,2031 @@
 {
-  "beast": [{
-    "name": "Albino Ape",
-    "type": "Biological",
-    "level": 4,
-    "armour": 13,
-    "morale": 5,
-    "appearing": "d6",
-    "attacks": "Claw (d4) + Claw (d4) / Shit Fling (d6 TOX)</td",
-      "notes": "Deficient in pigmentation and in manners, these primates dwell in caves, bunkers, and other sheltered places. When the sun sets, they venture out in search of meat. They are highly intelligent, excellent climbers, and punishingly accurate with the putrid white turds they hurl at intruders."
-  }
+  "beasts": [
+    {
+      "name": "Albino Ape",
+      "type": "Biological",
+      "level": "4",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Claw (d4) + Claw (d4) / Shit Fling (d6 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Deficient in pigmentation and in manners, these primates dwell in caves, bunkers, and other sheltered places. When the sun sets, they venture out in search of meat. They are highly intelligent, excellent climbers, and punishingly accurate with the putrid white turds they hurl at intruders."
+        }
+      ]
+    },
+    {
+      "name": "Alzabo",
+      "type": "Biological",
+      "level": "8",
+      "armour": "15",
+      "morale": "9",
+      "appearing": "1",
+      "attacks": "Claw (d8) + Claw (d8) + Maul (2d6) if both claws hit same target",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The 'mocking bear'. Red furred predator with ghastly humanoid face. Can mimic the voices and behaviour of people it has eaten. Will remember where they lived and hunt their family."
+        }
+      ]
+    },
+    {
+      "name": "Amaranthine Death-Worm",
+      "type": "Biological",
+      "level": "6",
+      "armour": "16",
+      "morale": "9",
+      "appearing": "1",
+      "attacks": "Spines (d6) + Poison Spray",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The poison spray forces CON save. If a PC fails, they gain a special wound: 'Amaranthine Venom'. Their HP drops to 0, and cannot rise above that number until they find an antidote."
+        }
+      ]
+    },
+    {
+      "name": "Argent Shepherd",
+      "type": "Synthetic",
+      "level": "7",
+      "armour": "16",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Special (Argent Halo Implant)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible. The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo."
+        }
+      ]
+    },
+    {
+      "name": "Bacterial Gestalt Colony",
+      "type": "Biological / Psychic",
+      "level": "4",
+      "armour": "10",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Absorb (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Sentient, slow-moving ooze. Psychic, can communicate in staccato bursts of telepathic imagery. Targets absorbed take d8 damage each round until they make an opposed STR save. The colony takes minimum damage from kinetic attacks, but is vulnerable to fungal spores or other sources of antibiotics."
+        }
+      ]
+    },
+    {
+      "name": "Bandit",
+      "type": "Biological",
+      "level": "1",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "d20",
+      "attacks": "Shabby Weapon (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Ragged desperate robbers that plague the Blue Ruins."
+        }
+      ]
+    },
+    {
+      "name": "Banisher",
+      "type": "Synthetic",
+      "level": "6",
+      "armour": "16",
+      "morale": "7",
+      "appearing": "1",
+      "attacks": "Banish (Special Grab) / Summon (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The Titan AIs were charged with preserving human life wherever possible. The Banishers were an attempt at creating non-lethal security synths. They take the shape of enormous six-fingered hands, which grasp intruders and evict them using teleportation loci embedded in their palms."
+        },
+        {
+          "title": "Non-lethal",
+          "content": "Banishers are forbidden from killing sentient life. They will first ask you to leave the vault, and lecture you about trespassing."
+        },
+        {
+          "title": "Banish",
+          "content": "the Banisher grabs an intruder and teleports them to a designated eviction zone. Traditionally this is the entrance to the vault, although sometimes more punitive locations are chosen."
+        },
+        {
+          "title": "Summon",
+          "content": "truly vexed Banishers, when faced with repeat offenders, may teleport in other creatures from the vault to deal with you permanently. Roll on the encounter table for this floor. The summoned creature is not loyal to the Banisher."
+        }
+      ]
+    },
+      {
+          "name": "Battle Boar",
+          "type": "Biological / Synthetic",
+          "level": "3",
+          "armour": "14",
+          "morale": "8",
+          "appearing": "d6",
+          "attacks": "Flamethrower Snout (d8 area) / Gore (d6)",
+          "notes": [
+              {
+              "title": "Notes",
+              "content": "Cyborg war-boars infested with nanomachinery. Their flamethrower snouts target everyone in range."
+              }
+          ]
+      },
+    {
+      "name": "Behemoth Toad",
+      "type": "Biological",
+      "level": "4",
+      "armour": "14",
+      "morale": "7",
+      "appearing": "d6",
+      "attacks": "Bellyflop (d10) / Tongue Grab (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Enormous flabby toads that lurk near Vaarnish water-sources. If hit with a tongue attack, PCs must STR save or be drawn into the toad's mouth and take d8 damage per round."
+        }
+      ]
+    },
+      {
+      "name": "Blightbeast",
+      "type": "Biological / Synthetic",
+      "level": "10",
+      "armour": "18",
+      "morale": "12",
+      "appearing": "d3",
+      "attacks": "Claws (d10) + Bite (2d6) / Blight Breath (d12 TOX, blast)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Colossal cacogenic Gila Monsters, imbued with nanomachinery and armoured with thick black scales. Keratin bristles sprout from their backs in burnt-looking clumps. Their eyes and throats gleam with a sickly green radiance. If threatened they will breathe out a noxious cloud of radioactive gas before lunging to attack with their powerful jaws. The creatures seek out radioactive blightstone and gain sustenance from basking near it, although they supplement this nourishment with a more conventional diet of raw meat. Blightbeasts are immune to damage caused by energy weapons or radiation, and heal d8 HP per round when in the presence of radioactive material. Blightbeasts have no natural predators, their flesh and blood being thoroughly poisonous. Their corpses cannot be used as a source of rations."
+        }
+      ]
+      },
+    {
+      "name": "Blightstone Knight",
+      "type": "Synthetic",
+      "level": "8",
+      "armour": "19",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Tarnished Greatsword (d10) + Shield Bash (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Vengeful radioactive revenant. Withered corpse inside sentient powered armour. Fanatically guards buried blightstone mines. Biological creatures who attack the Blightstone Knight at melee range must make a CON save each round or suffer d8 CON damage from the leaking radiation."
+        }
+      ]
+    },
+    {
+      "name": "Blue Baboon",
+      "type": "Biological",
+      "level": "0 (1 HP)",
+      "armour": "14",
+      "morale": "4 (2)",
+      "appearing": "3d6",
+      "attacks": "Claws (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Predatory blue apes of the Vaarnish wastes. Intelligent and carnivorous, hunt in packs. Morale drops when outnumbered."
+        }
+      ]
+    },
+    {
+      "name": "Brood Mother",
+      "type": "Biological",
+      "level": "8",
+      "armour": "16",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Claws (d8) / Grapple (DEX save vs Webbed)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A mother’s first duty is to her children, and she is no exception. In fungal forests and wind-swept canyons she hunts, nurturing her brood inside her swollen abdomen. She approaches sleeping travellers from above, swaddling them in blankets tight enough to hush their cries before her sons and daughters emerge to feast."
+        },
+        {
+          "title": "The Brood",
+          "content": "a Brood Mother births d6 Broodlings [<b>Level</b> 0 (1 hp), <b>Armour</b> 12, <b>Bite</b> (d4)] per combat round, and 2d6 Broodlings on death. Fire or explosive attacks prevent this."
+        },
+        {
+          "title": "Webbed",
+          "content": "Webbed characters are hit automatically by enemy attacks. They must make a successful DEX save to break free."
+        }
+      ]
+    },
+    {
+      "name": "Cacklemaw",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "6",
+      "appearing": "d8",
+      "attacks": "Weapon (d8) + Bite (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Lurking laughing hyena-women. Fight in packs, with little regard for their own safety. Will snap at opponents’ faces in close quarters with their powerful teeth. A group of eight will always include a War Mama."
+        }
+      ]
+    },
+    {
+      "name": "Cacklemaw War Mama",
+      "type": "Biological",
+      "level": "5",
+      "armour": "15",
+      "morale": "9",
+      "appearing": "1",
+      "attacks": "Blade (d8) + Blade (d8) + Bite (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "War Mamas are the largest, meanest, and most cunning Cacklemaw in the pack. They lead from the front, and must be seen to savour the violence lest they be challenged by one of their underlings. For this reason War Mamas will never retreat from combat if other Cacklemaw are alive to witness it."
+        }
+      ]
+    },
+    {
+      "name": "Cacogen Pseudo-Giant",
+      "type": "Biological",
+      "level": "4",
+      "armour": "15",
+      "morale": "8",
+      "appearing": "d4",
+      "attacks": "Stomp (d10)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Severely mutated humans that resemble enormous ambulatory torsos. They have a primitive, furious face on their chest, and tiny vestigial arms. They are unintelligent but ferocious and will pursue prey for miles."
+        }
+      ]
+    },
+    {
+      "name": "Chernobog",
+      "type": "Biological",
+      "level": "12",
+      "armour": "18",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "2 x Claw (d10) + Bite (d12) + Black Cloud (2 damage, aura, doubles each round)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A dread creature from beyond the stars, brought to Urth in the hold of an Aurum Barge. The Chernobog is a colossal, black-furred beast, described as 'a child of mongoose and serpent, two foes united under one foul banner'. The creature is an apex predator on the benighted sphere it hails from, hunting by ambush in dark and forgotten places. It prefers caves and the labyrinthine basements of ruined structures as lairs, rarely venturing above ground. If this were not terrible enough, the beast emits a noxious gas from facial glands when enraged, choking and blinding its victims. The Chernobog uses these black clouds to corral prey or cover its escape."
+        },
+        {
+          "title": "Black Cloud",
+          "content": "each round the Chernobog emits a cocktail of corrosive and hazardous fumes, dealing 2 damage to every character in the room. The cloud's strength doubles with each subsequent combat round. After three rounds all PCs are fighting as if blinded."
+        },
+        {
+          "title": "Cave Fighter",
+          "content": "the Chernobog strikes with Advantage in enclosed spaces or against blinded creatures."
+        }
+      ]
+    },
+    {
+      "name": "Chimera",
+      "type": "Biological",
+      "level": "6",
+      "armour": "15",
+      "morale": "8",
+      "appearing": "d3",
+      "attacks": "Fire Breath (d12 blast) + Goat Horns (d10) + Snake Spit (d8 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Monstrous hybrids, birthed from a marriage of cybernetics and sorcerous gene-sculpting. The Chimera is a combination of three animals: traditionally the bodies of a lion, a goat, and a snake were used, but sometimes other animals were substituted instead. Trained Chimera were utilised as weapons of war during the fallen Autarchy, implanted with flamethrowers and other devices."
+        }
+      ]
+    },
+    {
+      "name": "Chromavore",
+      "type": "Outsider",
+      "level": "6",
+      "armour": "11",
+      "morale": "15",
+      "appearing": "1",
+      "attacks": "CON drain (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Living shrouds of impossible colour from a dimension adjacent to ours. They take no damage from conventional weapons. They take d10 damage per round if they are exposed to sunlight, or artificial light that mimics the sun's rays. When they attack successfully they drain d8 CON per round until the victim is a colourless husk."
+        }
+      ]
+    },
+    {
+      "name": "Cliff Ghul",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "1",
+      "appearing": "d8",
+      "attacks": "Festering Bite (d6 + d6 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection."
+        }
+      ]
+    },
+    {
+      "name": "Cobra-Moth",
+      "type": "Biological",
+      "level": "3",
+      "armour": "11",
+      "morale": "8",
+      "appearing": "d3",
+      "attacks": "Bite (d6) + Sting (d8 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A strange hybrid of a cobra and a moth. Its body is a mix of scales and white fur, with a long, segmented tail. It has four wings and two large fangs, and a curved stinger at the end of its tail. The beast is nocturnal, but unfortunately is drawn to investigate torchlight and campfires."
+        }
+      ]
+    },
+    {
+      "name": "Copy Cat",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "3",
+      "appearing": "d6",
+      "attacks": "Claws (d8) / Clone Cough (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Pink-furred carnivore that reproduces exponentially, coughing up new copies like hairballs. Used as a biological weapon in a long-lost era."
+        },
+        {
+          "title": "Clone Cough",
+          "content": "The Copy Cat coughs up a perfect copy of itself, with full HP."
+        }
+      ]
+    },
+    {
+      "name": "Cosseting Chrysalid",
+      "type": "Biological",
+      "level": "4",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "1 / d6 i",
+      "attacks": "Sting (CON save vs Sleep)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Flying, moth-like surgeons. Driven to abduct human beings and subject them to dubious medical interventions. Their sting forces biological creatures make a CON save: failure results in the creature falling into a deep, dreamless sleep for several hours. The Chrysalid will then wrap them inside a cocoon, where they will sleep for d6 days. Upon awakening, patients of the Chrysalid will find their HP restored to maximum, all Wounds or other ailments healed, and must roll on the mutations table to discover how the Chrysalid’s imperfect medical knowledge has impacted them."
+        }
+      ]
+    },
+    {
+      "name": "Daggertrunk",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "Always Flees",
+      "appearing": "1",
+      "attacks": "Siphon (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Dwarf vampire elephants. It is unclear if these pests were gene-sculpted for a purpose or simply as a jest, but they escaped into the wild and have become a viable Vaarnish species. Roughly the size of a goat, they feed on blood which their razor-tipped trunks drain from sleeping animals and the folk of Vaarn alike. Daggertrunks are highly intelligent, surprisingly stealthy, and very cowardly. They will approach sleeping PCs at night and attempt to siphon blood from their ankles or necks."
+        }
+      ]
+    },
+    {
+      "name": "Desiccator",
+      "type": "Biological",
+      "level": "3",
+      "armour": "12",
+      "morale": "Never Flees",
+      "appearing": "d3",
+      "attacks": "Desiccate (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Slow-moving fibrous colony organism, resembling a tangle of hairy glass ropes. Driven by a mindless unquenchable thirst. The Desiccator assails other living beings with a multitude of tiny needles and extracts their water with merciless efficiency."
+        },
+        {
+          "title": "Desiccate",
+          "content": "a biological target loses the water in their body. After one hit, they are Deprived due to thirst. After two hits, they lose d6 CON as the water in their organs is extracted. A third hit is lethal. Additionally, the Desiccator drinks one ration of water from target’s inventory per hit."
+        },
+        {
+          "title": "Slow",
+          "content": "the Desiccator always loses initiative and cannot surprise."
+        }
+      ]
+    },
+    {
+      "name": "Doppelgeller",
+      "type": "Biological",
+      "level": "5",
+      "armour": "10",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Special",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Biotech blob. When it successfully scores a hit, it will begin spawning jelly-clones of the PC to hit. It does so once per round. The clones are naked, insane, and homicidally attack the PC they were copied from. They have 5 HP, Armour 10, and the ability scores of the PC they cloned."
+        }
+      ]
+    },
+    {
+      "name": "Entropy Wight",
+      "type": "Hypergeometric / Outsider",
+      "level": "5",
+      "armour": "12",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Entropic Touch (d3 Max HP reduction + Armour damage)",
+      "notes": [
+        {
+          "title": "General",
+          "content": "Notes:Cursed revenants, the remains of those who thought to master entropy and instead became her servants. All things wither at their touch, ageing centuries beneath the Wight’s sour grasp."
+        },
+        {
+          "title": "Entropic Touch",
+          "content": "targets struck by the Wight lose d3 maximum HP, and lose d3 points of Armour Defense if they are wearing armour. Hit Points lost in this way are never regained, nor can armour eroded by the Wight be repaired. Melee weapons which strike the Wight lose one dice size of damage permanently."
+        }
+      ]
+    },
+    {
+      "name": "Eyeless Dog",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "3",
+      "appearing": "2d6",
+      "attacks": "Bite (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights."
+        },
+        {
+          "title": "Pack Attack",
+          "content": "Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round."
+        }
+      ]
+    },
+    {
+      "name": "Faa Nomad",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "4",
+      "appearing": "d10",
+      "attacks": "Rifle (d8) / Curved Blade (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run attacks, and every other inconvenience imaginable."
+        }
+      ]
+    },
+    {
+      "name": "Feastbeast",
+      "type": "Biological",
+      "level": "2",
+      "armour": "10",
+      "morale": "Always Flees",
+      "appearing": "d12",
+      "attacks": "Trample (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Placid, genesculpted herd animals. Somewhat like a pig and somewhat like a cow, with a hint of human in their eyes and ears."
+        },
+        {
+          "title": "Organ Donor",
+          "content": "Feastbeasts have spare internal organs, all of which can be transplanted into a human. True-kin will always accept the transplant; cacogen must roll 1d6 for each mutation. If any die shows a 1, the transplant is rejected."
+        }
+      ]
+    },
+    {
+      "name": "Flabmonger",
+      "type": "Biological",
+      "level": "2",
+      "armour": "14",
+      "morale": "3",
+      "appearing": "d6",
+      "attacks": "Lipoinduction (+1 Flab)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Resembles a hairless, fleshy anteater. A Flabmonger’s bite triggers a bizarre overproduction of lipids, causing tumorous bags of malignant fat to sprout from the afflicted creature. Once their prey has become too fat to move, a Flabmonger will slowly begin to feed."
+        },
+        {
+          "title": "Lipoinduction",
+          "content": "Biological creatures bitten by a Flabmonger must fill one item slot with Flab. Filling more than ten slots with Flab is fatal. Flab is cured at the rate of one slot per week."
+        }
+      ]
+    },
+    {
+      "name": "Flashund",
+      "type": "Hypergeometric",
+      "level": "4",
+      "armour": "14",
+      "morale": "4",
+      "appearing": "d6",
+      "attacks": "Bite (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Planeydogs, descended from the early test passengers of hypergeometric gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion."
+        },
+        {
+          "title": "Telefrag",
+          "content": "If a Flashund rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashund dies instantly, causing 3d6 blast damage to everyone nearby."
+        }
+      ]
+    },
+    {
+      "name": "Fleshwarp",
+      "type": "Biological",
+      "level": "#Limbs",
+      "armour": "13",
+      "morale": "#Limbs",
+      "appearing": "1",
+      "attacks": "Fists (#Limbs x d4) / Graft (STR Save vs Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Fleshwarps are cacogenic abhumans, consisting of an atrophied, vestigal head and torso, and a multitude of powerful questing limbs. The creatures are blessed with rapid cellular regeneration, and can heal even mortal wounds within minutes. As they grow, more and more biomass is extruded into their limbs, creating skittering spiderlike abominations."
+        },
+        {
+          "title": "Limbs",
+          "content": "Roll 2d6 to determine the Fleshwarp’s number of limbs (#Limbs). The creature’s Level is equal to this number."
+        },
+        {
+          "title": "Regeneration",
+          "content": "The Fleshwarp regains 4hp per combat round, unless burned or dipped in acid."
+        },
+        {
+          "title": "Grafting",
+          "content": "If the Fleshwarp has a biological target to attack, it will pounce. If the victim fails an opposed STR save, the Fleshwarp attaches one of its limbs to the victim’s torso. The Fleshwarp’s #Limbs and corresponding Level are lowered by 1. The victim must fill an item slots with a special Wound: Grafted Arm. The Grafted Arm has 1 Level and the Armour score of its host. Damage dealt to the Grafted Arm is shared between the host and the limb."
+        }
+      ]
+    },
+    {
+      "name": "Fractalisk",
+      "type": "Hypergeometric / Outsider",
+      "level": "5",
+      "armour": "14",
+      "morale": "8",
+      "appearing": "1",
+      "attacks": "Claws (d8) + Recursive Gaze (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "An incursion from another fevered sphere of reality, a bizarre hypergeometric monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous."
+        },
+        {
+          "title": "Recursive Gaze",
+          "content": "Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies."
+        },
+        {
+          "title": "Self Similar",
+          "content": "Wounding a Fractalisk without the use of hypergeometric weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes."
+        }
+      ]
+    },
+    {
+      "name": "Gamma Ray",
+      "type": "Biological",
+      "level": "1",
+      "armour": "14",
+      "morale": "1",
+      "appearing": "1",
+      "attacks": "Sting (d6 + d12 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "These rays are found in the shallows of the Sea of Songs, feeding on crabs, squid, and small fish. The creature is known for its unusual method of defense: it filters heavy metals and toxic waste from the Vaarnish seawater, and concentrates them into a highly radioactive venom, which it injects into predators."
+        }
+      ]
+    },
+    {
+      "name": "Gene Thief",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "3",
+      "appearing": "d8",
+      "attacks": "Copy-Claws (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic."
+        },
+        {
+          "title": "Copy-claws",
+          "content": "A Gene Thief can take on the facial appearance of any biological creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched."
+        }
+      ]
+    },
+    {
+      "name": "Ghoul",
+      "type": "Biological",
+      "level": "3",
+      "armour": "14",
+      "morale": "5",
+      "appearing": "d8",
+      "attacks": "Agonising Claws (d6 + CON save vs Agony)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "On moonless nights, a certain breed of furtive autodidact visits battlefields and plague pits and tombs. It is not about the taste. It never has been. It is about knowledge. And where some see a graveyard, others see a library."
+        },
+        {
+          "title": "Agony",
+          "content": "Biological characters inflicted with Agony take d6 damage for each combat action they make. Lying still neutralises the venom."
+        }
+      ]
+    },
+    {
+      "name": "Glass Tiger",
+      "type": "Biological",
+      "level": "4",
+      "armour": "14",
+      "morale": "8",
+      "appearing": "d4",
+      "attacks": "Claw (d4) + Claw (d4) + Maul (d10) if both claws hit same target",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Translucent extraterrestrial hunters, transported to Urth during the reign of the Autarchs. Body like a tiger with a head like an orchid. Very difficult to spot when they're not moving."
+        }
+      ]
+    },
+    {
+      "name": "Glider Spider",
+      "type": "Biological",
+      "level": "5",
+      "armour": "14",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Venomous Bite (d8 + d8 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes."
+        }
+      ]
+    },
+    {
+      "name": "Gorgon",
+      "type": "Biological",
+      "level": "9",
+      "armour": "16",
+      "morale": "12",
+      "appearing": "U",
+      "attacks": "Constrict (d10) + 2 x Venom Spit (d8 TOX) / Captivating Gaze (All foes EGO save vs Beguiled)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A monstrous creature with the head of a ferociously beautiful woman and the body of a writhing mass of snakes. She is believed to be a pursuant of the Path Renewed, who sought eternal youth in the image of the Ouroboros, the world-serpent without end or beginning. She achieved the long-sought apotheosis, but at terrible cost, having shed her humanity like a rough and discarded skin, and lives her eternal life as a voracious chimera of odalisque and viper."
+        },
+        {
+          "title": "Beguiled",
+          "content": "Characters who have been Beguiled cannot harm the Gorgon, believing her to be the most beautiful creature they have ever seen. They may make an EGO save each round to attempt to fight off this insidious devotion. While Beguiled, they grovel and compete with one another for the Gorgon’s favour."
+        },
+        {
+          "title": "Harem",
+          "content": "The Gorgon is accompanied by d10 personages of exceptional charm and comeliness; these are her favoured suitors, who have so far been spared the Gorgon’s appetites and make every attempt possible to please her. Stats as Bandits."
+        }
+      ]
+    },
+    {
+      "name": "Gravity Tyrant",
+      "type": "Outsider / Mineral",
+      "level": "9",
+      "armour": "15",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Invert Weight (Special) / Weight of Worlds (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "An extra-dimensional being. Formed from a spiny kernel of sentient hyperdense matter, which vaguely resembles a crowned head. Stones and other debris orbit the creature’s obscured form."
+        },
+        {
+          "title": "Accretion",
+          "content": "each round, all nearby creatures must DEX save or lose the item in their lowest inventory slot. Lost items are drawn into the Tyrant’s orbit and crushed into their component parts. Each successful Accretion adds +1 to the Tyrant’s Armour defense."
+        },
+        {
+          "title": "Invert Weight",
+          "content": "the Tyrant inverts the weight of an opponent, sending them tumbling into the sky. This effect lasts until the Tyrant is killed; allow 12 combat rounds before the character is considered lost forever in the sky. For each combat round a target spends falling skywards, the victim takes d10 damage when they finally fall to Urth."
+        },
+        {
+          "title": "Weight of Worlds",
+          "content": "the Tyrant doubles the weight of an opponent and all gear they carry. The PC’s maximum Item Slots are halved, and the slot size of each item is doubled. This effect lasts until the Tyrant is killed."
+        }
+      ]
+    },
+    {
+      "name": "Greenguard",
+      "type": "Synthetic",
+      "level": "1",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "d8",
+      "attacks": "Rifle (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Green plastic-fleshed homunculi. They attack from the wastes without warning, seemingly following ancient orders. They take and hold settlements at random, apparently waiting for reinforcements that never arrive."
+        }
+      ]
+    },
+    {
+      "name": "Greenwaif",
+      "type": "Biological",
+      "level": "2",
+      "armour": "14",
+      "morale": "4",
+      "appearing": "1",
+      "attacks": "Pollen-borne Empathogens (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The sages of the long-vanished world worked many wonders. One of their quixotic tasks was the breaching of the boundaries between the animal and vegetable kingdoms, which has resulted in several abhuman lineages that exist in present-day Vaarn. Greenwaifs are slender humanoids with symbiotic algae and plant species growing within their flesh. They take all their energy from photosynthesis, requiring only water, and claim to enjoy long lifespans as a result."
+        },
+        {
+          "title": "Empathogens",
+          "content": "These abhumans produce a weaponised pollen, which causes hallucinations, delirium, serotonin overproduction, and sometimes death. Each combat round, all biological creatures around the Greenwaif are exposed to a dose of the pollen. They must make an EGO save to remember what they are supposed to be doing, or else fall into a blissful, honeyed stupor. PCs under the effect of the pollen are more open to sharing their secrets and buried emotions, experience instant connections with strangers, and have no desire to harm the Greenwaif."
+        }
+      ]
+    },
+    {
+      "name": "Grey Cricket",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "3",
+      "appearing": "d8",
+      "attacks": "Claws (d4) + Noxious Spit",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Creepy gangly giant insects. Normally scavengers, but will attack humans if they think they can get away with it. Their spit forces a CON save. Failure results in disadvantage on all saves for one round due to vomiting."
+        }
+      ]
+    },
+    {
+      "name": "Grimpet",
+      "type": "Synthetic",
+      "level": "1",
+      "armour": "16",
+      "morale": "10",
+      "appearing": "d10 (+ d3 Grimweavers)",
+      "attacks": "Stab (d6) followed by Latch (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Grimpet drones are small, spider-like robots with a thick plasteel shell on their backs. They are usually found within ancient ruins, and have a simple goal: to guard their designated area and capture any intruders. They attempt to do this by swarming over their enemies, before latching onto their bodies and emitting a piercing shriek to alert other security drones. Grimpets will not pursue beyond the boundaries of the ruin they guard."
+        },
+        {
+          "title": "Latch",
+          "content": "a latched Grimpet has burrowed its clawed legs deep into the flesh of its foe, and will cling on indefinitely. Afflicted PCs must fill one item slot with a Wound: 'Grimpet'. While latched to an intruder, the Grimpet emits a horrid wail, which attracts the attention of all monsters within earshot. The Grimpet will resist attempts to prise it off, and requires surgical attention."
+        }
+      ]
+    },
+    {
+      "name": "Grimweaver",
+      "type": "Synthetic",
+      "level": "3",
+      "armour": "16",
+      "morale": "10",
+      "appearing": "d3 (+ d10 Grimpets)",
+      "attacks": "Bite (d8) / Web Shot (Entangled + d4 STR drain)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A larger, more powerful cousin of the Grimpet, Grimweavers were created as sentinels for ancient sites. They spit a nanofibre web that can ensnare even the strongest of creatures, immobilising an intruder and draining their strength. They are rarely encountered alone, instead leading swarms of Grimpet drones. Grimweavers will not pursue beyond the boundaries of the ruin they guard."
+        },
+        {
+          "title": "Entangled",
+          "content": "an Entangled creature has an Armour Defence of 09, and cannot move freely. The target must make a DEX save to break free."
+        }
+      ]
+    },
+    {
+      "name": "Gruk",
+      "type": "Biological",
+      "level": "0 (1 HP)",
+      "armour": "14",
+      "morale": "0",
+      "appearing": "2d8",
+      "attacks": "Bite (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Diminutive abhumans, which resemble bipedal mole-rats. They dress in hooded robes to shield their hairless scalps from the sun. Gruks are eusocial creatures, dwelling in underground hives of 8d10 individuals. A single fertile Queen bears litters of sterile, short-lived children, who shoulder the work of the hive: digging tunnels, farming fungus, and keeping their mother safe from attack. When the reigning Queen dies the hive splits, the suitors of each newly-fertile Princess striking out across the desert in search of a new home. Gruks are intelligent, although not very imaginative. They utilise scavenged technology, but cannot learn from what they find. They are born knowing how to make standardised furniture and clothing, and grow uneasy when asked to deviate from these forms. A Gruk would prefer to sleep on the floor than in a bed with an unfamiliar shape."
+        }
+      ]
+    },
+    {
+      "name": "Hagfluke",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "7",
+      "appearing": "d6",
+      "attacks": "Siphon (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Sinuous parasites with the faces of fanged crones. With each successful attack on a Biological target they gain 1 Level and heal d6 HP."
+        }
+      ]
+    },
+    {
+      "name": "Harlequin Serpent",
+      "type": "Biological",
+      "level": "3",
+      "armour": "15",
+      "morale": "7",
+      "appearing": "1",
+      "attacks": "Bite (d8) / Venom Spray",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Large desert snakes, with colouration on their heads that resembles the makeup worn by sacred fools. Their venom forces a CON save; failure results in a convulsive laughter-like reaction to the serpent’s neurotoxins. Afflicted creatures laugh for d6 hours; they cannot speak until the venom wears off."
+        }
+      ]
+    },
+    {
+      "name": "Hegemony Centurion",
+      "type": "Biological",
+      "level": "5",
+      "armour": "16",
+      "morale": "8",
+      "appearing": "1",
+      "attacks": "Autorifle (d8) + Rapier (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The Hegemony's officer caste are famed for their extravagant facial hair, their gaudy epaulettes, and their contempt for weakness. Legionaries in presence of Centurion use the Centurion’s morale score."
+        }
+      ]
+    },
+    {
+      "name": "Hegemony Legionary",
+      "type": "Biological",
+      "level": "2",
+      "armour": "14",
+      "morale": "6",
+      "appearing": "d8",
+      "attacks": "Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Red armoured true-kin soldiers. The backbone of the Hegemon's occupying forces in Vaarn. If outnumbered, will call for backup every second turn, summoning another d8 Legionaries."
+        }
+      ]
+    },
+    {
+      "name": "Hiveyman",
+      "type": "Biological",
+      "level": "3",
+      "armour": "12",
+      "morale": "8",
+      "appearing": "d6",
+      "attacks": "Bludgeon (d8) + Swarm Damage (d6 area, unblockable)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Human corpses that have been infested by fearsome colonies of Sable Bees. They crawl across the sands, their bellies swollen with a throbbing hive structure. The angry bees deal d6 unblockable damage per round to everyone in reach."
+        }
+      ]
+    },
+    {
+      "name": "Hollow Maiden",
+      "type": "Hypergeometric",
+      "level": "3",
+      "armour": "13",
+      "morale": "9",
+      "appearing": "d4",
+      "attacks": "Claws (d8) / Special Grab",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the hypergeometric rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out. Hollow Maidens ignore all even-numbered damage rolls."
+        }
+      ]
+    },
+    {
+      "name": "Hydra Colony",
+      "type": "Biological",
+      "level": "20",
+      "armour": "09",
+      "morale": "Immobile; Ca",
+      "appearing": "1",
+      "attacks": "via d3 Hydra Tentacles + Fresh Growth (special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A vast immobile colony of semi-intelligent hydrozoa. A mature Hydra is a mass of translucent blue jelly, roughly the size and weight of an adult elephant. The colony takes root in an aquatic environment and exudes hunting tentacles to ensnare prey, destined to be absorbed by the bulk of the colony. The Hydra Colony regenerates 10 hp per round unless burnt or doused in acid."
+        },
+        {
+          "title": "Fresh Growth",
+          "content": "the colony spends 20 hp to produce a new Hydra Tentacle. This may be performed once per round."
+        }
+      ]
+    },
+    {
+      "name": "Hydra Polyp",
+      "type": "Biological",
+      "level": "2",
+      "armour": "12",
+      "morale": "10",
+      "appearing": "d8 per Colo",
+      "attacks": "Engulf (d6 ongoing, STR save to break free)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The slow-moving offshoot of a Hydra colony. Lurid blue, translucent jelly-flesh. The Polyp seeks to absorb enough biomass to root and establish a fully-fledged colony. Hydra Polyps regenerate 2 hp per round unless burnt or doused in acid."
+        }
+      ]
+    },
+    {
+      "name": "Hydra Tentacle",
+      "type": "Biological",
+      "level": "7",
+      "armour": "17",
+      "morale": "10",
+      "appearing": "d3 per Colo",
+      "attacks": "Strangle (d10 ongoing, STR save to break free)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The hunting appendage of a Hydra colony. Lurid blue, translucent jelly-flesh. Hydra tentacles are fast-moving, strong, and fearless. The tentacles are blind but have acute hearing, and attempt to throttle their prey, and draw them down into the main body of the colony to be devoured. Hydra Tentacles regenerate 4 hp per round unless burnt or doused in acid. If severed they reanimate within an hour."
+        }
+      ]
+    },
+    {
+      "name": "Indigo Servitor",
+      "type": "Biological",
+      "level": "1",
+      "armour": "11",
+      "morale": "n/a",
+      "appearing": "d8",
+      "attacks": "Bludgeon (d4) or As Weapon",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "An indigo-robed corpse, re-animated by the necrotech implants of the College of Indigo Tigers. Obeys the wearer of a Dominion Ring without question. Mute, obedient, fearless."
+        }
+      ]
+    },
+    {
+      "name": "Iridium Vulture",
+      "type": "Synthetic",
+      "level": "2",
+      "armour": "16",
+      "morale": "3",
+      "appearing": "d6",
+      "attacks": "Claws (d6) / Corpseshuck (takes one round, instant death when target at 0 HP)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Silvery synthetic carrion eaters that ride the air currents above the blue sands, scent-sensors attuned for the slightest hint of decay. They are not interested in living beings, but will attack to defend a carcass."
+        },
+        {
+          "title": "Corpseshuck",
+          "content": "Iridium Vultures fanatically attack biological PCs who fall to 0 HP or less, attempting to break their body open and drain out the innards. This lethal attack takes a whole combat round to execute and can be interrupted by other PCs"
+        }
+      ]
+    },
+    {
+      "name": "Juggernaut",
+      "type": "Synthetic",
+      "level": "8",
+      "armour": "22",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Crush (d12)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets, but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire, and in so doing make them one with its ever-roving axis."
+        }
+      ]
+    },
+    {
+      "name": "Kerberos",
+      "type": "Synthetic",
+      "level": "3",
+      "armour": "15",
+      "morale": "7",
+      "appearing": "d6",
+      "attacks": "Bite (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The platonic ideal of a hound, a faithful companion forged from plasteel and synthskin. The Kerberos is designed to bond with one primary user, and will obey their every command. A Kerberos synth is compassionate, intelligent, and devoted: once thought the ideal gift for a nobleborn child. Sadly the designers of this machine did not consider the effect upon the Kerberos unit when its bonded user died of old age. Grief-stricken packs of synth-hounds wander the blue ruins, howling to the ailing sun and praying for the day their undying bodies fail them. Sometimes the beasts mistake a traveller for their lost master, although the inevitable discovery of their error can drive the synth-dogs into mad fits of rage."
+        },
+        {
+          "title": "Exotica",
+          "content": "an inactive Kerberos, still sealed in its factory packing, can serve as an item of Exotica. If a PC places a single drop of blood on the synth-hound's tongue, the Kerberos will awaken and bond with them, becoming the PC's loyal follower for the rest of the campaign."
+        }
+      ]
+    },
+    {
+      "name": "Lamigator",
+      "type": "Biological",
+      "level": "8",
+      "armour": "18",
+      "morale": "8",
+      "appearing": "1",
+      "attacks": "Bite (d6), followed by Deathroll (d10) in water",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Great pallid crocodilian coated in a symbiotic layer of living plastic. Following a successful bite, the Lamigator will deathroll its prey if it is in water. This deals d10 damage per turn with no to-hit roll needed. Victim must make an opposed STR save to break free."
+        }
+      ]
+    },
+    {
+      "name": "Laser Shrimp",
+      "type": "Synthetic",
+      "level": "1",
+      "armour": "10",
+      "morale": "1",
+      "appearing": "d6",
+      "attacks": "Lasers (d4 beam)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Small synthetic shrimp that fire lasers. They are often used as guard animals."
+        }
+      ]
+    },
+    {
+      "name": "Lazarus Guard",
+      "type": "Biological / Synthetic",
+      "level": "6",
+      "armour": "14",
+      "morale": "Never Flees",
+      "appearing": "d6",
+      "attacks": "2 x Claws (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A desiccated human corpse, filled with necrotech implants that preserve a sort of life-in-death for the unlucky host. So-called ‘Lazarus Regiments’ were created from the corpses of criminals to guard the tombs of Autarchy nobles. Veins of black gallium pulse beneath parchment-like skin, and their despairing eyes resemble sable stones."
+        },
+        {
+          "title": "Resurrection",
+          "content": "Lazarus Guards will resurrect after 3 combat rounds if slain, the black cyborg hearts within their breasts unwilling to let their hosts die. These hearts must be cut from the guard’s body and destroyed in order to stop the resurrection. Once the secret is known, players may wish to target the guard’s heart directly. The cyborg organ has 1 HP and Armour 20."
+        }
+      ]
+    },
+    {
+      "name": "Leopard Worm",
+      "type": "Biological",
+      "level": "6",
+      "armour": "15",
+      "morale": "9",
+      "appearing": "d4",
+      "attacks": "Bite (d8) + Glue Spit",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Sinuous ambush predators. The worm's gluey spit is highly adhesive; when covered in spit all STR and DEX rolls are at disadvantage. The spit is dissolved by salt water."
+        }
+      ]
+    },
+    {
+      "name": "Lithling Scholar",
+      "type": "Mineral",
+      "level": "6",
+      "armour": "24",
+      "morale": "5",
+      "appearing": "1",
+      "attacks": "Swipe (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Wandering scholar from the Lithic Lyceum. Generally pacifists, and have little desire to harm living beings. Will attempt to reason with their assailants, even during deadly combat."
+        }
+      ]
+    },
+    {
+      "name": "Lizard Lion",
+      "type": "Biological",
+      "level": "2",
+      "armour": "16",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Bite (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Frill-necked reptiles. Ill-tempered, territorial, like a crocodile that can sprint. Their skin is highly prized as a material for boots."
+        }
+      ]
+    },
+    {
+      "name": "Lurid Lobster",
+      "type": "Biological",
+      "level": "6",
+      "armour": "18",
+      "morale": "6",
+      "appearing": "1",
+      "attacks": "Claw (d8) + Claw (d8) / Lurid Spray (blast, CON save vs d6 rounds of Blindness)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "An enormous, ill-tempered lobster with an abdomen filled with luminous toxins. The creature ambushes prey from underwater, spewing incandescent ink everywhere before attempting to grab a single group member and escape with the living prize."
+        },
+        {
+          "title": "Blindness",
+          "content": "Characters blinded by the Lobster’s spit make melee attacks with Disadvantage. They cannot use ranged weapons."
+        }
+      ]
+    },
+    {
+      "name": "Luxfoe Beetle",
+      "type": "Biological",
+      "level": "1",
+      "armour": "13",
+      "morale": "1",
+      "appearing": "d8",
+      "attacks": "Bite (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A nocturnal insect, enraged by artificial light. The beetle has a hard dark carapace and long, sharp mandibles. It will relentlessly attack any lantern or torch-bearing hand it comes across. Sometimes called helldiver bugs, due to their ill-fated penchant for assaulting the embers of a campfire."
+        }
+      ]
+    },
+    {
+      "name": "Mandrake",
+      "type": "Biological",
+      "level": "2",
+      "armour": "12",
+      "morale": "6",
+      "appearing": "d6",
+      "attacks": "Claws (d6) + Parasite Seeds (CON save vs Incubation)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Small, humanoid creatures, half-plant and half-crazed child. Hated due to their parasitic reproductive cycle. Mandrakes rest underground by day, before emerging from the desert soil by night to go hunting. Their aim is to cause humans to ingest their seeds, which will germinate into new Mandrakes."
+        },
+        {
+          "title": "Incubation",
+          "content": "The afflicted character fills an item slot with a Wound: ‘Incubating Mandrake’. Each day the Wound goes untreated, a new item slot is filled by an Incubating Mandrake. After seven days, the Mandrakes burrow out of the character, causing d6 damage per item slot occupied."
+        }
+      ]
+    },
+    {
+      "name": "Memory Eater",
+      "type": "Synthetic",
+      "level": "3",
+      "armour": "15",
+      "morale": "6",
+      "appearing": "d6",
+      "attacks": "Special Grab",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Biomechanical memory vampire. Like a giant mosquito cast from living steel. Cranial-bore proboscis drains d6 INT from target per round."
+        }
+      ]
+    },
+    {
+      "name": "Moonbeast (Imago)",
+      "type": "Outsider / Psychic",
+      "level": "5",
+      "armour": "16",
+      "morale": "10",
+      "appearing": "d4 (+d6",
+      "attacks": "Lunatic Gaze (EGO Save vs d6 EGO damage) / Radioactive Vomit (Blast, d8 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Luna, once the stepping stone to the stars, was lost to the Autarchs and is no longer under the dominion of man. The squamous pallid monstrosities known as ‘Moonbeasts’ may be the cause of this defeat or merely a symptom of it; in either case the creatures are inimical to humanity, hated interlopers that dwell in flooded caverns below Luna’s surface. They are somewhat like a toad and somewhat like an insect, although such phrases only capture a fragment of their extra-dimensional morphology."
+        }
+      ]
+    },
+    {
+      "name": "Moonbeast (Nymph)",
+      "type": "Outsider / Psychic",
+      "level": "2",
+      "armour": "12",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Lashing Tendrils (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The immature form of a Moonbeast. Lacking limbs or the projectile vomiting of their parents, they instead swarm over their prey and drain the life from their bodies with questing tendrils."
+        }
+      ]
+    },
+    {
+      "name": "Mournfrog",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "2",
+      "appearing": "d6",
+      "attacks": "Bite (d6) / Despair Gas (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them."
+        },
+        {
+          "title": "Despair Gas",
+          "content": "Affected biological creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action."
+        }
+      ]
+    },
+    {
+      "name": "Mycolossus",
+      "type": "Fungal",
+      "level": "8",
+      "armour": "16",
+      "morale": "9",
+      "appearing": "1",
+      "attacks": "2 x Claw (d8) + Body Slam (2d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A towering amalgam of necrotic flesh and mycomorphic fungal tissue. Mycolossi are formed from up to a dozen humanoid corpses, crudely fused into a large, brutish mass. They are fast-moving, voracious, and completely insane. Choking clouds of spores portend the giant’s approach."
+        },
+        {
+          "title": "Spore Shroud",
+          "content": "those in melee range of the Mycolossus take d6 automatic choking damage per round."
+        },
+        {
+          "title": "Sun-fearing",
+          "content": "Mycolossi must make a Morale save to fight in sunlight."
+        }
+      ]
+    },
+    {
+      "name": "Negativfolk",
+      "type": "Outsider",
+      "level": "2",
+      "armour": "12",
+      "morale": "5",
+      "appearing": "d8",
+      "attacks": "Hug (d6 damage) / Knife (d6 heal)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Inverted, photonegative-hued people who walk and speak backwards. They wander the blue dunes in family groups, receding from their point of origin in strange halting meanders."
+        },
+        {
+          "title": "Opposite Day",
+          "content": "Negativfolk always do the opposite of what you ask them, and make every action in reverse. They eject un-chewed food back onto empty plates, blue negativblood flows back into their wounds, and the less said about other private functions the better. They react poorly to compliments, hugging or shaking the hand of their foes with lethal results. Hurling abuse at a Negativman may earn you a healing bullet between the eyes. Negativfolk can only be harmed with healing items, and will be healed by damage."
+        }
+      ]
+    },
+    {
+      "name": "Nerve Crawler",
+      "type": "Synthetic",
+      "level": "1",
+      "armour": "12",
+      "morale": "10",
+      "appearing": "d8",
+      "attacks": "Nerve-lash (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Victims of an insidious nanotech infestation, Nerve Crawlers are decaying human corpses whose neural pathways have been supplanted by a virulent nexus of silvery nano-nerves. These revenants crawl on their hands and knees, stiffly and slowly, seeking new hosts for the infection. When in range of prey, whips of silver nano-nerve burst from their spinal cord, lacerating anything in reach."
+        }
+      ]
+    },
+    {
+      "name": "Occulith",
+      "type": "Mineral",
+      "level": "12",
+      "armour": "20",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Lithifying Gaze (auto-hit, d6 DEX drain, +2 Armour)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A great grey serpent, cast from innumerable scales of living shale. In the stony hollows of its stalactite-fanged skull, twin baleful lanterns cast a metamorphic gaze upon the tender flesh of the world."
+        },
+        {
+          "title": "Lithifying Gaze",
+          "content": "automatically hits a target in line of sight. Target loses d6 DEX and gains +2 Armour per round; must break line of sight to stop the attack. Both effects fade at the rate of one point per day. An Occulith is immune to its own gaze."
+        },
+        {
+          "title": "Surprise",
+          "content": "the Occulith appears to be inanimate stone until it moves, and always surprises unless the PCs are informed of its exact location."
+        }
+      ]
+    },
+    {
+      "name": "Parched Man's Snare",
+      "type": "Biological",
+      "level": "4",
+      "armour": "16",
+      "morale": "Rooted, Ca",
+      "appearing": "d4",
+      "attacks": "Snare (d6), followed by drowning (STR save vs d6 damage per round)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A giant, carnivorous plant that lurks in pools and oases, waiting to devour unwary travellers. The fleshy body of the Snare roots at the bottom of a pool, while its thorny vines trail in the water, moving towards any disturbances. The Snare hunts by grabbing animals while they drink and dragging them to the bottom of the lake or river, there to be drowned and absorbed into the Snare’s root structure. Cautious travellers know to test the water’s surface with a long pole before drinking, but those who have lost their wits from thirst find themselves easy prey to these plants."
+        }
+      ]
+    },
+    {
+      "name": "Phase Panther",
+      "type": "Hypergeometric",
+      "level": "6",
+      "armour": "14",
+      "morale": "11",
+      "appearing": "d4",
+      "attacks": "Claws (d10 hypergeometric) / Pounce",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Creatures woven from predatory hypergeometry, summoned by the mystics of lost eras to guard their mansions. They resemble great cats made of swirling colours, and can phase in and out of existence at will."
+        },
+        {
+          "title": "Phase",
+          "content": "At the start of each combat round, the Phase Panther may choose to phase out of reality. While phased, the panther can be seen but cannot be touched or damaged; it likewise cannot touch or harm any non-phased creature."
+        },
+        {
+          "title": "Pounce",
+          "content": "Targets of the Panther’s pounce must make an opposed DEX save; failure means that the target is pinned and will take 2d6 damage per round until the Panther can be dissuaded from mauling them."
+        }
+      ]
+    },
+    {
+      "name": "Phthalo-Jackal",
+      "type": "Biological",
+      "level": "1",
+      "armour": "14",
+      "morale": "4 (1)",
+      "appearing": "3d6",
+      "attacks": "Bite (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Cautious, clever, cerulean-coated pack hunters. Morale drops when outnumbered."
+        }
+      ]
+    },
+    {
+      "name": "Planeyfolk",
+      "type": "Hypergeometric",
+      "level": "2",
+      "armour": "13",
+      "morale": "4",
+      "appearing": "d6",
+      "attacks": "STR drain (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Hypergeometric humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This hypergeometric effect fades over time. Planeyfolk ignore all even-numbered damage rolls."
+        }
+      ]
+    },
+    {
+      "name": "Pontiff Scorpion",
+      "type": "Biological",
+      "level": "2",
+      "armour": "15",
+      "morale": "2",
+      "appearing": "1",
+      "attacks": "Claw (d4) + Claw (d4) + Sting (d10 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Named for its colouring, which resembles the red armour worn by the battle-crazed Pontiffs of the Church of the Everbleeding Wound. These scorpions are nocturnal predators, usually encountered in Vaarn’s southern badlands and the foothills of the Mooncradle Mountains. Adults have been seen to grow to four feet in length, smaller than the Giant Azure Scorpions of the Interior, but still perfectly capable of overpowering a goat or its herdsman."
+        }
+      ]
+    },
+    {
+      "name": "Prism Drone",
+      "type": "Synthetic / Mineral",
+      "level": "3",
+      "armour": "16",
+      "morale": "7",
+      "appearing": "d3 (with Prism Strider)",
+      "attacks": "Prismatic Ray (d10 beam) / Repair Protocol (+d8 HP to Synthetic target)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Small tripedal servitors that accompany Prism Striders into battle, providing recon and repairs for the towering attack synths. Their repeater ray-emitters are used to aim and supercharge the beams fired from their parent unit."
+        }
+      ]
+    },
+    {
+      "name": "Prism Strider",
+      "type": "Synthetic / Mineral",
+      "level": "9",
+      "armour": "18",
+      "morale": "10",
+      "appearing": "1 (with d3 Prism Dro",
+      "attacks": "3 x Trample (d8) / Prismatic Array (d10 beam, +3 to hit and +d6 damage per active Drone)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Colossal war machines from the Long Ago, built to incinerate entire armies from afar. A tripod of spindle-sharp legs supports a humming cradle of death-ray prisms. These war-synths travel with an entourage of smaller Drones, drawing additional accuracy and power from each servitor."
+        }
+      ]
+    },
+    {
+      "name": "Quicksilver Exterminator",
+      "type": "Synthetic",
+      "level": "10",
+      "armour": "20",
+      "morale": "15",
+      "appearing": "1",
+      "attacks": "Slash (d12) + Laser Eyes (d10 beam)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Merciless shapeshifting liquid metal war-synth. Immune to kinetic damage, fire, acid, radiation, and all poisons. Can only be harmed with extreme cold, or with hypergeometric weapons."
+        }
+      ]
+    },
+    {
+      "name": "Quill Spider",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Bite (d6) + Quill Spray (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Loathsome arachnid, with a bloated body that bristles with hollow quills like those of a porcupine. When threatened it will rapidly brush its back legs across its back, showering the surrounding area with quills. Quill-spiders are not venomous and rely on brute strength to subdue their prey, breaking the necks of addax and phthalo-jackals and dragging them into sheltered burrows to be devoured. These creatures are a menace to travellers in the Interior: they are inquisitive, fast-moving, aggressive, and will devour anything that fails to outrun them or fight them off."
+        }
+      ]
+    },
+    {
+      "name": "Regenerator",
+      "type": "Biological",
+      "level": "6",
+      "armour": "15",
+      "morale": "6",
+      "appearing": "d6",
+      "attacks": "Claw (d6) + Claw (d6) + Bite (d8) if both claws hit same target",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Towering tumorous mutant. Will regenerate d8 HP per round unless burned or covered in acid."
+        }
+      ]
+    },
+    {
+      "name": "Rustacean",
+      "type": "Biological / Synthetic",
+      "level": "4",
+      "armour": "18",
+      "morale": "5",
+      "appearing": "1",
+      "attacks": "Big Claw (d10, corrosive) + Small Claw (d6, corrosive)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A crab-like amalgam of chitinous shell and rampant nanotech. The Rustacean feeds on metal corroded by its unusual biology. It is highly territorial and will attack non-metallic creatures as part of a dominance display."
+        },
+        {
+          "title": "Corrosion",
+          "content": "a hit from the Rustacean’s claws will corrode a metal item in the target’s inventory, rendering it useless. Armour corroded in this fashion loses -1 Defence per hit. Synthetic PCs damaged by corrosive claws also suffer d4 CON loss. If there is debate about which item should be corroded by a hit, flip a coin. On heads the players choose, on tails the Rustacean does."
+        }
+      ]
+    },
+    {
+      "name": "Sandworm (Adult)",
+      "type": "Biological",
+      "level": "50 (200 HP)",
+      "armour": "25",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Slam (5d10) / Swallow Whole",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The grandest inhabitant of the Interior. Adult sandworms have no natural predators, and have a lifespan of several millennia. They do not usually notice human-sized travellers, but will attack noisy vehicles if provoked. They will usually seek to swallow the offending machine whole."
+        }
+      ]
+    },
+    {
+      "name": "Sandworm (Juvenile)",
+      "type": "Biological",
+      "level": "8",
+      "armour": "18",
+      "morale": "9",
+      "appearing": "1",
+      "attacks": "Slam (2d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab",
+      "type": "Biological",
+      "level": "0 (1 HP)",
+      "armour": "12",
+      "morale": "2",
+      "appearing": "d10",
+      "attacks": "Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A reviled parasite, somewhat like a flabby shell-less crab, which seeks to latch onto the skull of a human being and chew through it, taking control of their brain. Characters reduced to 0 EGO by the Scullcrab become a Zombie, still conscious but unable to control their body, piloted around by the parasite."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab, Fast",
+      "type": "Biological",
+      "level": "0 (1 HP)",
+      "armour": "16",
+      "morale": "2",
+      "appearing": "d10",
+      "attacks": "Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A lanky, fast-moving variant of the Scullcrab. Likely a weaponised evolution of its slower cousin. Characters reduced to 0 EGO by the Fast Scullcrab become a Fast Zombie, still conscious but unable to control their body, piloted around by the parasite."
+        },
+        {
+          "title": "Fast",
+          "content": "Fast Scullcrabs always win initiative."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab, Toxic",
+      "type": "Biological",
+      "level": "0 (1 HP)",
+      "armour": "13",
+      "morale": "2",
+      "appearing": "d4",
+      "attacks": "Bite (CON Save vs Neurotoxin) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A long-legged, black-fleshed variant of the Scullcrab, sporting large poisonous fangs. Likely a weaponised evolution of its non-toxic cousin. Characters reduced to 0 EGO by the Toxic Scullcrab become a Toxic Zombie, still conscious but unable to control their body, piloted around by the parasite."
+        },
+        {
+          "title": "Neurotoxin",
+          "content": "biological creatures inflicted with neurotoxin lose all remaining HP. If inflicted with neurotoxin while in negative HP, the character dies immediately."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab Zombie",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "Never Flees",
+      "appearing": "d8",
+      "attacks": "Claws (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "What was once a human being, now puppeted by a Scullcrab, twisted by its rider into a goresoaked, dagger-clawed husk. A zombie is forced to seek out new victims for the parasites. Slow moving, relentless, and utterly without fear or mercy."
+        },
+        {
+          "title": "Abandon Ship",
+          "content": "on death, the Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this."
+        },
+        {
+          "title": "Slow",
+          "content": "Zombies always lose initiative."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab Zombie, Fast",
+      "type": "Biological",
+      "level": "4",
+      "armour": "15",
+      "morale": "Never Flees",
+      "appearing": "d6",
+      "attacks": "2 x Claws (d8)/ Pounce (DEX save vs Pinned, 2d6 damage ongoing)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Fast Scullcrabs impose a metamorphic horror on their hosts. The zombie’s body sheds skin and fat, becoming a lanky, elongated nightmare of muscle and exposed bone. Razorous claws complete the picture. Fast Zombies are adept climbers and swimmers, unlike their slower relatives."
+        },
+        {
+          "title": "Abandon Ship",
+          "content": "on death, the Fast Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this."
+        },
+        {
+          "title": "Fast",
+          "content": "Fast Zombies always win initiative."
+        }
+      ]
+    },
+    {
+      "name": "Scullcrab Zombie, Toxic",
+      "type": "Biological",
+      "level": "5",
+      "armour": "16",
+      "morale": "Never Flees",
+      "appearing": "1",
+      "attacks": "2 x Claws (d8) / Toxic Scullcrab Fling (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Toxic Scullcrabs inflict monstrous degradations on the human beings they puppet, their host’s body bloating to twice its natural size due to the constant flow of neurotoxins into their flesh. Their swollen frames become nurseries for a new generation of Toxic Scullcrabs, which roost upon their hunched backs."
+        },
+        {
+          "title": "Toxic Scullcrab Fling",
+          "content": "the Zombie pulls a Toxic Scullcrab from its back and throws it at a target. On a hit, the target is bitten and must CON save vs Neurotoxin (see Toxic Scullcrab)."
+        },
+        {
+          "title": "Abandon Ship",
+          "content": "on death, d4 Toxic Scullcrabs eject from the zombie’s bpdy to seek a new host. Explosives or fire prevent this."
+        },
+        {
+          "title": "Slow",
+          "content": "Toxic Zombies always lose initiative."
+        }
+      ]
+    },
+    {
+      "name": "Scylla",
+      "type": "Biological",
+      "level": "12",
+      "armour": "18",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "8 x Tentacles (d8) / Ink Spray (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A gigantic hybrid of woman and octopus, with eight writhing tentacles. One of the terrible Brides of Rahab, who luxuriate in the abyssal darks of Vaarn’s oceans and pray for the death of the sun."
+        },
+        {
+          "title": "Ink Spray",
+          "content": "all opponents must DEX save. On failure, they are coated in cloying ink for d4 turns. While coated, they cannot regain HP, and suffer double damage from all sources."
+        }
+      ]
+    },
+    {
+      "name": "Scythesliver",
+      "type": "Hypergeometric / Synthetic",
+      "level": "5",
+      "armour": "15",
+      "morale": "10",
+      "appearing": "d4",
+      "attacks": "2 x Blades (d10)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "The Ideal Image of Sharpness, an ever-morphing cruciform of hypergeometric metal that cuts through the hardest armour like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults."
+        },
+        {
+          "title": "Sharpness Beyond Measure",
+          "content": "Scytheslivers can cut through any material, and hit as though their target were unarmoured (Armour 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: Severed Limb (3 Slots, -10 STR, -10 DEX)."
+        }
+      ]
+    },
+    {
+      "name": "Shriekman",
+      "type": "Biological",
+      "level": "3",
+      "armour": "13",
+      "morale": "7",
+      "appearing": "d8",
+      "attacks": "2 x Claws (d8) / Hypersonic Scream (d6 + DEX save vs Deafened)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Abhuman troglodytes, blind and cunning. Their protruding ears and fanged maws give them a grotesque bat-like aspect. They are excellent climbers and can attack from any angle within the depths they inhabit."
+        },
+        {
+          "title": "Deafened",
+          "content": "PCs who have been deafened by a hypersonic scream gain the Wound ‘Deafened’. They cannot hear the speech of other PCs. When the party rests, Deafened PCs must EGO save to ignore the ringing in their ears and fall asleep. If they fail they do not benefit from a Long Rest."
+        }
+      ]
+    },
+    {
+      "name": "Spectre of Indifference",
+      "type": "Outsider",
+      "level": "1",
+      "armour": "11",
+      "morale": "15",
+      "appearing": "d3",
+      "attacks": "Envelop (d8 EGO drain)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A living fragment of the void between dimensions. A ghastly, hue-less shroud of antilife that feeds upon conscious thought. Encountered near extra-dimensional rifts. For reasons unknown, they cannot feed on children or be perceived by them."
+        },
+        {
+          "title": "Incorporeal",
+          "content": "a Spectre is immune to damage from conventional sources. Only hypergeometric or anti-paradoxical weapons will harm it."
+        },
+        {
+          "title": "Indifference",
+          "content": "those reduced to 0 EGO by a Spectre’s touch do not die, but are empty of intent and consumed by a terrible blankness. They will not react to any stimuli, and die of thirst without intravenous fluids."
+        }
+      ]
+    },
+    {
+      "name": "Star Vampire",
+      "type": "Outsider",
+      "level": "6",
+      "armour": "25 (15 Visible)",
+      "morale": "10",
+      "appearing": "d3",
+      "attacks": "2 x Tentacles (d8) / Latch (d4 CON drain)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "To Urth they came, long hungering, riding radiation-waves in the silence like fungal spores roil upon the wind. Our light does not love them as it does terrestrial creatures and so these cosmic vagrants are without shadow or hue possessing only unseen form. Those unfortunates who glimpse them are given mind of a withered tree or an octopus inverted and affixed with needles. In their hunger they offer travellers an embrace and flush sunset red when distended with fluid."
+        },
+        {
+          "title": "Invisible",
+          "content": "Star Vampires are invisible under conventional light sources. Infrared or ulfire light will reveal their true shapes. Once the Vampire latches and begins feeding the creature is visible, as red blood flows through its occluded body. When visible their Armour Defense drops to 15. Star Vampires always surprise when encountered."
+        },
+        {
+          "title": "Star Flesh",
+          "content": "the Vampire takes minimum damage from kinetic attacks. Hypergeometric and electrified weapons deal damage as normal."
+        }
+      ]
+    },
+    {
+      "name": "Stumbling Drone",
+      "type": "Synthetic",
+      "level": "2",
+      "armour": "13",
+      "morale": "8",
+      "appearing": "d6",
+      "attacks": "Plasma-rifle (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Staggering boxy war-synths. When flipped on their backs they cannot right themselves. When their plasma-rifle deals maximum damage they suffer equal damage from overheating."
+        }
+      ]
+    },
+    {
+      "name": "Subtle Stalker",
+      "type": "Synthetic",
+      "level": "3",
+      "armour": "22 (11)",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Slash (d8) + Slash (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Sadistic mantis-shaped synth. Permanently cloaked; always surprises unless opponents have infrared vision. If the cloaking field is disrupted, the Stalker’s Armour Defense drops to 11."
+        }
+      ]
+    },
+    {
+      "name": "Thermasaur",
+      "type": "Biological",
+      "level": "12",
+      "armour": "16",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "4 x Claws (d6) + Bite (2d6) + Aura (d8 unblockable, Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an armoured vehicle. It attacks from ambush and rapidly raises the temperature of its flesh to furnace-like levels, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption."
+        },
+        {
+          "title": "Aura",
+          "content": "Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged attacks are made with disadvantage due to shivering."
+        }
+      ]
+    },
+    {
+      "name": "Thornthrower Cactus",
+      "type": "Biological",
+      "level": "4",
+      "armour": "12",
+      "morale": "6",
+      "appearing": "d6",
+      "attacks": "2 x Thorn Fling (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Ferocious ambulatory cactus, covered in hollow spines the size of daggers. Thornthrowers kill by firing spines into the soft tissue of the throat, before taking root in the corpse and draining it of fluid."
+        },
+        {
+          "title": "Spines",
+          "content": "if an opponent misses a melee attack against the Thornthrower cactus, they take d4 damage from the long spines."
+        }
+      ]
+    },
+    {
+      "name": "Thunderstrike Bird",
+      "type": "Biological / Synthetic",
+      "level": "12",
+      "armour": "20 (15)",
+      "morale": "12",
+      "appearing": "1",
+      "attacks": "Harpoon (d12) / Talons (2d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Terrifying biomechanical predator. Will fire an electrical harpoon which punches straight through armour. Attempts to reel character back in - STR save to break free. Otherwise it pulls you up into the sky and tears at you with claws. Armour drops to 15 if grounded."
+        }
+      ]
+    },
+    {
+      "name": "Tiger Fly",
+      "type": "Biological",
+      "level": "2",
+      "armour": "13",
+      "morale": "5",
+      "appearing": "d6",
+      "attacks": "Sting (d8)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Dog-sized mutant wasps. Highly protective of their nests. If you kill one, d6 more Tiger Flies will arrive to investigate within three rounds."
+        }
+      ]
+    },
+    {
+      "name": "Troika",
+      "type": "Synthetic",
+      "level": "3",
+      "armour": "16",
+      "morale": "8",
+      "appearing": "d6",
+      "attacks": "Kick (d6) + Kick (d6) + Kick (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Pinwheel of synthetic legs that tumbles through the blue wastelands kicking everything it can find. Utterly inexplicable and widely hated."
+        }
+      ]
+    },
+    {
+      "name": "Tumblesnare",
+      "type": "Synthetic",
+      "level": "2",
+      "armour": "14",
+      "morale": "Always Flees",
+      "appearing": "d8",
+      "attacks": "Grab (followed by rolling damage)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike. After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body. Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails."
+        }
+      ]
+    },
+    {
+      "name": "Viridian Ooze",
+      "type": "Fungal",
+      "level": "4",
+      "armour": "12",
+      "morale": "8",
+      "appearing": "1",
+      "attacks": "Engulf (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "An antic colony of green slime, like phlegm coughed from the throat of a ravenous god. The Ooze’s embrace marries digestion with cytokinesis, birthing heirs in seconds from the biomass consumed."
+        },
+        {
+          "title": "Engulf",
+          "content": "an engulfed biological creature loses d3 CON per round. Each successful engulf attack creates a new Viridian Ooze, with a Level equal to the CON lost. STR save to break free."
+        },
+        {
+          "title": "Resistance",
+          "content": "the Ooze takes half damage from kinetic attacks. It suffers 3d8 damage per round from exposure to extreme heat."
+        }
+      ]
+    },
+    {
+      "name": "Void Dragon",
+      "type": "Synthetic",
+      "level": "15",
+      "armour": "30",
+      "morale": "15",
+      "appearing": "1",
+      "attacks": "Annihilation Ray (2d10 + 3d6 blast)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "A gigantic flying war-synth, armoured with interlocking plates of void-tempered metal. Its multiple sets of wings are powered by a cold fusion reactor, and it emits a powerful beam of concentrated antimatter that can boil solid rock. The creature is geared to fight in the air, in orbit, beneath the waves, or inside a paradoxical pocket dimension with equal ferocity. These beings are always found dormant, conserving their energy for the apocalypse of all apocalypses, an extrasolar war that never broke out. Some sleep in high-altitude arbors orbiting the Urth, while others slumber upon great hoards of gleaming superconductors, in the deepest lead-lined warvaults beneath Vaarn. A few fools have sought to rouse these giants: none have returned to speak of it."
+        },
+        {
+          "title": "Enormous",
+          "content": "the Void Dragon is so large that PCs can enter its body through coolant vents, if they are able to attach themselves to its carapace as it flies. Finding the Dragon's core reactor and destroying it will send the creature into a lethal meltdown."
+        }
+      ]
+    },
+    {
+      "name": "Voidmaw",
+      "type": "Biological / Synthetic",
+      "level": "10",
+      "armour": "20",
+      "morale": "10",
+      "appearing": "1",
+      "attacks": "Bite (d12) + Swallow Whole (Special)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and synthetic void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender."
+        },
+        {
+          "title": "Swallow Whole",
+          "content": "If a Voidmaw’s attack roll exceeds the target’s Armour score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw."
+        }
+      ]
+    },
+    {
+      "name": "Walking Womb",
+      "type": "Biological",
+      "level": "5",
+      "armour": "11",
+      "morale": "10",
+      "appearing": "d4",
+      "attacks": "Slam (d6)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Shambling blind mound of pregnant flesh. On death, births d6 Foetal Predators (Level 1, Armour 13, d6 bite). Fire prevents this."
+        }
+      ]
+    },
+    {
+      "name": "Xanthous Mycomorph",
+      "type": "Fungal",
+      "level": "6",
+      "armour": "9",
+      "morale": "15 (3)",
+      "appearing": "1",
+      "attacks": "Slam (d8) + Spore Spray (d8 area)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make Morale Save at Morale 3 if burned."
+        }
+      ]
+    },
+    {
+      "name": "Xeric Triffid",
+      "type": "Biological",
+      "level": "1",
+      "armour": "12",
+      "morale": "10",
+      "appearing": "d10",
+      "attacks": "Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Walking, carnivorous plants, descended from a larger and more virulent species that was brought to Urth from the stars in a forgotten era. Xeric Triffids are adapted to a low moisture environment, with tough, thick skin and small waxy leaves. They remain rooted during the heat of the day, but become mobile at dawn and twilight, stalking on three large roots in search of prey."
+        },
+        {
+          "title": "Blindness",
+          "content": "Characters blinded by Triffid spit make melee attacks with Disadvantage. They cannot use ranged weapons."
+        }
+      ]
+    },
+    {
+      "name": "Yuckhog",
+      "type": "Biological",
+      "level": "1",
+      "armour": "13",
+      "morale": "1",
+      "appearing": "d6",
+      "attacks": "Gore (d6) / Yuckspray (d6 TOX)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Small, highly toxic wild pigs that root around in the garbage wastes of Ikor Quag. Their pelts are a delicate yellow in colour. When threatened, the Yuckhog spews out a foul-smelling corrosive gas which can severely damage the respiratory system."
+        }
+      ]
+    },
+    {
+      "name": "Yurling",
+      "type": "Biological / Fungal",
+      "level": "1",
+      "armour": "14",
+      "morale": "1",
+      "appearing": "2d6",
+      "attacks": "Bite (d4)",
+      "notes": [
+        {
+          "title": "Notes",
+          "content": "Tiny mischievous monkey-like mutants. Covered in symbiotic white fungus. Exclusively eat metal. If a Yurling scores a hit, instead of dealing damage it can choose to steal and devour a metal object from the target's inventory."
+        }
+      ]
+    }
   ]
 }
